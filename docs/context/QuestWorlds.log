@@ -399,7 +399,7 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) 
 backend         > export > fuzzy paragraph: C (U+00043) o (U+0006F) n (U+0006E) f (U+00066) u (U+00075) s (U+00073) i (U+00069) n (U+0006E) g (U+00067) [space] T (U+00054) i (U+00069) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037)
 backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) s (U+00073)
-backend         > export > fuzzy paragraph: a (U+00061) l (U+0006C) w (U+00077) a (U+00061) y (U+00079) s (U+00073) [space] a (U+00061) e (U+00065) c (U+00063) t (U+00074) [space] r (U+00072) e (U+00065) s (U+00073) u (U+00075) l (U+0006C) t (U+00074) s (U+00073) [space] n (U+0006E) o (U+0006F) t (U+00074) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073) , (U+0002C) [space] a (U+00061) l (U+0006C) t (U+00074) h (U+00068) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) h (U+00068) e (U+00065) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) [space] c (U+00063) o (U+0006F) u (U+00075) l (U+0006C) d (U+00064) [space] c (U+00063) h (U+00068) a (U+00061) n (U+0006E) g (U+00067) e (U+00065) [space] a (U+00061) s (U+00073) [space] a (U+00061) [space] e (U+00065) e (U+00065) c (U+00063) t (U+00074) [space] o (U+0006F) f (U+00066) [space] g (U+00067) a (U+00061) i (U+00069) n (U+0006E) i (U+00069) n (U+0006E) g (U+00067) [space] a (U+00061)
+backend         > export > fuzzy paragraph: a (U+00061) l (U+0006C) w (U+00077) a (U+00061) y (U+00079) s (U+00073) [space] a (U+00061) e (U+00065) c (U+00063) t (U+00074) [space] r (U+00072) e (U+00065) s (U+00073) u (U+00075) l (U+0006C) t (U+00074) s (U+00073) [space] n (U+0006E) o (U+0006F) t (U+00074) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073) , (U+0002C) [space] a (U+00061) l (U+0006C) t (U+00074) h (U+00068) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) h (U+00068) e (U+00065) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) [space] c (U+00063) o (U+0006F) u (U+00075) l (U+0006C) d (U+00064) [space] c (U+00063) h (U+00068) a (U+00061) n (U+0006E) g (U+00067) e (U+00065) [space] a (U+00061) s (U+00073) [space] a (U+00061) n (U+0006E) [space] e (U+00065) e (U+00065) c (U+00063) t (U+00074) [space] o (U+0006F) f (U+00066) [space] g (U+00067) a (U+00061) i (U+00069) n (U+0006E) i (U+00069) n (U+0006E) g (U+00067) [space] a (U+00061)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) [space] U (U+00055) p (U+00070) [space] w (U+00077) i (U+00069) t (U+00074) h (U+00068) [space] M (U+0004D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079)
 pages           > flushing realpage 19, userpage 19, subpage 19
@@ -1669,10 +1669,10 @@ system          > stop used files
 system          > start commandline options
 
 system          > autogenerate="true"
-system          > currentrun="1"
+system          > currentrun="3"
 system          > fulljobname="./QuestWorlds.tex"
 system          > input="./QuestWorlds.tex"
-system          > kindofrun="1"
+system          > kindofrun="2"
 system          > maxnofruns="9"
 system          > synctex="1"
 system          > texmfbinpath="/usr/local/texlive/2020/bin/x86_64-darwin"
@@ -1695,35 +1695,35 @@ modules         > stop used modules
 
 mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable+writable: '/Users/kynnin/Library/texlive/2020/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
-mkiv lua stats  > resource resolver: loadtime 0.137 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 30 found files, scanned paths: /Users/kynnin/Library/texmf
-mkiv lua stats  > stored bytecode data: 450 modules (0.335 sec), 93 tables (0.013 sec), 543 chunks (0.347 sec)
+mkiv lua stats  > resource resolver: loadtime 0.132 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 30 found files, scanned paths: /Users/kynnin/Library/texmf
+mkiv lua stats  > stored bytecode data: 450 modules (0.319 sec), 93 tables (0.015 sec), 543 chunks (0.334 sec)
 mkiv lua stats  > traced context: maxstack: 1399, freed: 1, unreachable: 1398
 mkiv lua stats  > cleaned up reserved nodes: 61 nodes, 9 lists of 442
 mkiv lua stats  > node memory usage: 2372 attribute, 477 attribute_list, 6 glue, 52 glue_spec, 3 kern, 5 penalty, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 241 instances (re)created, 23466 calls
-mkiv lua stats  > h-node processing time: 1.576 seconds including kernel
-mkiv lua stats  > inserted spaces in output: 33045
-mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 10564 objects flushed, logfile: QuestWorlds.synctex
-mkiv lua stats  > attribute processing time: 0.116 seconds front- and backend
-mkiv lua stats  > driver time: 0.227 seconds 
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 241 instances (re)created, 23467 calls
+mkiv lua stats  > h-node processing time: 1.542 seconds including kernel
+mkiv lua stats  > inserted spaces in output: 33050
+mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 10568 objects flushed, logfile: QuestWorlds.synctex
+mkiv lua stats  > attribute processing time: 0.112 seconds front- and backend
+mkiv lua stats  > driver time: 0.218 seconds 
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.053 seconds saving, 0.014 seconds loading
-mkiv lua stats  > callbacks: internal: 41611, file: 8969, direct: 6, late: 13006, function 26900, total: 90492 (1191 per page)
+mkiv lua stats  > jobdata time: 0.056 seconds saving, 0.019 seconds loading
+mkiv lua stats  > callbacks: internal: 41613, file: 8970, direct: 6, late: 13010, function 26900, total: 90499 (1191 per page)
 mkiv lua stats  > randomizer: resumed with value 0.94498985214159
 mkiv lua stats  > positions: 1198 collected, 1182 regular, 16 special
-mkiv lua stats  > v-node processing time: 0.081 seconds 
+mkiv lua stats  > v-node processing time: 0.078 seconds 
 mkiv lua stats  > result saved in file: QuestWorlds.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > structure elements: 4247 element chains identified
 mkiv lua stats  > interactive elements: 179 references, 337 destinations
 mkiv lua stats  > margin data: 232 entries, 0 pending
 mkiv lua stats  > loaded fonts: 13 files: cmunbi.otf, cmunbx.otf, cmunrm.otf, cmunti.otf, ebgaramond-bold.otf, ebgaramond-bolditalic.otf, ebgaramond-italic.otf, ebgaramond-regular.otf, latinmodern-math.otf, lmmono10-regular.otf, lmsans10-bold.otf, lmsans10-boldoblique.otf, lmsans10-regular.otf
-mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 33 instances, 18 shared in backend, 0 common vectors, 18 common hashes, load time 0.364 seconds 
+mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 33 instances, 18 shared in backend, 0 common vectors, 18 common hashes, load time 0.345 seconds 
 mkiv lua stats  > graphics processing time: 0.002 seconds including tex, 2 processed images, 2 unique asked, 2 bad names
 mkiv lua stats  > pdf annotations: 179 links (179 unique), 0 special
 mkiv lua stats  > used platform: osx-ppc, type: unix, binary subtree: bin
 mkiv lua stats  > used engine: luatex version: 1.12, functionality level: 7306, banner: this is luatex, version 1.12.0 (tex live 2020)
-mkiv lua stats  > control sequences: 46476 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 230 MB, ctx: 227 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 5.659 seconds, 77 processed pages, 77 shipped pages, 13.607 pages/second
+mkiv lua stats  > control sequences: 46475 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 230 MB, ctx: 228 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 5.435 seconds, 77 processed pages, 77 shipped pages, 14.167 pages/second
 
