@@ -1,6 +1,7 @@
-% !TEX root = docs/context/QuestWorlds.tex
 % preamble.ctx
+% !TEX root = docs/context/QuestWorlds.tex
 
+% setup margins and layout
 \setuplayout[
 	topspace=18.5mm,
 	header=14mm,
@@ -8,6 +9,30 @@
 	height=241mm,
 	footer=10mm,
 	]
+
+% setup up EB Garamond to use Semibold
+\starttypescript [EBGaramond]
+  \definefontsynonym[EBGaramond-Regular]          [file:EBGaramond-Regular]
+  \definefontsynonym[EBGaramond-Italic]               [file:EBGaramond-Italic]
+%  % bold
+%  \definefontsynonym[EBGaramond-Bold]            [file:EBGaramond-Bold]
+%  \definefontsynonym[EBGaramond-BoldItalic]     [file:EBGaramond-BoldItalic]
+  % semibold
+  \definefontsynonym[EBGaramond-SemiBold]        [file:EBGaramond-SemiBold]
+  \definefontsynonym[EBGaramond-SemiBoldItalic] [file:EBGaramond-SemiBoldItalic]
+\stoptypescript
+
+\starttypescript [EBGaramond]
+  \setups[font:fallback:serif]
+  \definefontsynonym[Serif]                   [EBGaramond-Regular]           [features=default]
+  \definefontsynonym[SerifItalic]           [EBGaramond-Italic]                 [features=default]
+  \definefontsynonym[SerifBold]           [EBGaramond-SemiBold]          [features=default]
+  \definefontsynonym[SerifBoldItalic]    [EBGaramond-SemiBoldItalic]  [features=default]
+\stoptypescript
+
+\starttypescript [EBGaramond]
+  \definetypeface [EBGaramond][rm][serif][EBGaramond][default]
+\stoptypescript
 
 % basic header styling
 \setuphead[chapter]            [style=\tfc \bf \ss,page=no]
