@@ -73,4 +73,5 @@ EOF
 
 # echo "${VAR1}"
 cat $(echo "${VAR1}") > markdown/QuestWorlds.md
+echo "Markdown files compiled to markdown/QuestWorlds.md"
 
