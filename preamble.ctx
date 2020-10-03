@@ -10,29 +10,32 @@
 	footer=10mm,
 	]
 
-% setup up EB Garamond to use Semibold
-\starttypescript [EBGaramond]
-  \definefontsynonym[EBGaramond-Regular]          [file:EBGaramond-Regular]
-  \definefontsynonym[EBGaramond-Italic]               [file:EBGaramond-Italic]
-%  % bold
-%  \definefontsynonym[EBGaramond-Bold]            [file:EBGaramond-Bold]
-%  \definefontsynonym[EBGaramond-BoldItalic]     [file:EBGaramond-BoldItalic]
-  % semibold
-  \definefontsynonym[EBGaramond-SemiBold]        [file:EBGaramond-SemiBold]
-  \definefontsynonym[EBGaramond-SemiBoldItalic] [file:EBGaramond-SemiBoldItalic]
+%% setup up mainfont serif to use EB Garamond (with Semibold)
+\starttypescript [ebg]
+  \definefontsynonym[ebg-Regular]    [name:ebgaramondregular]
+  \definefontsynonym[ebg-Italic]     [name:ebgaramonditalic]
+  \definefontsynonym[ebg-Bold]       [name:ebgaramondsemibold]
+  \definefontsynonym[ebg-BoldItalic] [name:ebgaramondsemibolditalic]
 \stoptypescript
 
-\starttypescript [EBGaramond]
+\starttypescript [ebg]
   \setups[font:fallback:serif]
-  \definefontsynonym[Serif]                   [EBGaramond-Regular]           [features=default]
-  \definefontsynonym[SerifItalic]           [EBGaramond-Italic]                 [features=default]
-  \definefontsynonym[SerifBold]           [EBGaramond-SemiBold]          [features=default]
-  \definefontsynonym[SerifBoldItalic]    [EBGaramond-SemiBoldItalic]  [features=default]
+  \definefontsynonym[Serif]                [ebg-Regular]    [features=default]
+  \definefontsynonym[SerifItalic]          [ebg-Italic]     [features=default]
+  \definefontsynonym[SerifBold]            [ebg-Bold]       [features=default]
+  \definefontsynonym[SerifBoldItalic]      [ebg-BoldItalic] [features=default]
 \stoptypescript
 
-\starttypescript [EBGaramond]
-  \definetypeface [EBGaramond][rm][serif][EBGaramond][default]
+\starttypescript [ebg]
+  \definetypeface [ebg]    [rm] [serif] [ebg]    [default]
 \stoptypescript
+
+\definefontfamily[mainface][rm][ebg][%
+	tf=name:ebgaramondregular,
+	it=name:ebgaramonditalic,
+	bf=name:ebgaramondsemibold,
+	bi=name:ebgaramondsemibolditalic,
+	]
 
 % basic header styling
 \setuphead[chapter]            [style=\tfc \bf \ss,page=no]
@@ -217,11 +220,8 @@
    [%
         margin=1.3em,
         distance=1ex,
-%        stopper=,
-%        left=Idea ,
-%        right=:,
     ]
-    
+
 % glossary layout
 \define[1]\GlossaryTerm{#1:}
 \setupdescription
