@@ -1,0 +1,22 @@
+/* images for file QuestWorlds */
+
+@namespace context url('http://www.contextgarden.net/context/export') ;
+
+
+image[id="image-1"], div.image[id="image-1"] {
+    display           : block ;
+    background-image  : url('../images/QW-Stamp-Red.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 2.540cm ;
+    height            : 2.540cm ;
+}
+
+image[id="image-2"], div.image[id="image-2"] {
+    display           : block ;
+    background-image  : url('../images/QW-Stamp-Black.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 2.540cm ;
+    height            : 2.540cm ;
+}

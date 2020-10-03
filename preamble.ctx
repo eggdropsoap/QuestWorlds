@@ -1,0 +1,241 @@
+% preamble.ctx
+% !TEX root = docs/context/QuestWorlds.tex
+
+% setup margins and layout
+\setuplayout[
+	topspace=18.5mm,
+	header=14mm,
+	backspace=32mm,
+	height=241mm,
+	footer=10mm,
+	]
+
+%% setup up mainfont serif to use EB Garamond (with Semibold)
+\starttypescript [ebg]
+  \definefontsynonym[ebg-Regular]    [name:ebgaramondregular]
+  \definefontsynonym[ebg-Italic]     [name:ebgaramonditalic]
+  \definefontsynonym[ebg-Bold]       [name:ebgaramondsemibold]
+  \definefontsynonym[ebg-BoldItalic] [name:ebgaramondsemibolditalic]
+\stoptypescript
+
+\starttypescript [ebg]
+  \setups[font:fallback:serif]
+  \definefontsynonym[Serif]                [ebg-Regular]    [features=default]
+  \definefontsynonym[SerifItalic]          [ebg-Italic]     [features=default]
+  \definefontsynonym[SerifBold]            [ebg-Bold]       [features=default]
+  \definefontsynonym[SerifBoldItalic]      [ebg-BoldItalic] [features=default]
+\stoptypescript
+
+\starttypescript [ebg]
+  \definetypeface [ebg]    [rm] [serif] [ebg]    [default]
+\stoptypescript
+
+\definefontfamily[mainface][rm][ebg][%
+	tf=name:ebgaramondregular,
+	it=name:ebgaramonditalic,
+	bf=name:ebgaramondsemibold,
+	bi=name:ebgaramondsemibolditalic,
+	]
+
+% basic header styling
+\setuphead[chapter]            [style=\tfc \bf \ss,page=no]
+\setuphead[section]            [style=\tfb \bf \ss]
+\setuphead[subsection]         [style=\tfa \bf \ss]
+\setuphead[subsubsection]      [style=\bf \ss]
+\setuphead[subsubsubsection]   [style=\sc \ss]
+\setuphead[subsubsubsubsection][style=\it \ss]
+
+\definevspacing[Sm][4mm]
+\setupheads[chapter,section,subsection,subsubsection,subsubsubsection,subsubsubsubsection]%
+[before={\blank[Sm]},after={\blank[Sm]}]
+
+\setuphead[title][before={\blank[back,force]}]
+
+%\showgrid
+%\showstruts \showframe
+
+
+% ToC
+% alternative=c, space to the page number is filled with dots
+%\setupcombinedlist[content][list={chapter,section,subsection,subsubsection,subsubsubsection}, alternative=c,]
+\setupcombinedlist[content][list={chapter,section,subsection}, alternative=c,]
+
+% ToC indenting and alignments.
+%  - 	To left-align numbers of level n with the title of level n-1,
+%	margin of level n should equal margin+width+distance of level n-1.
+%	So, if adjusting dimensions, adjust all margins of lower levels too.
+%  - 	The width dimension should be wide enough to contain full x.x.x number,
+%	accounting also for sections with double digits (e.g. 10.3.7)
+\setuplist[chapter][margin=0mm,width=4ex,distance=1ex]
+\setuplist[section][margin=5ex,width=3.6ex,distance=1ex]
+\setuplist[subsection][margin=9.6ex,width=6.5ex,distance=1ex]
+%% pagestyle=normal for changing the appearance of pagenumber
+%\setuplist[subsubsection][margin=15ex,width=6ex,distance=1ex]
+%\setuplist[subsubsubsection][margin=22ex,width=7ex,distance=1ex]
+
+\setuplist[chapter][style={\bf\feature[+][SwashedQ]}]
+\setuplist[section][style={\feature[+][SwashedQ]}]
+% pagestyle=normal for changing the appearance of pagenumber
+\setuplist[subsubsection][style=slanted, pagestyle=normal]
+
+
+%% consistent-width page numbers in TOC
+
+% command to override both proportional width numbers and slanting
+\define\tfstyletabularnumbers{\tf \feature[+][tabularnumbers]}
+
+\setuplist[chapter][pagestyle={\feature[+][tabularnumbers]}]
+\setuplist[section][pagestyle={\feature[+][tabularnumbers]}]
+\setuplist[subsection][pagestyle={\feature[+][tabularnumbers]}]
+\setuplist[subsubsection][pagestyle={\tfstyletabularnumbers}]
+\setuplist[subsubsubsection][pagestyle={\feature[+][tabularnumbers]}]
+%% end pagenum
+
+
+%% set the section number into the outer margin
+\defineheadalternative
+  [newchapterhead]
+  [renderingsetup=newchapterhead]
+
+\startsetups newchapterhead
+    \vbox{%
+    	\inoutermargin{\headnumbercontent}
+    	\headtextcontent
+    }
+\stopsetups
+
+\setuphead[chapter,section][alternative=newchapterhead]
+%\setuphead [section][alternative=newchapterhead]
+
+%% end section numbers in outer margin
+
+% style section numbers gray and proportional width
+\define[1]\FormatSectionNumber{\feature[+][tabularnumbers]#1} % proportional width numbers
+\setuphead[chapter,section,subsection,subsubsection,subsubsubsection]%
+	[%
+	color=red,
+	number=yes,
+	numbercolor=middlegray,
+	numberstyle=\tfa,
+	numbercommand={\FormatSectionNumber},
+	]
+%\setuphead[chapter][numberstyle=\tfb]
+
+% start chapter numbering from zero
+\defineconversionset[zerostart][n,zero][n]
+\setuphead[chapter,section][sectionconversionset=zerostart]
+
+% force chapter numbering to be x.x style
+\define[1]\FixChapterNumber{\doiftext{#1}{\FormatSectionNumber{#1.0}}}
+\setuphead[chapter][numbercommand={\FixChapterNumber}]
+\setuplist[chapter][numbercommand={\FixChapterNumber}]
+
+
+% override ToC command to change interline space & fudge the marking
+\define\completecontent{%
+%  \blank[back,force]
+  \title{Contents}
+  \marking[chapter]{CONTENTS} % this add a fixed marking we can reliably detect for custom headers
+  \start
+      \setupwhitespace[none] % inter-para whitespace independent of document para spacing
+      \placecontent
+  \stop
+  \blank[1cm]
+}
+
+
+%% headers and footers
+
+% headers
+\setupheadertexts[\setups{sectionstyle}][\setups{chapterstyle}]
+
+\startsetups[sectionstyle]
+  \inframed[%
+      width=\makeupwidth,
+      rulethickness=0.6pt,
+      align=flushleft,
+      frame=off,
+      bottomframe=on,
+  ]
+  {\doifelse{\fetchmark[chapter][first]}{CONTENTS}{% we're in the ToC
+      \it \getmarking[chapter]
+  }%
+  {% we're in some other chapter + section
+      \it
+      \getmarking[sectionnumber][top]
+      \space
+      \getmarking[section][top]
+  }}
+\stopsetups
+
+\startsetups[chapterstyle]
+  \doifelse{\fetchmark[chapter][first]}{CONTENTS}{% we're in the ToC
+      \it \getmarking[chapter]
+  }%
+  {% we're in a real chapter
+      \it
+      \FixChapterNumber{\getmarking[chapternumber]}
+      \space
+      \expanded{\uppercase{\fetchmark[chapter][first]}}
+  }
+\stopsetups
+
+
+% footers
+\definefontfeature[SwashedQ][script=latn, swsh=yes]
+\defineframed[FooterRule][%
+  width=\makeupwidth,
+  rulethickness=0.6pt,
+  frame=off,
+  topframe=on,
+  location=bottom,
+]
+
+\setuppagenumbering[location=]
+\setupfootertexts[\FooterRule{\feature[+][SwashedQ]QuestWorlds System Reference Document}][pagenumber]
+
+% book style headers
+%\setupheadertexts[]
+%\setupheadertexts[\setups{text a}][][][\setups{text b}]
+%
+%\startsetups[text a]
+%  \rlap{\pagenumber}
+%  \hfill
+%  \getmarking[chapter]
+%  \hfill
+%  \llap{whatever}
+%\stopsetups
+%
+%\startsetups[text b]
+%  \rlap{whatever}
+%  \hfill
+%  \getmarking[section]
+%  \hfill
+%  \llap{\pagenumber}
+%\stopsetups
+
+\setupitemize
+   [1]       % level of itemization
+   [fit]
+   [%
+        margin=1.3em,
+        distance=1ex,
+    ]
+
+% glossary layout
+\define[1]\GlossaryTerm{#1:}
+\setupdescription
+	[description]
+	[
+		alternative=hanging,
+%		align=flushleft,
+		headstyle=normal,
+		headcommand={\GlossaryTerm},
+		width=fit,
+		margin=2ex,
+%		distance=0.1mm,
+		distance=\widthofstring{\space},
+		after={\blank[disable]},
+	]
+
+
