@@ -135,7 +135,7 @@ The third version *HeroQuest*: Core Rules was published in 2009 (ISBN 978-0-9777
 
 An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
 
-# 1.3 Who Is This Document For
+## 1.3 Who Is This Document For
 
 The primary audience for this document is game-designers who wish to utilize the *QuestWorlds* rules framework to implement their own game.
 
@@ -189,7 +189,7 @@ We encourage your GM to work with your suggestions when narrating the **victory*
 
 Characters in *QuestWorlds* are defined by the **abilities** they use to face the challenges that arise in the course of their story. Rather than having a standard list of attributes, skills, powers, etc. for all characters, anything that you can apply to solve a problem or overcome a **story obstacle** could be one of your **abilities**. While your GM may provide some example **abilities** to choose from that connect your PC to a particular story or game world (whether created by your GM or by the designer of a particular game), you get to make up and describe most or all of your **abilities**.
 
-Some **abilities** might be broad descriptions of your background or expertise, like "Dwarf of the Chalk Hills" or "Private Detective" - implying a variety of related capabilities. Others might represent specific capabilities or assets such as "Lore of the Ancients," "Captain of the Fencing Team," or "The Jade Eye Medallion."
+Some **abilities** might be broad descriptions of your background or expertise, like "Dwarf of the Chalk Hills" or "Private Detective"---implying a variety of related capabilities. Others might represent specific capabilities or assets such as "Lore of the Ancients," "Captain of the Fencing Team," or "The Jade Eye Medallion."
 
 Ultimately, **abilities** are just names for the interesting things your character can do.
 
@@ -313,7 +313,7 @@ This process is called **framing the contest**.
 
 **Contests** in *QuestWorlds* don’t simply tell you how well you performed at a particular task: they tell you whether or not you overcame a **story obstacle**, which moves the story in a new direction. Unlike some other roleplaying games, a **contest** in *QuestWorlds* does not resolve a task, it resolves the whole **story obstacle**.
 
-If you need secret records which are stored in a vault within a government compound, your goal is to get the information - while the fact that it is secured against your access is a **story obstacle** you must overcome to attain that goal. Overcoming that **story obstacle** may involve many possible tasks, evading guards, lock-picking, forging credentials, etc. - but the **contest** doesn't address those individually. The **contest** is framed around the entire conflict against the **story obstacle** as a whole.
+If you need secret records which are stored in a vault within a government compound, your goal is to get the information---while the fact that it is secured against your access is a **story obstacle** you must overcome to attain that goal. Overcoming that **story obstacle** may involve many possible tasks, evading guards, lock-picking, forging credentials, etc.---but the **contest** doesn't address those individually. The **contest** is framed around the entire conflict against the **story obstacle** as a whole.
 
 In a fight, your **story obstacle** may be the opponents themselves, who you are fighting to capture or kill. Just as often you are seeking another goal and you might just as easily attain it by incapacitating or evading your foes. In this case, beating the enemy is a task, not the **story obstacle**. For example, if an **ally** has been accused of treason by the King, your goal could be to prove the **ally's** innocence. The power of the King threatening your **ally** is a **story obstacle** to be overcome, and a trial by combat could be a **contest** to resolve the conflict with an **ability** like "Knight Errant."
 
@@ -352,7 +352,7 @@ A **contest** represents all of your attempts to overcome a **story obstacle**. 
 Your GM uses a **rank** when choosing to adjust a **target number**. That adjustment may come from an **augment** (see §2.5), **modifier** (see §2.4), **benefits** or **consequences** (see §2.7). Your GM also uses the same **rank** when determining the **resistance**.
 
 Bonuses to the dice roll use the scale of values: +3, +6. +9, +M, +M2
-Penalties to the dice roll use the scale of values: -3, -6, -9, -M, -M2
+Penalties to the dice roll use the scale of values: −3, −6, −9, −M, −M2
 
 You should be able to memorize these values in play, and just go up or down the scale, instead of translating a **rank** to a value.  For convenience the following table shows the scale of **ranks**.
 
@@ -366,11 +366,11 @@ You should be able to memorize these values in play, and just go up or down the 
 |2     |+6      |
 |1     |+3      |
 |0     |0       |
-|-1    |-3      |
-|-2    |-6      |
-|-3    |-9      |
-|-4    |-M      |
-|-5    |-M2     |
+|−1    |−3      |
+|−2    |−6      |
+|−3    |−9      |
+|−4    |−M      |
+|−5    |−M2     |
 
 ### 2.3.4 Resistance
 
@@ -423,7 +423,7 @@ A **critical** is a better **result** than a **success** which is, in turn, a be
 
 #### 2.3.6.1 Narrating Outcomes
 
-You GM narrates the contest **outcome**. Their narration should take into account the **prize** and the **tactics** used by each side. Your GM may invite you to contribute more detail on your actions as part of that narration, if they wish. But the GM is the final arbiter of the how the story progresses as a result of the rolls - provided they respect the **outcome** in which you win or lose the **prize**.
+You GM narrates the contest **outcome**. Their narration should take into account the **prize** and the **tactics** used by each side. Your GM may invite you to contribute more detail on your actions as part of that narration, if they wish. But the GM is the final arbiter of the how the story progresses as a result of the rolls---provided they respect the **outcome** in which you win or lose the **prize**.
 
  Your GM should bear in mind your **result** when describing the outcome. For example, if you **succeeded**, but the **resistance** **succeeded** better, the GM should describe your actions as successful, but the **resistance** as doing better. If your **result** was a **critical** and the **resistance's** **result** was a **fumble** your GM should describe a crushing **defeat** in which your adversary is clearly outclassed.
  
@@ -497,9 +497,9 @@ When you propose an action using an **ability** that seems completely inappropri
 
 In some cases, though, your proposed match-up of action and **ability** is only somewhat implausible. A successful attempt with it wouldn’t completely break the illusion of fictional reality—just stretch it a bit.
 
-Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a -3, –6, -9 **penalty**, or a **bump** down, to their **target number**, depending on how incredible the **stretch** seems to the GM and other players. Your GM should **penalize** players who try to create a 'do anything' **ability** that they then **stretch** to gain from raising fewer **abilities** in advancement to ensure balance with other PCs.
+Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a −3, −6, −9 **penalty**, or a **bump** down, to their **target number**, depending on how incredible the **stretch** seems to the GM and other players. Your GM should **penalize** players who try to create a 'do anything' **ability** that they then **stretch** to gain from raising fewer **abilities** in advancement to ensure balance with other PCs.
 
-A default **stretch penalty** should be -6.
+A default **stretch penalty** should be −6.
 
 The definition of **stretch** is elastic, depending on genre.
 
@@ -543,9 +543,9 @@ if you describe a **tactic** for a **contest** that is in conflict with a **flaw
 
 Your GM should follow a similar approach to **augments** when applying a **hindrance** (see §2.5). They should ask themselves if it is *fresh*, *interesting* or *illuminates character*. In a movie of book would your **flaw** be prominent here?
 
-If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of -3 or -6 depending on how serious a handicap the **flaw** is. (This is, in effect a reverse **assured contest** in the GM's favor). You may also suggest to the GM that you feel the **flaw** would apply without a **contest**.
+If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of −3 or −6 depending on how serious a handicap the **flaw** is. (This is, in effect a reverse **assured contest** in the GM's favor). You may also suggest to the GM that you feel the **flaw** would apply without a **contest**.
 
-If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** of -3 or -6 depending on how significant a **hindrance** your GM feels the flaw is to your **tactic**. On a **defeat**, you overcome the **flaw**. You may want to describe how you overcome your **flaw** to use your **tactic**.
+If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** of −3 or −6 depending on how significant a **hindrance** your GM feels the flaw is to your **tactic**. On a **defeat**, you overcome the **flaw**. You may want to describe how you overcome your **flaw** to use your **tactic**.
 
 When you experience a **penalty** due to a flaw, you gain an **experience point** (see §8.1).
 
@@ -585,9 +585,9 @@ After a **contest**, you may suffer **consequences**: literal or metaphorical in
 
 The GM is the arbiter of when a **consequence** should be applied.
 
-Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: -3, -6, -9, -M, or -M2. The **rank** will depend on how severe they feel the **consequences** are.
+Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: −3, −6, −9, −M, or −M2. The **rank** will depend on how severe they feel the **consequences** are.
 
-If your opponent defeats you, your GM may use the difference between your **result** and the **resistance's** result to determine the **rank**. If your opponent had a **better success** it is one **rank** or -3. If you were one level of result different, such as you **failed** and they **succeeded**, or you **succeeded** and they rolled a **critical**, then it is two **ranks** or -6, and so on, with your rolling a **fumble** and the GM rolling a **critical** the largest **rank** at 4 for a -M penalty.
+If your opponent defeats you, your GM may use the difference between your **result** and the **resistance's** result to determine the **rank**. If your opponent had a **better success** it is one **rank** or −3. If you were one level of result different, such as you **failed** and they **succeeded**, or you **succeeded** and they rolled a **critical**, then it is two **ranks** or −6, and so on, with your rolling a **fumble** and the GM rolling a **critical** the largest **rank** at 4 for a −M penalty.
 
 If you **defeat** your opponent, your GM may still decide that you suffer a **consequence**, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the **prize**.
 
@@ -597,7 +597,7 @@ If you **defeat** your opponent, your GM may still decide that you suffer a **co
 * In an economic struggle, you take significant losses to win market share.
 * In a morale crisis, your resolve alienates the cowardly.
 
-On a **better roll** you might suffer a **consequence** of **rank** 2 or -6, and on a better **result** you might suffer a **consequence** of **rank** 1 or -3.
+On a **better roll** you might suffer a **consequence** of **rank** 2 or −6, and on a better **result** you might suffer a **consequence** of **rank** 1 or −3.
 
 #### 2.7.1.2 Ending a PC's story
 
@@ -661,9 +661,9 @@ Your GM should almost always resolve healing attempts as **simple contests**. An
 
 #### 2.7.3.2 Healing Resistances
 
-The **resistances** to remove a states of adversity is the **base resistance** modified by the **rank** of the **consequence**. So if you were suffering from a **rank** 2 consequence, of -6, you modify the **base resistance** by a **rank** 2 modifier of +6.
+The **resistances** to remove a states of adversity is the **base resistance** modified by the **rank** of the **consequence**. So if you were suffering from a **rank** 2 consequence, of −6, you modify the **base resistance** by a **rank** 2 modifier of +6.
 
-Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of -3, it is **base resistance** +3; if you have a **penalty** of -6, it is **base resistance** +6 and so on.
+Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of −3, it is **base resistance** +3; if you have a **penalty** of −6, it is **base resistance** +6 and so on.
 
 When you make a successful healing attempt, you remove the **penalty**.
 
@@ -679,7 +679,7 @@ A PC may apply **bonuses** from multiple **benefits** to a single **contest**, o
 
 Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contest**s where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
-Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +6 bonus from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a **penalty** of -3, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +3 to impress the crowd. 
+Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +6 bonus from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a **penalty** of −3, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +3 to impress the crowd. 
 
 Your GM may prefer to cancel out in **ranks** so that if you have a rank 4 benefit from your popularity with the village following saving their holy idol, giving you a +M bonus, but you make a minor social gaff at the mayor's daughter's wedding of **rank** 1, you drop one **rank** to 3, and a +9 bonus, over reducing +M to 17. This keeps the numbers used for **bonuses** and **penalties** consistent, at the cost of having to track or figure out the **rank** of the bonus.
 
@@ -723,7 +723,7 @@ When the mob loses an exchange, your GM describes individuals within it as being
 
 ## 2.12 Ganging Up
 
-Sometimes you may outnumber your opponent. As above, if in doubt, the GM should think of the **resistance** that would be dramatically appropriate for a one-on-one confrontation and then adjust it with a **penalty** of -3, -6, or -9 depending on how significantly you outnumber them. As above, note that unless your opponent is extraordinarily large, you cannot confront them physically with more than about six people (include **followers**) or socially with about two people (again include **followers**) or people just get in each other's way.
+Sometimes you may outnumber your opponent. As above, if in doubt, the GM should think of the **resistance** that would be dramatically appropriate for a one-on-one confrontation and then adjust it with a **penalty** of −3, −6, or −9 depending on how significantly you outnumber them. As above, note that unless your opponent is extraordinarily large, you cannot confront them physically with more than about six people (include **followers**) or socially with about two people (again include **followers**) or people just get in each other's way.
 
 ## 2.13 Mass Effort
 
@@ -972,7 +972,7 @@ In interpreting the individual **simple contests** within a **scored contest**, 
 
 In a **scored contest** the contestant that is the first to gain a total of 5 **resolution points** gains the **prize**.
 
-Your GM may treat the difference in **resource points** as a measure of the magnitude of your **victory** or **defeat**. A 5-0 **outcome** is far more decisive than a 5-4 **outcome** for example.
+Your GM may treat the difference in **resource points** as a measure of the magnitude of your **victory** or **defeat**. A 5--0 **outcome** is far more decisive than a 5--4 **outcome** for example.
 
 Your GM may apply **consequences** and **benefits** as they see fit. The **scale** of those **consequences** and **benefits** may be guided by the difference in **resolution points** between the two sides.
 
@@ -1154,7 +1154,7 @@ The number of advantage points lost by a contestant is a multiplier of their bid
 * If the loser had one level of difference, such as **success** vs **failure** or **failure** vs **fumble**, they lose 1x their bid.
 * If the loser had two levels of difference, such as **success** vs **fumble**, they lose 2x their bid.
 * if the loser has three levels of difference, a **critical** vs **fumble**, they lose 3x their bid.
-* If the winner has a **critical**, the **APs** lost by the loser are gained by the winner - a transfer.
+* If the winner has a **critical**, the **APs** lost by the loser are gained by the winner---a transfer.
 
 #### 5.3.2.4  Followers and Advantage Points
 
@@ -1308,7 +1308,7 @@ You decide if you wish to continue the **chained contest**, and your GM makes a 
 
 You can switch **abilities** within the contest, provided your GM agrees that the new **ability** represents a suitable **tactic** to obtain the **prize**.
 
-If the **penalties** suffered by one contestant reduce their **ability** below 0, they must concede the contest, If it makes sense, your GM may allow you to continue by switching **abilities**. The GM may decide that accumulated **penalties** apply to the new ability used in the contest - this may still force you to concede.
+If the **penalties** suffered by one contestant reduce their **ability** below 0, they must concede the contest, If it makes sense, your GM may allow you to continue by switching **abilities**. The GM may decide that accumulated **penalties** apply to the new ability used in the contest---this may still force you to concede.
 
 A **chained contest** can benefit from using the difference between **results** as a **rank** when your GM assesses the **benefits and consequence** (see §2.7.2).
 
@@ -1726,7 +1726,7 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 : The **TN** for a **moderate resistance class**, from which all other **resistance classes** are figured as a **bonus** or **penalty**.
 
 **Benefit of Victory**
-: Long term positive modifier, because you won a **contest**, against a challenging opponent (not -6 or less than your **ability**). Usually a **state of fortune**.
+: Long term positive modifier, because you won a **contest**, against a challenging opponent (not −6 or less than your **ability**). Usually a **state of fortune**.
 
 **Bid**
 : Also an **AP Bid** or **advantage point bid** is your wager in an **extended contest**.
@@ -2059,7 +2059,7 @@ Depending on which approach seems to grow from the story, your GM may assign **c
 |:--------------------:|:-------------------------------:|
 |1                     |Marginal                         |
 |2                     |Minor                            |
-|3-4                   |Major                            |
+|3--4                   |Major                            |
 |5+                    |Complete                         |
 
 
@@ -2071,9 +2071,9 @@ To overcome this flattening effect, if the outcome of a **group simple contest**
 
 The cost varies by the number of PCs participating:
 
-* 1 **story point** for 1-3 PCs.
-* 2 **story points** for 4-6 PCs.
-* 3 **story points** for 7-9 PCs.  
+* 1 **story point** for 1--3 PCs.
+* 2 **story points** for 4--6 PCs.
+* 3 **story points** for 7--9 PCs.  
 * and so on...
 
 You may spend twice as many **story points** as required to gain a **double boost**. The points may be spent by any combination of players. They remain spent no matter how the **contest** resolves. You may continue to spend **story points** to **bump** your individual **result**.
@@ -2219,7 +2219,7 @@ As bad as your condition may be, there’s nothing wrong with you that some prol
 
 #### 10.4.1.4 Injured
 
-If you are **injured**, you have suffered a debilitating blow which leaves you reeling. Physically you may have lost the use of a limb or sense, socially you may be shunned, and emotionally you may in shock. Although you should heal with time, you suffer a -9 **penalty** to all related **abilities**. Injuries combine with impairments and **hurts**.
+If you are **injured**, you have suffered a debilitating blow which leaves you reeling. Physically you may have lost the use of a limb or sense, socially you may be shunned, and emotionally you may in shock. Although you should heal with time, you suffer a −9 **penalty** to all related **abilities**. Injuries combine with impairments and **hurts**.
 
 A single **injury** goes away after a month's rest, or by miraculous intervention, as above.
 
@@ -2361,7 +2361,7 @@ If you are using **degrees of victory or defeat**, use the table below to interp
 |Marginal Defeat |0             |
 |Minor Defeat    |0             |
 |Major Defeat    |0             |
-|Complete Defeat |-3            |
+|Complete Defeat |−3            |
 
 ## 10.6 Community Rules
 
@@ -2391,7 +2391,7 @@ When PC activity reduces a **penalty** but does not eliminate it, your GM will a
 
 |Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC     |
 |------|-------|------|-------|------|-------|------|-------|------|-------|
-|      |       |      |       |      |       |      |       |      |       |
+|&nbsp;|&nbsp; |&nbsp;|&nbsp; |&nbsp;|&nbsp; |&nbsp;|&nbsp; |&nbsp;|&nbsp; |
 
 ### 10.6.5 Drawing on Resources
 
@@ -2416,13 +2416,13 @@ If your GM wants resource depletion to lead to longer-lasting social **penalties
 |Contest Outcome|Depletion Penalty    |
 |:---------------:|:-----------------:|
 |Complete Victory |0                  |
-|Major Victory    |-3                 |
-|Minor Victory    |-3                 |
-|Marginal Victory |-3                 |
-|Marginal Defeat  |-6                 |
-|Minor Defeat     |-6                 |
-|Major Defeat     |-6                 |
-|Complete Defeat  |-9                 |
+|Major Victory    |−3                 |
+|Minor Victory    |−3                 |
+|Marginal Victory |−3                 |
+|Marginal Defeat  |−6                 |
+|Minor Defeat     |−6                 |
+|Major Defeat     |−6                 |
+|Complete Defeat  |−9                 |
 
 ### 10.6.6 Required Resource Use
 
@@ -2457,9 +2457,9 @@ The **outcome** of the **contest** may apply a **modifier** to a **resource**, a
 |Minor Victory    |+3                 |
 |Marginal Victory |0                  |
 |Marginal Defeat  |0                  |
-|Minor Defeat     |-3                 |
-|Major Defeat     |-6                 |
-|Complete Defeat  |-9                 |  
+|Minor Defeat     |−3                 |
+|Major Defeat     |−6                 |
+|Complete Defeat  |−9                 |  
 
 Except where your group is exceptionally keen on tracking **resources**, your GM should skip the **background events** process when the PCs are long absent from home. Your GM should rejigger them to serve their plot purposes when they return. The GM may also want to shuffle this process offstage when the PCs are occupied by epic events. This prevents them from having to flee from a climactic plot development to go home and tend to the beet crop.
 
