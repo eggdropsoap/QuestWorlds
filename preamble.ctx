@@ -222,6 +222,12 @@
         distance=1ex,
     ]
 
+\define[1]\TableCaptionText{\sc #1} % set caption text in small caps
+\setupcaption[table]
+  [%
+	textcommand={\TableCaptionText},
+  ]
+
 % glossary layout
 \define[1]\GlossaryTerm{#1:}
 \setupdescription
