@@ -66,10 +66,24 @@ div.float.table {
     display: block ;
 }
 
+/* element="floatcaption" detail="" chain="" */
+
+floatcaption,
+div.floatcaption {
+    display: inline ;
+}
+
 /* element="floatcontent" detail="" chain="" */
 
 floatcontent,
 div.floatcontent {
+    display: inline ;
+}
+
+/* element="floattext" detail="" chain="" */
+
+floattext,
+div.floattext {
     display: inline ;
 }
 

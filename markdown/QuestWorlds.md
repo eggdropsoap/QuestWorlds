@@ -356,7 +356,7 @@ Penalties to the dice roll use the scale of values: −3, −6, −9, −M, −M
 
 You should be able to memorize these values in play, and just go up or down the scale, instead of translating a **rank** to a value.  For convenience the following table shows the scale of **ranks**.
 
-#### 2.3.3.1 RANKS TABLE
+Table: 2.3.3.1 RANKS TABLE
 
 | Rank | Value  |
 |:----:|:------:|
@@ -1504,7 +1504,7 @@ Your GM is the arbitrator of whether a **plot edit** is allowed. It should not s
 
 The cost, in **story points**, of a **plot edit**, is given by the following table. 
 
-#### 7.3.1.1 PLOT EDIT TABLE
+Table: 7.3.1.1 PLOT EDIT TABLE
 
 |Level                    |Cost |Impact                   |Example                  |
 |:-----------------------:|:---:|:-----------------------:|:-----------------------:|
@@ -2026,7 +2026,7 @@ If you are using a **stretch**, see §2.4.1, then **major or complete victories*
 
 In a **simple contest**, using the table below (§9.2.1.2) to determine the **degree of victory or defeat** in the **outcome**
 
-#### 10.3.2.1 SIMPLE CONTEST TABLE
+Table: 10.3.2.1 SIMPLE CONTEST TABLE
 
 |Roll    |Critical      |Success        |Failure        |Fumble         |
 |:------:|:------------:|:-------------:|:-------------:|:-------------:|
@@ -2035,7 +2035,7 @@ In a **simple contest**, using the table below (§9.2.1.2) to determine the **de
 |Failure |Major Victory|Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|
 |Fumble  |Complete Victory|Major Victory|Minor Victory|Tie*|
 
-* In a **group simple contest** (see below), your GM may declare that both contestants suffer a ***marginal defeat** to indicate that, although their **results** cancel out with respect to each other, their situation worsens compared to other contestants.
+\* In a **group simple contest** (see below), your GM may declare that both contestants suffer a **marginal defeat** to indicate that, although their **results** cancel out with respect to each other, their situation worsens compared to other contestants.
 
 ### 10.3.3 Group Simple Contest
 
@@ -2043,7 +2043,7 @@ In a **group simple contest** rather than overall **victory** going to the side 
 
 Depending on which approach seems to grow from the story, your GM may assign **consequences** or **benefits** from **group simple contests** to the entire group, or to individual members who performed either especially well, or especially poorly. Your GM should default to rewarding or penalizing everyone. Your GM should resort to individualized repercussions or benefits only when a group reward defies dramatic credibility, or when competition within the group is a pivotal dramatic issue.
 
-#### 10.3.3.1 GROUP SIMPLE CONTEST TABLE
+Table: 10.3.3.1 GROUP SIMPLE CONTEST TABLE
 
 |               |Critical       |Success        |Failure        |Fumble         |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -2053,7 +2053,7 @@ Depending on which approach seems to grow from the story, your GM may assign **c
 |Fumble         |5              |3              |2              |0              |
 
 
-#### 10.3.3.2 DEGREE OF VICTORY TABLE
+Table: 10.3.3.2 DEGREE OF VICTORY TABLE
 
 |Difference Between OPs|Winning Group's Degree of Victory|
 |:--------------------:|:-------------------------------:|
@@ -2092,7 +2092,7 @@ Find the difference between you and your opponent's **resolution point** scores 
 
 Note, you may suffer a **state of adversity**, even if you win the **prize**.
 
-#### 10.3.4.2 RISING ACTION CONTEST TABLE
+Table: 10.3.4.2 RISING ACTION CONTEST TABLE
 
 |Difference Between RPs|Negative Consequences for Loser|Consequences/Benefit for Winner|Victory/Defeat Level|
 |:--------------------:|:-----------------------------:|:-----------------------------:|:------------------:|
@@ -2112,7 +2112,7 @@ For the final, climactic confrontation that wraps up your GM's story, you may su
 
 First, determine your **outcome** for the **contest** as for rising action, but in addition, if the outcome show that you gained the **prize** your GM now cross-references the **resolution points** scored against you by your opponent on the **climactic state of adversity** table to determine the **state of adversity** you suffered in winning that **victory**. If you lost the **prize** use the **RPs** scored against you to determine your **outcome** as per the **rising action** table above.
 
-#### 10.3.4.4 CLIMACTIC STATE OF ADVERSITY TABLE
+Table: 10.3.4.4 CLIMACTIC STATE OF ADVERSITY TABLE
 
 |Total Resolution Points Scored Against PC|State of Adversity|
 |:---------------------------------------:|:----------------:|
@@ -2143,7 +2143,7 @@ To determine individual **consequences** or **benefits**, in **rising action**, 
 
 At the end of the contest the **APs** of the loser determine the **benefits** for the winner or **consequences** for the loser. As with all **contests**, if the contest involved a **resistance**, and not another PC, we care about your **outcome**, win or lose, and the GM should feel free to narrate the **outcome** for the **resistance** depending on their interpretation of your **outcome**, which may not be symmetrical. For example, if the **benefit of victory** for your PC is **pumped** the GM should feel free to interpret what this means for the **resistance**: in a melee they might be dead, in a social contest they might be exiled, or they might surrender in the melee or cede ground in a social contest. Your GM should focus on the **prize** that was agreed when deciding how to narrate the resolution of the contest.
 
-#### 10.3.6.1 EXTENDED CONTEST TABLE
+Table: 10.3.6.1 EXTENDED CONTEST TABLE
 
 |Final AP Total |Level of Defeat|Consequence for Loser|Benefit for Winner|
 |:-------------:|:-------------:|:-------------------:|:----------------:|
@@ -2168,7 +2168,7 @@ To determine individual **consequences** or **benefits**, use the **AP** of last
 
 In a **chained contest** determine the **state of adversity** (see §9.4) to the loser of an exchange from the following table (see 9.3.8.1).
 
-#### 10.3.8.1 CHAINED CONTEST TABLE
+Table: 10.3.8.1 CHAINED CONTEST TABLE
 
 |Roll           |Critical       |Success        |Failure        |Fumble                       |
 |:-------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
@@ -2253,10 +2253,10 @@ Death from a non-physical **contest** will likely be metaphorical. If you die in
 
 Even only metaphorically dead, your GM may declare that you have undergone changes so dire as to make your PC unplayable. You may be incurably insane, or be so socially shamed that you retire to a life of obscurity or religious meditation. You may be shunned by all around you, sent into permanent exile, or sentenced to long-term imprisonment with no hope of escape.
 
-#### 10.4.1.7 CONSEQUENCES OF DEFEAT TABLE
+Table: 10.4.1.7 CONSEQUENCES OF DEFEAT TABLE
 
 |Defeat Level|State of Adversity|Penalty                                                                                           |
-|:----------:|:----------------:|:------------------------------------------------------------------------------------------------:|
+|:----------:|:----------------:|:-----------------------------------------------------------------:|
 |Marginal    |Hurt              |–3 penalty to appropriate abilities                                                               |
 |Minor       |Impaired          |–6 penalty to appropriate abilities                                                               |
 |Major       |injured           |–9 penalty to appropriate abilities                                                               |
@@ -2298,7 +2298,7 @@ If you are **heroic**, you have become unstoppable, physically at peak performan
 
 Being **heroic** goes away after a season's idleness, or an in-game event, as above.
 
-#### 10.4.2.5 BENEFITS OF VICTORY TABLE
+Table: 10.4.2.5 BENEFITS OF VICTORY TABLE
 
 |Victory Level  |State of Fortune|Benefit|
 |:-------------:|:--------------:|:------------------------------------------------------------------------:|
@@ -2333,7 +2333,7 @@ Your GM should almost always resolve healing attempts as **simple contests**. An
 
 Default **resistances** to remove states of adversity are as follows:
 
-#### 10.4.3.3 HEALING RESISTANCES TABLE
+Table: 10.4.3.3 HEALING RESISTANCES TABLE
 
 |Consequence of Defeat|Difficulty|
 |:-------------------:|:--------------:|
@@ -2350,7 +2350,7 @@ When you make a successful healing attempt, you remove one level of **adversity*
 
 If you are using **degrees of victory or defeat**, use the table below to interpret the **outcome** of the **simple contest** for an augment. Note that **penalties** for **defeat** when attempting an **augment** are much lessened compared to a regular **contest**.
 
-### 10.5.1 AUGMENT TABLE
+Table: 10.5.1 AUGMENT TABLE
 
 |Contest Outcome|Modifier       |
 |:-------------:|:-------------:|
@@ -2387,7 +2387,7 @@ Your GM lists the names and **scores** of your chosen **resources** in the first
 
 When PC activity reduces a **penalty** but does not eliminate it, your GM will alter the entry under the Total column to reflect the reduction, but leave the PC column blank.
 
-#### 10.6.4.1 RESOURCE NOTATION TABLE
+Table: 10.6.4.1 RESOURCE NOTATION TABLE
 
 |Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC     |
 |------|-------|------|-------|------|-------|------|-------|------|-------|
@@ -2411,7 +2411,7 @@ Like other **modifiers** to **resources**, depletion **penalties** end at the en
 
 If your GM wants resource depletion to lead to longer-lasting social **penalties**, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
 
-#### 10.6.5.1 RESOURCE DEPLETION TABLE
+Table: 10.6.5.1 RESOURCE DEPLETION TABLE
 
 |Contest Outcome|Depletion Penalty    |
 |:---------------:|:-----------------:|
@@ -2448,7 +2448,7 @@ At the beginning of each interval, one of your group should perform a **simple c
 
 The **outcome** of the **contest** may apply a **modifier** to a **resource**, as per the following table:
 
-#### 10.6.9.1 RESOURCE FLUCTUATION TABLE
+Table: 10.6.9.1 RESOURCE FLUCTUATION TABLE
 
 |Outcome          |Depletion Penalty  |
 |:---------------:|:-----------------:|
