@@ -222,11 +222,57 @@
         distance=1ex,
     ]
 
-\define[1]\TableCaptionText{\sc #1} % set caption text in small caps
+%% format table captions
+
+% -- start lua macros for changing case and splitting strings
+\startluacode
+	userdata = userdata or {}
+	
+	-- gets the first word in s
+	function userdata.firstWord(s)
+		local firstSpace = s:find(" ") - 1
+		context(s:sub(1,firstSpace))
+	end
+	
+	-- gets everything from the second word to end
+	function userdata.afterFirstWord(s)
+		local firstSpace = s:find(" ") + 1
+		context(s:sub(firstSpace))
+	end
+	
+	-- lowercase the argument
+	function userdata.lowerCase(s)
+		context(s:lower())
+	end
+\stopluacode
+
+\defineexpandable[1]\FirstWord{\ctxlua{userdata.firstWord([==[#1]==])}}
+\defineexpandable[1]\TheRest{\ctxlua{userdata.afterFirstWord([==[#1]==])}}
+\defineexpandable[1]\LowerCase{\ctxlua{userdata.lowerCase([==[#1]==])}}
+% -- stop lua macros
+
+%-- start title case macro
+\def\IgnoredWords
+  {the,a,an,is,to,of,or,and,but,for}
+
+\define[1]\CapitalizeWithIgnoreWord
+  {\doifinsetelse{#1}\IgnoredWords{#1}{\Word{#1}}}
+
+\def\TitleCase
+  {\applytosplitstringwordspaced\CapitalizeWithIgnoreWord}
+%-- end title case macro
+
+\define[1]\TableCaptionText{%
+	{\bf \FirstWord{#1}} % put number in bold
+	{\sc {\TitleCase{\LowerCase{\TheRest{#1}}}}} % set caption text in small caps
+  }
+
 \setupcaption[table]
   [%
 	textcommand={\TableCaptionText},
   ]
+
+%% end format table captions
 
 % glossary layout
 \define[1]\GlossaryTerm{#1:}
