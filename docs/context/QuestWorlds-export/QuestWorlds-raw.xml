@@ -3,7 +3,7 @@
 <!--
 
     input filename   : QuestWorlds
-    processing date  : 2020-10-06T23:15:18+17:00
+    processing date  : 2020-10-06T23:24:05+17:00
     context version  : 2020.03.10 14:44
     exporter version : 0.35
 
@@ -13,7 +13,7 @@
 <?xml-stylesheet type="text/css" href="styles/QuestWorlds-images.css" ?>
 <?xml-stylesheet type="text/css" href="styles/QuestWorlds-styles.css" ?>
 
-<document context="2020.03.10 14:44" date="2020-10-06T23:15:18+17:00" file="QuestWorlds" language="en" version="0.35" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<document context="2020.03.10 14:44" date="2020-10-06T23:24:05+17:00" file="QuestWorlds" language="en" version="0.35" xmlns:m="http://www.w3.org/1998/Math/MathML">
  <metadata>
  </metadata>
  <section detail="title" chain="title" implicit="1" level="2">
@@ -80,7 +80,7 @@
     <listitem detail="subsection" internal="13">
      <listtag>1.5.2</listtag>
       <listcontent>Game Master</listcontent>
-      <listpage>9</listpage>
+      <listpage>10</listpage>
     </listitem>
     <listitem detail="chapter" internal="14">
       <listtag>2</listtag>
@@ -110,7 +110,7 @@
     <listitem detail="subsection" internal="21">
      <listtag>2.2.1</listtag>
       <listcontent>Wealth</listcontent>
-      <listpage>12</listpage>
+      <listpage>13</listpage>
     </listitem>
     <listitem detail="section" internal="22">
      <listtag>2.3</listtag>
@@ -145,17 +145,17 @@
     <listitem detail="subsection" internal="35">
      <listtag>2.3.6</listtag>
       <listcontent>Outcome</listcontent>
-      <listpage>17</listpage>
+      <listpage>18</listpage>
     </listitem>
     <listitem detail="subsection" internal="38">
      <listtag>2.3.7</listtag>
       <listcontent>Bumps</listcontent>
-      <listpage>18</listpage>
+      <listpage>19</listpage>
     </listitem>
     <listitem detail="section" internal="43">
      <listtag>2.4</listtag>
       <listcontent>Modifiers</listcontent>
-      <listpage>19</listpage>
+      <listpage>20</listpage>
     </listitem>
     <listitem detail="subsection" internal="44">
      <listtag>2.4.1</listtag>
@@ -210,7 +210,7 @@
     <listitem detail="subsection" internal="57">
      <listtag>2.7.4</listtag>
       <listcontent>Waning Benefits</listcontent>
-      <listpage>25</listpage>
+      <listpage>26</listpage>
     </listitem>
     <listitem detail="subsection" internal="58">
      <listtag>2.7.5</listtag>
@@ -245,7 +245,7 @@
     <listitem detail="section" internal="64">
      <listtag>2.12</listtag>
       <listcontent>Ganging Up</listcontent>
-      <listpage>27</listpage>
+      <listpage>28</listpage>
     </listitem>
     <listitem detail="section" internal="65">
      <listtag>2.13</listtag>
@@ -260,7 +260,7 @@
     <listitem detail="section" internal="67">
      <listtag>3.1</listtag>
       <listcontent>As-You-Go Method</listcontent>
-      <listpage>28</listpage>
+      <listpage>29</listpage>
     </listitem>
     <listitem detail="section" internal="68">
      <listtag>3.2</listtag>
@@ -295,7 +295,7 @@
     <listitem detail="section" internal="74">
      <listtag>3.6</listtag>
       <listcontent>List Method</listcontent>
-      <listpage>30</listpage>
+      <listpage>31</listpage>
     </listitem>
     <listitem detail="section" internal="75">
      <listtag>3.7</listtag>
@@ -345,7 +345,7 @@
     <listitem detail="subsection" internal="84">
      <listtag>5.2.1</listtag>
       <listcontent>Procedure</listcontent>
-      <listpage>33</listpage>
+      <listpage>34</listpage>
     </listitem>
     <listitem detail="subsection" internal="86">
      <listtag>5.2.2</listtag>
@@ -375,7 +375,7 @@
     <listitem detail="subsection" internal="91">
      <listtag>5.3.1</listtag>
       <listcontent>Procedure</listcontent>
-      <listpage>36</listpage>
+      <listpage>37</listpage>
     </listitem>
     <listitem detail="subsection" internal="92">
      <listtag>5.3.2</listtag>
@@ -385,7 +385,7 @@
     <listitem detail="subsection" internal="93">
      <listtag>5.3.3</listtag>
       <listcontent>Unrelated Actions</listcontent>
-      <listpage>37</listpage>
+      <listpage>38</listpage>
     </listitem>
     <listitem detail="subsection" internal="94">
      <listtag>5.3.4</listtag>
@@ -910,7 +910,7 @@
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>0.1</sectionnumber></margintext>     <sectiontitle>Legal Information</sectiontitle>
     </sectioncaption>
     <sectioncontent>
-IncThe QuestWorlds System Reference Document 0.51 (<delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>QWSRD0.51</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>) describes the rules of QuestWorlds. You may incorporate the rules as they appear in QWSRD0.51, wholly or in part, into a derivative work, through the use of the QuestWorlds Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.51.
+The QuestWorlds System Reference Document 0.51 (<delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>QWSRD0.51</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>) describes the rules of QuestWorlds. You may incorporate the rules as they appear in QWSRD0.51, wholly or in part, into a derivative work, through the use of the QuestWorlds Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.51.
      <break/>
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the QuestWorlds Open Game License for use of the QuestWorlds system differs from the Wizards Open Game License and has different terms and conditions. 
      <section detail="subsection" chain="subsection" explicit="using-this-license" implicit="4" level="4" reference="using-this-license">
@@ -1041,14 +1041,8 @@ QuestWorlds and the QuestWorlds logo are trademarks of Moon Design Publications 
          <itemcontent>Labeling: You must prominently display one of the following QuestWorlds logos on the front and back exterior and in the interior package, on the title page or its equivalent, of your Use of the Open Content. You are granted permission to reproduce the logo only for that purpose.</itemcontent>
         </item>
        </itemgroup>
-       <combination nx="2" ny="1">
-        <combinationpair>
-         <combinationcontent><image height="2.540cm" id="image-1" label="2.540cm" name="Logos/QW-Stamp-Red.png" width="2.540cm"></image></combinationcontent>
-        </combinationpair>
-        <combinationpair>
-         <combinationcontent><image height="2.540cm" id="image-2" label="2.540cm" name="Logos/QW-Stamp-Black.png" width="2.540cm"></image></combinationcontent>
-        </combinationpair>
-       </combination>
+        <image height="2.540cm" id="image-1" label="2.540cm" name="Logos/QW-Stamp-Red.png" width="2.540cm"></image>
+       <image height="2.540cm" id="image-2" label="2.540cm" name="Logos/QW-Stamp-Black.png" width="2.540cm"></image>
        <itemgroup detail="itemize" chain="itemize" level="1" symbol="n">
         <item>
          <itemtag>16. </itemtag>
@@ -1067,7 +1061,7 @@ Additional Contributions: Paul Abertella, Shannon Appelcline, Simon Bray, David 
        <break/>
 Chained Contests and Plot Edits from Mythic Russia © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Chained Contests</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>) and added as Open Game Content here with permission.
        <break/>
-Material in Section 1, Introduction and Section 2, Basic Mechanics © copyright 2018 Jonathan Laufersweiler and added as Open Game Content here with permission. 
+Material in Section 1, Introduction and Section 2, Basic Mechanics © copyright 2018 Jonathan Laufersweiler and added as Open Game Content here with permission.
        <break/>
 Material in Section 2, Basic Mechanics © copyright 2020 Shawn Carpenter and added as Open Game Content here with permission.
        <break/>
@@ -1117,7 +1111,7 @@ If your group are often at odds and rely on their chosen rules kit as an arbiter
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>1.2</sectionnumber></margintext>     <sectiontitle>Version</sectiontitle>
     </sectioncaption>
     <sectioncontent>
-The first version of these rules Hero Wars was published in 2000 (ISBN 978-1-929052-01-1)
+The first version of these rules Hero Wars was published in 2000 (ISBN 978-1-929052-01-1) 
      <break/>
 The second version HeroQuest was published in 2003 (ISBN 978-1-929052-12-7). We refer to this as HeroQuest 1e to disambiguate.
      <break/>
@@ -1125,7 +1119,7 @@ The third version HeroQuest: Core Rules was published in 2009 (ISBN 978-0-977785
      <break/>
 HeroQuest Glorantha 
      <break/>
-was published in 2015 (ISBN 978-1-943223-01-5). It is the version of the rules in HeroQuest 2e, presented for playing in Glorantha. We refer to this as HeroQuest 2.1e. 
+was published in 2015 (ISBN 978-1-943223-01-5). It is the version of the rules in HeroQuest 2e, presented for playing in Glorantha. We refer to this as HeroQuest 2.1e.
      <break/>
 QuestWorlds 
      <break/>
@@ -1172,7 +1166,7 @@ Numbering however makes it easy to refer to rules in this document when page num
 You and your fellow players each create a Player Character (PC) to be the <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>avatar</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> or <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>persona</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> whose role you will play in the game. The PCs pursue various goals in an imaginary world, using their abilities, motivations, connections, and more to solve problems and overcome story obstacles that stand in their way.
        <break/>
 When we say <delimited detail="quote-1"><delimitedsymbol symbol="left">‘</delimitedsymbol><delimitedcontent>you</delimitedcontent><delimitedsymbol symbol="right">’</delimitedsymbol></delimited> in this document we may mean the player or their PC. Which should be clear from context, or explicitly noted.      </sectioncontent>
-     </section>
+      </section>
      <section detail="subsection" chain="subsection" explicit="game-master" implicit="13" level="4" reference="game-master">
       <sectioncaption>
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>1.5.2</sectionnumber></margintext>       <sectiontitle>Game Master</sectiontitle>
@@ -1209,11 +1203,11 @@ We encourage your GM to work with your suggestions when narrating the victory or
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.1</sectionnumber></margintext>     <sectiontitle>Abilities</sectiontitle>
     </sectioncaption>
     <sectioncontent>
-Characters in QuestWorlds are defined by the abilities they use to face the challenges that arise in the course of their story. Rather than having a standard list of attributes, skills, powers, etc. for all characters, anything that you can apply to solve a problem or overcome a story obstacle could be one of your abilities. While your GM may provide some example abilities to choose from that connect your PC to a particular story or game world (whether created by your GM or by the designer of a particular game), you get to make up and describe most or all of your abilities.
+Characters in QuestWorlds are defined by the abilities they use to face the challenges that arise in the course of their story. Rather than having a standard list of attributes, skills, powers, etc. for all characters, anything that you can apply to solve a problem or overcome a story obstacle could be one of your abilities. While your GM may provide some example abilities to choose from that connect your PC to a particular story or game world (whether created by your GM or by the designer of a particular game), you get to make up and describe most or all of your abilities. 
      <break/>
 Some abilities might be broad descriptions of your background or expertise, like <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Dwarf of the Chalk Hills</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol> </delimited>or <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Private Detective</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>—implying a variety of related capabilities. Others might represent specific capabilities or assets such as <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Lore of the Ancients,</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Captain of the Fencing Team,</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> or <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>The Jade Eye Medallion.</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>
      <break/>
-Ultimately, abilities are just names for the interesting things your character can do.
+Ultimately, abilities are just names for the interesting things your character can do. 
      <section detail="subsection" chain="subsection" explicit="flaws" implicit="16" level="4" reference="flaws">
       <sectioncaption>
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.1.1</sectionnumber></margintext>       <sectiontitle>Flaws</sectiontitle>
@@ -1274,9 +1268,9 @@ treats scores as a measure of how effective you are at solving problems with the
 Such departures from abstraction should generally only be made where the increased complexity they bring leads to rewarding choices in a key area of interest to the setting or genre at hand. In most cases, you and your GM can simply follow the fiction surrounding your ability and its context within the setting for guidance as to what applications of the ability are credible.        </sectioncontent>
        </section>
       </sectioncontent>
-     </section>
+      </section>
     </sectioncontent>
-    </section>
+   </section>
    <section detail="section" chain="section" explicit="possessions-and-equipment" implicit="20" level="3" reference="possessions-and-equipment">
     <sectioncaption>
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.2</sectionnumber></margintext>     <sectiontitle>Possessions and Equipment</sectiontitle>
@@ -1333,7 +1327,7 @@ If you achieve a high result, you’ll receive a benefit from your effort (see �
          <break/>
 Fumbles 
          <break/>
-and criticals always result in an unexpected difficulty or reward!
+and criticals always result in an unexpected difficulty or reward! 
          <break/>
 An assured contest can be summarized as follows: 
          <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="n">
@@ -1343,7 +1337,7 @@ An assured contest can be summarized as follows:
           </item>
           <item>
            <itemtag>2. </itemtag>
-           <itemcontent>The GM may decide that you simply gain the victory and there are no consequences or benefits beyond that. </itemcontent>
+           <itemcontent>The GM may decide that you simply gain the victory and there are no consequences or benefits beyond that.</itemcontent>
           </item>
           <item>
            <itemtag>3. </itemtag>
@@ -1430,9 +1424,9 @@ Contests
          <break/>
 in QuestWorlds don’t simply tell you how well you performed at a particular task: they tell you whether or not you overcame a story obstacle, which moves the story in a new direction. Unlike some other roleplaying games, a contest in QuestWorlds does not resolve a task, it resolves the whole story obstacle.
          <break/>
-If you need secret records which are stored in a vault within a government compound, your goal is to get the information—while the fact that it is secured against your access is a story obstacle you must overcome to attain that goal. Overcoming that story obstacle may involve many possible tasks, evading guards, lock-picking, forging credentials, etc.—but the contest doesn’t address those individually. The contest is framed around the entire conflict against the story obstacle as a whole.
+If you need secret records which are stored in a vault within a government compound, your goal is to get the information—while the fact that it is secured against your access is a story obstacle you must overcome to attain that goal. Overcoming that story obstacle may involve many possible tasks, evading guards, lock-picking, forging credentials, etc.—but the contest doesn’t address those individually. The contest is framed around the entire conflict against the story obstacle as a whole. 
          <break/>
-In a fight, your story obstacle may be the opponents themselves, who you are fighting to capture or kill. Just as often you are seeking another goal and you might just as easily attain it by incapacitating or evading your foes. In this case, beating the enemy is a task, not the story obstacle. For example, if an ally has been accused of treason by the King, your goal could be to prove the ally’s innocence. The power of the King threatening your ally is a story obstacle to be overcome, and a trial by combat could be a contest to resolve the conflict with an ability like <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Knight Errant.</delimitedcontent><delimitedsymbol symbol="right">” </delimitedsymbol></delimited>
+In a fight, your story obstacle may be the opponents themselves, who you are fighting to capture or kill. Just as often you are seeking another goal and you might just as easily attain it by incapacitating or evading your foes. In this case, beating the enemy is a task, not the story obstacle. For example, if an ally has been accused of treason by the King, your goal could be to prove the ally’s innocence. The power of the King threatening your ally is a story obstacle to be overcome, and a trial by combat could be a contest to resolve the conflict with an ability like <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Knight Errant.</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>
          <break/>
 In a court trial, your goal is likely a particular verdict, while the story obstacle might be the opposing lawyer, an unjust law, or even the justice system itself. In this case, jury selection, a closing argument, revelatory evidence, or legal procedural challenges are tasks, not the entire story obstacle. The overall conflict encompasses all those things.
          <break/>
@@ -1464,7 +1458,7 @@ Extraordinary abilities
 in some genres give you the capability to do the incredible. For example in a superhero genre you might fly or be invulnerable to bullets, in a fantasy genre hurl magical lightning bolts. A genre pack for the game should help define what incredible tactics are allowed for that game as part of an Extraordinary Powers Framework.
          <break/>
 The GM can narrate the remaining tasks that make sense of the story depending on your success with that roll, or have them occur <delimited detail="quote-1"><delimitedsymbol symbol="left">‘</delimitedsymbol><delimitedcontent>off-stage</delimitedcontent><delimitedsymbol symbol="right">’</delimitedsymbol></delimited> for speed. Think of the way TV or Cinema often cuts to the key moment of drama in a break-in, over showing us the whole heist from beginning to end.        </sectioncontent>
-        </section>
+       </section>
        <section detail="subsubsection" chain="subsubsection" explicit="no-repeat-attempts" implicit="30" level="5" reference="no-repeat-attempts">
         <sectioncaption>
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.3.2.4</sectionnumber></margintext>         <sectiontitle>No Repeat Attempts</sectiontitle>
@@ -1541,14 +1535,14 @@ Compare your rolled number with your Target Number to determine the result, a le
          <itemcontent>Fumble: If the die roll is 20, you fumble (except when the TN is 20, when it is a critical). You fail miserably. This is the worst result possible.</itemcontent>
         </item>
        </itemgroup>
-Note that whatever your result the outcome will depend on comparing your roll with your opponents. So you might *succeed, but still lose the prize. At the same time, your GM should take into account your result when narrating the outcome, and not use your incompetence as a reason you failed to gain the prize if you succeeded, instead focusing on the resistance’s superiority despite your success.      </sectioncontent>
+Note that whatever your result the outcome will depend on comparing your roll with your opponents. So you might *succeed, but still lose the prize. At the same time, your GM should take into account your result when narrating the outcome, and not use your incompetence as a reason you failed to gain the prize if you succeeded, instead focusing on the resistance’s superiority despite your success.       </sectioncontent>
      </section>
      <section detail="subsection" chain="subsection" explicit="outcome" implicit="35" level="4" reference="outcome">
       <sectioncaption>
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.3.6</sectionnumber></margintext>       <sectiontitle>Outcome</sectiontitle>
       </sectioncaption>
       <sectioncontent>
-Your roll and that of your GM’s roll are compared to determine your overall outcome which will be either victory or defeat for the contest as a whole. 
+Your roll and that of your GM’s roll are compared to determine your overall outcome which will be either victory or defeat for the contest as a whole.
        <break/>
 If you have a better result than the GM, then you have a victory and you gain the prize set out when the contest was framed.
        <break/>
@@ -1594,7 +1588,7 @@ Your GM will describe most tied outcomes as inconclusive standoffs, in which nei
          <break/>
 In some situations, ties become difficult to visualize. Chief among these are contests with binary outcomes, where only two possible results are conceivable.
          <break/>
-Your GM can either change the situation on such a tie, introducing a new element that likely renders the original prize irrelevant to both participants, or they can resolve the ties in your favor as a victory.        </sectioncontent>
+Your GM can either change the situation on such a tie, introducing a new element that likely renders the original prize irrelevant to both participants, or they can resolve the ties in your favor as a victory.         </sectioncontent>
        </section>
       </sectioncontent>
      </section>
@@ -1646,7 +1640,7 @@ If the resistance has unspent bumps then the GM can bump you down if they have a
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.3.7.4</sectionnumber></margintext>         <sectiontitle>Bump Up with Negative Mastery</sectiontitle>
         </sectioncaption>
         <sectioncontent>
-If you are facing a resistance that has negative mastery then your GM should treat is as an assured contest. If the GM wants you to roll, to find out how well you did, your roll is bumped up by the resistance.        </sectioncontent>
+If you are facing a resistance that has negative mastery then your GM should treat is as an assured contest. If the GM wants you to roll, to find out how well you did, your roll is bumped up by the resistance.         </sectioncontent>
        </section>
       </sectioncontent>
      </section>
@@ -1659,7 +1653,7 @@ If you are facing a resistance that has negative mastery then your GM should tre
     <sectioncontent>
 Your score represents a general ability to succeed in the narrative, but modifiers reflect specific conditions that may make it easier or harder to overcome particular story obstacles. They are applied to your ability to get a final target number (TN).
      <break/>
-Positive modifiers are called bonuses; negative modifiers are called penalties. 
+Positive modifiers are called bonuses; negative modifiers are called penalties.
      <break/>
 Bonuses
      <break/>
@@ -1705,7 +1699,7 @@ During a long contest, they should typically last for a single round, and reflec
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.5</sectionnumber></margintext>     <sectiontitle>Augments</sectiontitle>
     </sectioncaption>
     <sectioncontent>
-You may sometimes face contests where more than one ability may be applicable to the conflict at hand. In such cases, you may attempt to use one ability to give a supporting bonus to the main ability you are using to frame the contest. This is called an augment. For example, if your character has the abilities <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>The Queen’s Intelligencer</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> and <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Master of Disguise</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>, you might use the latter to augment the former when infiltrating a rival nation’s capitol. Similarly, a character with <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Knight Errant</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> and <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>My Word is my Bond</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol> </delimited>abilities might use one to augment the other when in conflict with a story obstacle the character has sworn to overcome. 
+You may sometimes face contests where more than one ability may be applicable to the conflict at hand. In such cases, you may attempt to use one ability to give a supporting bonus to the main ability you are using to frame the contest. This is called an augment. For example, if your character has the abilities <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>The Queen’s Intelligencer</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> and <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Master of Disguise</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited>, you might use the latter to augment the former when infiltrating a rival nation’s capitol. Similarly, a character with <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>Knight Errant</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol></delimited> and <delimited detail="quotation-1"><delimitedsymbol symbol="left">“</delimitedsymbol><delimitedcontent>My Word is my Bond</delimitedcontent><delimitedsymbol symbol="right">”</delimitedsymbol> </delimited>abilities might use one to augment the other when in conflict with a story obstacle the character has sworn to overcome.
      <break/>
 Abilities that represent special items, weapons, armor, or other noteworthy equipment can be a common source of augments. However, this grows tired if over-used and you should try and restrict repeated use of equipment in this way to contests where they are particularly interesting or apropos.
      <break/>
@@ -1823,7 +1817,7 @@ If you defeat your opponent, your GM may still decide that you suffer a conseque
         </item>
         <item>
          <itemtag>• </itemtag>
-         <itemcontent>In a social contest, you sacrifice the trust of a marginalized group.</itemcontent>
+         <itemcontent>In a social contest, you sacrifice the trust of a marginalized group. </itemcontent>
         </item>
         <item>
          <itemtag>• </itemtag>
@@ -1835,7 +1829,7 @@ If you defeat your opponent, your GM may still decide that you suffer a conseque
         </item>
         <item>
          <itemtag>• </itemtag>
-         <itemcontent>In a morale crisis, your resolve alienates the cowardly. </itemcontent>
+         <itemcontent>In a morale crisis, your resolve alienates the cowardly.</itemcontent>
         </item>
        </itemgroup>
 On a better roll you might suffer a consequence of rank 2 or −6, and on a better result you might suffer a consequence of rank 1 or −3. 
@@ -1907,7 +1901,7 @@ The GM is the arbiter of when a benefits should be applied.
        <break/>
 Your GM may assign a bonus to reflect this benefit. Your GM should assign a bonus that corresponds to a rank: +3, +6, +9, +M, or +M2. The rank will depend on how great they feel the benefits are.
        <break/>
-If you win the prize, your GM may choose to use the difference between your result and their result to determine the rank. If you had a better success than your opponent it is one rank or +3. If you were one level of result different, such as you succeeded and they failed, or you rolled a critical and they succeeded, then it is two ranks or +6, and so on, with your rolling a critical and the GM rolling a fumble the largest rank at 4 for a +M bonus. 
+If you win the prize, your GM may choose to use the difference between your result and their result to determine the rank. If you had a better success than your opponent it is one rank or +3. If you were one level of result different, such as you succeeded and they failed, or you rolled a critical and they succeeded, then it is two ranks or +6, and so on, with your rolling a critical and the GM rolling a fumble the largest rank at 4 for a +M bonus.
        <break/>
 If you lost the prize, your GM may still decide that you gain a benefit, representing learning, gratitude, or resolve developed from losing the prize. 
        <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="1">
@@ -1968,7 +1962,7 @@ The resistances to remove a states of adversity is the base resistance modified 
          <break/>
 Your GM can more easily calculate this as the base resistance with a bonus that is equal to and opposite your penalty. So if you have a penalty of −3, it is base resistance +3; if you have a penalty of −6, it is base resistance +6 and so on.
          <break/>
-When you make a successful healing attempt, you remove the penalty.        </sectioncontent>
+When you make a successful healing attempt, you remove the penalty.         </sectioncontent>
        </section>
       </sectioncontent>
      </section>
@@ -1977,7 +1971,7 @@ When you make a successful healing attempt, you remove the penalty.        </sec
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>2.7.4</sectionnumber></margintext>       <sectiontitle>Waning Benefits</sectiontitle>
       </sectioncaption>
       <sectioncontent>
-Just as you recover from consequences with time, or through healing, so benefits fade with time. 
+Just as you recover from consequences with time, or through healing, so benefits fade with time.
        <break/>
 At the beginning of a session, especially when a significant period of game-world time passes between the conclusion of one session and the beginning of the next, the GM may declare that all benefits have expired or waned. A waning benefit may reduce its rank with time, as the effect fades. You are no longer charged with the confidence of your recent victory, the fans have forgotten your last concert, or the people of the village have started to think once again about the day-to-day struggle of their lives not how the stranger helped them. An expired benefit no longer gives you a bonus, your past victories no longer bring you solace, your fickle fans have moved on to the latest sensation.      </sectioncontent>
      </section>
@@ -2046,7 +2040,7 @@ In most instances, the contest goals are not actually mismatched, but graduated.
     <sectioncontent>
 Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single opponent with one score. Their numbers are factored into the score your GM assigns to them.
      <break/>
-If in doubt, your GM should think of the resistance that would be dramatically appropriate for a single opponent and then adjust it with a bonus of +3, +6 or +9 depending on how outnumbered you are. No more than six foes can typically contend with you in a physical confrontation, or two in a social one, or they tend to get in each other’s way.
+If in doubt, your GM should think of the resistance that would be dramatically appropriate for a single opponent and then adjust it with a bonus of +3, +6 or +9 depending on how outnumbered you are. No more than six foes can typically contend with you in a physical confrontation, or two in a social one, or they tend to get in each other’s way. 
      <break/>
 When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.    </sectioncontent>
    </section>
@@ -2116,7 +2110,7 @@ Your GM should not use this method for creating NPCs. NPCs do not require defini
      <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="n">
       <item>
        <itemtag>1. </itemtag>
-       <itemcontent>Choose a concept. Your concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your occupation keyword or area of expertise, and modify it with an adjective suggesting a distinguishing characteristic, a personality trait that defines you in broad strokes: </itemcontent>
+       <itemcontent>Choose a concept. Your concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your occupation keyword or area of expertise, and modify it with an adjective suggesting a distinguishing characteristic, a personality trait that defines you in broad strokes:</itemcontent>
       </item>
      </itemgroup>
      <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="1">
@@ -2195,7 +2189,7 @@ Some genre packs may require you to have additional keywords that reflect the se
 <margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>3.3</sectionnumber></margintext>     <sectiontitle>Keywords</sectiontitle>
     </sectioncaption>
     <sectioncontent>
-You may build your PC around one or more keywords. A keyword gives you a package deal: you get a number of abilities by selecting a pre-existing character concept, which the player then modifies.
+You may build your PC around one or more keywords. A keyword gives you a package deal: you get a number of abilities by selecting a pre-existing character concept, which the player then modifies. 
      <break/>
 Keywords 
      <break/>
@@ -2207,7 +2201,7 @@ Here are two ways to handle keywords. If in doubt, choose Umbrella.
      <break/>
 Keywords as Packages
      <break/>
-: Treat keywords simply as shorthand for a package of abilities. These can be increased together during character creation, but are too unrelated to increase together during a game. You are still free to use the keyword as an ability, and in fact may prefer to write only the specific abilities they’ve improved on their character sheet. 
+: Treat keywords simply as shorthand for a package of abilities. These can be increased together during character creation, but are too unrelated to increase together during a game. You are still free to use the keyword as an ability, and in fact may prefer to write only the specific abilities they’ve improved on their character sheet.
      <break/>
 Keywords as an Umbrella
      <break/>
@@ -2266,7 +2260,7 @@ This is like the As-You-Go method (see §3.1) but you spend all their points bef
       </sectioncaption>
       <sectioncontent>
 This is the most different method as you write a piece of prose and then pull abilities from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying keywords. It is the least <delimited detail="quote-1"><delimitedsymbol symbol="left">‘</delimitedsymbol><delimitedcontent>fair</delimitedcontent><delimitedsymbol symbol="right">’</delimitedsymbol></delimited> of the character creation options.      </sectioncontent>
-     </section>
+      </section>
     </sectioncontent>
    </section>
    <section detail="section" chain="section" explicit="list-method" implicit="74" level="3" reference="list-method">
@@ -2277,7 +2271,7 @@ This is the most different method as you write a piece of prose and then pull ab
      <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="n">
       <item>
        <itemtag>1. </itemtag>
-       <itemcontent>Choose a concept. Your concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your occupation keyword or area of expertise, and modify it with an adjective suggesting a distinguishing characteristic, a personality trait that defines you in broad strokes: </itemcontent>
+       <itemcontent>Choose a concept. Your concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your occupation keyword or area of expertise, and modify it with an adjective suggesting a distinguishing characteristic, a personality trait that defines you in broad strokes:</itemcontent>
       </item>
      </itemgroup>
      <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="1">
@@ -2364,7 +2358,7 @@ s are the default resolution method for all story obstacles.
     <sectioncontent>
      <section detail="subsection" chain="subsection" explicit="procedure" implicit="78" level="4" reference="procedure">
       <sectioncaption>
-<margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>4.1.1</sectionnumber></margintext>       <sectiontitle>Procedure</sectiontitle>
+<margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>4.1.1</sectionnumber></margintext>       <sectiontitle>Procedure </sectiontitle>
       </sectioncaption>
       <sectioncontent>
        <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="n">
@@ -2378,7 +2372,7 @@ s are the default resolution method for all story obstacles.
         </item>
         <item>
          <itemtag>3. </itemtag>
-         <itemcontent>Your GM determines the resistance. If two PCs contend, your opponent figures their TN as described in step 2. </itemcontent>
+         <itemcontent>Your GM determines the resistance. If two PCs contend, your opponent figures their TN as described in step 2.</itemcontent>
         </item>
         <item>
          <itemtag>4. </itemtag>
@@ -2449,11 +2443,11 @@ It is possible that you suffer a defeat, even though your side gains the victory
   <sectioncontent>
 Most conflicts should be resolved simply and quickly, using the simple contest rules.
    <break/>
-However, every so often, your GM wants to draw out the resolution, breaking it down into a series of smaller actions, increasing the suspense you feel as you wait to see if they succeed or fail.
+However, every so often, your GM wants to draw out the resolution, breaking it down into a series of smaller actions, increasing the suspense you feel as you wait to see if they succeed or fail. 
    <break/>
 Think of the different ways a film director can choose to portray a given moment, depending on how important it is to the story, and how invested they want us to feel in its outcome.
    <break/>
-For example, there are two ways to shoot a scene in which a thief breaks into the bank to steal the contents of the safe. 
+For example, there are two ways to shoot a scene in which a thief breaks into the bank to steal the contents of the safe.
    <break/>
 The action can be portrayed quickly, cutting to a moment with the thief, their ear pressed against the safe trying to get the tumblers to fall into place. Then they sigh with relief, open the safe, and get whatever is inside. In this instance, the story is about what happens after the thief gets what’s in the safe, not about what might happen to them if they fail.
    <break/>
@@ -2487,7 +2481,7 @@ are longer and more dramatic than simple contests. Your GM uses scored contests 
 A scored contest consists of one or more rounds, in which you perform actions that are similar to simple contests. However, actions and rounds do not decide the outcome of the whole contest, only who gains or loses resolution points at that time. In a scored contest there is no distinction between aggressor and defender, each round represents attempts by both parties to overcome their opponent. Your GM should determine who has the initiative to describe what they are doing for any exchange, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the round, and describe the NPC reacting to that. 
      <section detail="subsection" chain="subsection" explicit="procedure-2" implicit="84" level="4" reference="procedure-2">
       <sectioncaption>
-<margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>5.2.1</sectionnumber></margintext>       <sectiontitle>Procedure </sectiontitle>
+<margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>5.2.1</sectionnumber></margintext>       <sectiontitle>Procedure</sectiontitle>
       </sectioncaption>
       <sectioncontent>
        <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="n">
@@ -2546,13 +2540,13 @@ Unlike in an extended contest (see below), where you usually take part in two ex
          </itemgroup>
 You can summarize this as: one more resolution point than the levels of difference between the results.
          <break/>
-Your resolution point score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
+Your resolution point score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks. 
          <break/>
 In a fight, scoring 1 RP might mean that you hit your opponent with a grazing blow, or knocked him into an awkward position.
          <break/>
 Scoring 2 RPs might mean a palpable hit, most likely with bone-crunching sound effects.
          <break/>
-A 3 RP hit sends them reeling, and, depending on the realism level of the genre, may be accompanied by a spray of blood. 
+A 3 RP hit sends them reeling, and, depending on the realism level of the genre, may be accompanied by a spray of blood.
          <break/>
 However, the exact physical harm you’ve dished out to them remains unclear until the contest’s end. When that happens, the real effects of your various victories become suddenly apparent. Perhaps they stagger, merely dazed, up against a wall. Maybe they fall over dead.
          <break/>
@@ -2605,7 +2599,7 @@ The parting shot is another simple contest against your defeated opponent. The a
        <break/>
 If you succeed in your parting shot roll, you gain the additional prize.
        <break/>
-However, if your opponent succeeds, they take the number of resolution points they would, in a standard round, score against you, and instead subtracts them from the number of resolution points scored against them in the round that removed them from the contest. If the revised total is now less than 5 RPs, they return to the contest, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune. The provisional consequences they suffered now go away, and are treated as a momentary or seeming disadvantage. 
+However, if your opponent succeeds, they take the number of resolution points they would, in a standard round, score against you, and instead subtracts them from the number of resolution points scored against them in the round that removed them from the contest. If the revised total is now less than 5 RPs, they return to the contest, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune. The provisional consequences they suffered now go away, and are treated as a momentary or seeming disadvantage.
        <break/>
 Where it makes sense, unengaged PCs may attempt parting shots against opponents taken out of the contest by someone else. You may not revive your teammates by using your lamest abilities to make parting shots on them; this, by definition, does not pass a credibility test.      </sectioncontent>
      </section>
@@ -2644,12 +2638,12 @@ proceed as a series of scored contests between pairs of PC and opponents, interw
      <break/>
 As in a scored contest between a single PC and an opponent, only one simple contest per pair of adversaries occurs each round. Usually the PCs make up one team, and their antagonists the other.
      <break/>
-A group scored contest continues until one side has no active participants. If you defeat your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with a new opponent, you begin a new contest, even if your opponent is already engaged in a contest. Alternatively, if you are unopposed, you may choose to assist. Of course, you may be later engaged by an opponent who becomes free yourself.
+A group scored contest continues until one side has no active participants. If you defeat your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with a new opponent, you begin a new contest, even if your opponent is already engaged in a contest. Alternatively, if you are unopposed, you may choose to assist. Of course, you may be later engaged by an opponent who becomes free yourself. 
      <break/>
 You may lose some pairings amongst the PCs, but still win if the last participant standing is a PC; otherwise if the last participant belongs to the opposition you lose. 
      <section detail="subsection" chain="subsection" explicit="procedure-3" implicit="91" level="4" reference="procedure-3">
       <sectioncaption>
-<margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>5.3.1</sectionnumber></margintext>       <sectiontitle>Procedure </sectiontitle>
+<margintext detail="inoutermargin" chain="inoutermargin"><sectionnumber>5.3.1</sectionnumber></margintext>       <sectiontitle>Procedure</sectiontitle>
       </sectioncaption>
       <sectioncontent>
        <itemgroup detail="itemize" chain="itemize" level="1" packed="yes" symbol="n">
@@ -2697,7 +2691,7 @@ In a group scored contest the team that has the last undefeated contestant gains
        <break/>
 Your GM may decide that you suffer individual consequences or gain individual benefits from the outcome of the contests you pursued, regardless of whether your team won or lost. You might be on the winning team, but lost your individual contest and suffer a penalty to ongoing actions as a result. Alternatively, you might be on the losing team, but win your individual contest and gain a benefit as a result. If you lost, your benefit should not be the prize but instead reflect a side-affect of your individual triumph. Similarly, if your team won, your consequence should not limit the prize which your team one, but should reflect a side-affect of your individual loss.
        <break/>
-See §5.1.3 for a discussion of consequences and benefits in scored contests.      </sectioncontent>
+See §5.1.3 for a discussion of consequences and benefits in scored contests.       </sectioncontent>
      </section>
      <section detail="subsection" chain="subsection" explicit="unrelated-actions" implicit="93" level="4" reference="unrelated-actions">
       <sectioncaption>
@@ -2742,7 +2736,7 @@ Contestant
        <break/>
 Secondary contestant
        <break/>
-: To act as a secondary contestant, your follower must have an ability relevant to the contest. The follower sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the follower. Instead, you may, at any point, shift any number of resolution points to a follower acting as a secondary contestant. Followers with 3 or more resource points lodged against them are removed from the scene. 
+: To act as a secondary contestant, your follower must have an ability relevant to the contest. The follower sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the follower. Instead, you may, at any point, shift any number of resolution points to a follower acting as a secondary contestant. Followers with 3 or more resource points lodged against them are removed from the scene.
        <break/>
 Supporter
        <break/>

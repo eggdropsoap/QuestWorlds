@@ -3,27 +3,6 @@
 @namespace context url('http://www.contextgarden.net/context/export') ;
 
 
-/* element="combination" detail="" chain="" */
-
-combination,
-div.combination {
-    display: block ;
-}
-
-/* element="combinationcontent" detail="" chain="" */
-
-combinationcontent,
-div.combinationcontent {
-    display: inline ;
-}
-
-/* element="combinationpair" detail="" chain="" */
-
-combinationpair,
-div.combinationpair {
-    display: block ;
-}
-
 /* element="delimited" detail="quotation-1" chain="" */
 
 delimited[detail=quotation-1],
