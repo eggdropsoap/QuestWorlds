@@ -253,13 +253,14 @@ backend         > export > fuzzy paragraph: W (U+00057) h (U+00068) y (U+00079) 
 backend         > export > fuzzy paragraph: i (U+00069) s (U+00073) [space] m (U+0006D) e (U+00065) a (U+00061) n (U+0006E) t (U+00074) [space] t (U+00074) o (U+0006F) [space] f (U+00066) a (U+00061) c (U+00063) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) a (U+00061) t (U+00074) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] c (U+00063) r (U+00072) e (U+00065) a (U+00061) t (U+00074) i (U+00069) v (U+00076) i (U+00069) t (U+00074) y (U+00079) , (U+0002C) [space] a (U+00061) n (U+0006E) d (U+00064) [space] t (U+00074) h (U+00068) e (U+00065) n (U+0006E) [space] t (U+00074) o (U+0006F) [space] g (U+00067) e (U+00065) t (U+00074) [space] o (U+0006F) u (U+00075) t (U+00074) [space] o (U+0006F) f (U+00066) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] w (U+00077) a (U+00061) y (U+00079) . (U+0002E)
 backend         > export > fuzzy paragraph: 1 (U+00031) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: V (U+00056) e (U+00065) r (U+00072) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E)
+backend         > export > fuzzy paragraph: w (U+00077) a (U+00061) s (U+00073) [space] p (U+00070) u (U+00075) b (U+00062) l (U+0006C) i (U+00069) s (U+00073) h (U+00068) e (U+00065) d (U+00064) [space] i (U+00069) n (U+0006E) [space] 󰋈 (U+F02C8) 󰋆 (U+F02C6) 󰋇 (U+F02C7) 󰋋 (U+F02CB) [space] ( (U+00028) I (U+00049) S (U+00053) B (U+00042) N (U+0004E) [space] 󰋏 (U+F02CF) 󰋍 (U+F02CD) 󰋎 (U+F02CE) - (U+0002D) 󰋇 (U+F02C7) - (U+0002D) 󰋏 (U+F02CF) 󰋊 (U+F02CA) 󰋉 (U+F02C9) 󰋈 (U+F02C8) 󰋈 (U+F02C8) 󰋉 (U+F02C9) - (U+0002D) 󰋆 (U+F02C6) 󰋇 (U+F02C7) - (U+0002D) 󰋋 (U+F02CB) ) (U+00029) . (U+0002E) [space] I (U+00049) t (U+00074) [space] i (U+00069) s (U+00073) [space] t (U+00074) h (U+00068) e (U+00065) [space] v (U+00076) e (U+00065) r (U+00072) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E) [space] o (U+0006F) f (U+00066) [space] t (U+00074) h (U+00068) e (U+00065) [space] r (U+00072) u (U+00075) l (U+0006C) e (U+00065) s (U+00073) [space] i (U+00069) n (U+0006E)
 pages           > flushing realpage 8, userpage 8, subpage 8
 structure       > sectioning > section @ level 3 : 0.2.3 -> Who Is This Document For
 structure       > sectioning > section @ level 3 : 0.2.4 -> Numbering
 structure       > sectioning > section @ level 3 : 0.2.5 -> Participants
 structure       > sectioning > subsection @ level 4 : 0.2.5.1 -> Players
 structure       > sectioning > subsection @ level 4 : 0.2.5.2 -> Game Master
-backend         > export > fuzzy paragraph: w (U+00077) a (U+00061) s (U+00073) [space] p (U+00070) u (U+00075) b (U+00062) l (U+0006C) i (U+00069) s (U+00073) h (U+00068) e (U+00065) d (U+00064) [space] i (U+00069) n (U+0006E) [space] 󰋈 (U+F02C8) 󰋆 (U+F02C6) 󰋇 (U+F02C7) 󰋋 (U+F02CB) [space] ( (U+00028) I (U+00049) S (U+00053) B (U+00042) N (U+0004E) [space] 󰋏 (U+F02CF) 󰋍 (U+F02CD) 󰋎 (U+F02CE) - (U+0002D) 󰋇 (U+F02C7) - (U+0002D) 󰋏 (U+F02CF) 󰋊 (U+F02CA) 󰋉 (U+F02C9) 󰋈 (U+F02C8) 󰋈 (U+F02C8) 󰋉 (U+F02C9) - (U+0002D) 󰋆 (U+F02C6) 󰋇 (U+F02C7) - (U+0002D) 󰋋 (U+F02CB) ) (U+00029) . (U+0002E) [space] I (U+00049) t (U+00074) [space] i (U+00069) s (U+00073) [space] t (U+00074) h (U+00068) e (U+00065) [space] v (U+00076) e (U+00065) r (U+00072) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E) [space] o (U+0006F) f (U+00066) [space] t (U+00074) h (U+00068) e (U+00065) [space] r (U+00072) u (U+00075) l (U+0006C) e (U+00065) s (U+00073) [space] i (U+00069) n (U+0006E)
+structure       > sectioning > chapter @ level 2 : 0.3 -> Mechanics
 backend         > export > fuzzy paragraph: w (U+00077) a (U+00061) s (U+00073) [space] p (U+00070) u (U+00075) b (U+00062) l (U+0006C) i (U+00069) s (U+00073) h (U+00068) e (U+00065) d (U+00064) [space] a (U+00061) s (U+00073) [space] a (U+00061) [space] S (U+00053) y (U+00079) s (U+00073) t (U+00074) e (U+00065) m (U+0006D) [space] R (U+00052) e (U+00065) f (U+00066) e (U+00065) r (U+00072) e (U+00065) n (U+0006E) c (U+00063) e (U+00065) [space] D (U+00044) o (U+0006F) c (U+00063) u (U+00075) m (U+0006D) e (U+00065) n (U+0006E) t (U+00074) [space] ( (U+00028) S (U+00053) R (U+00052) D (U+00044) ) (U+00029) [space] ( (U+00028) t (U+00074) h (U+00068) i (U+00069) s (U+00073) [space] d (U+00064) o (U+0006F) c (U+00063) u (U+00075) m (U+0006D) e (U+00065) n (U+0006E) t (U+00074) ) (U+00029) [space] i (U+00069) n (U+0006E) [space] 󰋈 (U+F02C8) 󰋆 (U+F02C6) 󰋈 (U+F02C8) 󰋆 (U+F02C6) . (U+0002E) [space] T (U+00054) h (U+00068) e (U+00065) [space] v (U+00076) e (U+00065) r (U+00072) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E)
 backend         > export > fuzzy paragraph: 1 (U+00031) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: W (U+00057) h (U+00068) o (U+0006F) [space] I (U+00049) s (U+00073) [space] T (U+00054) h (U+00068) i (U+00069) s (U+00073) [space] D (U+00044) o (U+0006F) c (U+00063) u (U+00075) m (U+0006D) e (U+00065) n (U+0006E) t (U+00074) [space] F (U+00046) o (U+0006F) r (U+00072)
@@ -269,12 +270,11 @@ backend         > export > fuzzy paragraph: 1 (U+00031) . (U+0002E) 5 (U+00035)
 backend         > export > fuzzy paragraph: P (U+00050) a (U+00061) r (U+00072) t (U+00074) i (U+00069) c (U+00063) i (U+00069) p (U+00070) a (U+00061) n (U+0006E) t (U+00074) s (U+00073)
 backend         > export > fuzzy paragraph: 1 (U+00031) . (U+0002E) 5 (U+00035) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: P (U+00050) l (U+0006C) a (U+00061) y (U+00079) e (U+00065) r (U+00072) s (U+00073)
-pages           > flushing realpage 9, userpage 9, subpage 9
-structure       > sectioning > chapter @ level 2 : 0.3 -> Mechanics
-structure       > sectioning > section @ level 3 : 0.3.1 -> Abilities
-structure       > sectioning > subsection @ level 4 : 0.3.1.1 -> Flaws
 backend         > export > fuzzy paragraph: 1 (U+00031) . (U+0002E) 5 (U+00035) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: G (U+00047) a (U+00061) m (U+0006D) e (U+00065) [space] M (U+0004D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072)
+pages           > flushing realpage 9, userpage 9, subpage 9
+structure       > sectioning > section @ level 3 : 0.3.1 -> Abilities
+structure       > sectioning > subsection @ level 4 : 0.3.1.1 -> Flaws
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 0 (U+00030)
 backend         > export > fuzzy paragraph: M (U+0004D) e (U+00065) c (U+00063) h (U+00068) a (U+00061) n (U+0006E) i (U+00069) c (U+00063) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031)
@@ -294,6 +294,7 @@ fonts           > defining > font 'lmsans10-regular', feature 'locl', script 'la
 structure       > sectioning > subsubsection @ level 5 : 0.3.1.2.2 -> Using Scores As thresholds
 structure       > sectioning > section @ level 3 : 0.3.2 -> Possessions and Equipment
 structure       > sectioning > subsection @ level 4 : 0.3.2.1 -> Wealth
+structure       > sectioning > section @ level 3 : 0.3.3 -> Contest Procedure
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) . (U+0002E) 2 (U+00032) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: N (U+0004E) o (U+0006F) [space] R (U+00052) e (U+00065) l (U+0006C) e (U+00065) v (U+00076) a (U+00061) n (U+0006E) t (U+00074) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) . (U+0002E) 2 (U+00032) . (U+0002E) 2 (U+00032)
@@ -301,12 +302,11 @@ backend         > export > fuzzy paragraph: U (U+00055) s (U+00073) i (U+00069) 
 backend         > export > fuzzy paragraph: t (U+00074) r (U+00072) e (U+00065) a (U+00061) t (U+00074) s (U+00073) [space] s (U+00073) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) s (U+00073) [space] a (U+00061) s (U+00073) [space] a (U+00061) [space] m (U+0006D) e (U+00065) a (U+00061) s (U+00073) u (U+00075) r (U+00072) e (U+00065) [space] o (U+0006F) f (U+00066) [space] h (U+00068) o (U+0006F) w (U+00077) [space] e (U+00065) e (U+00065) c (U+00063) t (U+00074) i (U+00069) v (U+00076) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) [space] a (U+00061) r (U+00072) e (U+00065) [space] a (U+00061) t (U+00074) [space] s (U+00073) o (U+0006F) l (U+0006C) v (U+00076) i (U+00069) n (U+0006E) g (U+00067) [space] p (U+00070) r (U+00072) o (U+0006F) b (U+00062) l (U+0006C) e (U+00065) m (U+0006D) s (U+00073) [space] w (U+00077) i (U+00069) t (U+00074) h (U+00068) [space] t (U+00074) h (U+00068) e (U+00065) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) , (U+0002C) [space] a (U+00061) n (U+0006E) d (U+00064)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: P (U+00050) o (U+0006F) s (U+00073) s (U+00073) e (U+00065) s (U+00073) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E) s (U+00073) [space] a (U+00061) n (U+0006E) d (U+00064) [space] E (U+00045) q (U+00071) u (U+00075) i (U+00069) p (U+00070) m (U+0006D) e (U+00065) n (U+0006E) t (U+00074)
-pages           > flushing realpage 12, userpage 12, subpage 12
-structure       > sectioning > section @ level 3 : 0.3.3 -> Contest Procedure
-structure       > sectioning > subsection @ level 4 : 0.3.3.1 -> Resolution Methods
-structure       > sectioning > subsubsection @ level 5 : 0.3.3.1.1 -> Assured Contest
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 2 (U+00032) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: W (U+00057) e (U+00065) a (U+00061) l (U+0006C) t (U+00074) h (U+00068)
+pages           > flushing realpage 12, userpage 12, subpage 12
+structure       > sectioning > subsection @ level 4 : 0.3.3.1 -> Resolution Methods
+structure       > sectioning > subsubsection @ level 5 : 0.3.3.1.1 -> Assured Contest
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: C (U+00043) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074) [space] P (U+00050) r (U+00072) o (U+0006F) c (U+00063) e (U+00065) d (U+00064) u (U+00075) r (U+00072) e (U+00065)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 1 (U+00031)
@@ -331,11 +331,11 @@ backend         > export > fuzzy paragraph: C (U+00043) o (U+0006F) n (U+0006E) 
 backend         > export > fuzzy paragraph: i (U+00069) n (U+0006E) [space] Q (U+00051) u (U+00075) e (U+00065) s (U+00073) t (U+00074) W (U+00057) o (U+0006F) r (U+00072) l (U+0006C) d (U+00064) s (U+00073) d (U+00064) o (U+0006F) n (U+0006E) ’ (U+02019) t (U+00074) [space] s (U+00073) i (U+00069) m (U+0006D) p (U+00070) l (U+0006C) y (U+00079) [space] t (U+00074) e (U+00065) l (U+0006C) l (U+0006C) [space] y (U+00079) o (U+0006F) u (U+00075) [space] h (U+00068) o (U+0006F) w (U+00077) [space] w (U+00077) e (U+00065) l (U+0006C) l (U+0006C) [space] y (U+00079) o (U+0006F) u (U+00075) [space] p (U+00070) e (U+00065) r (U+00072) f (U+00066) o (U+0006F) r (U+00072) m (U+0006D) e (U+00065) d (U+00064) [space] a (U+00061) t (U+00074) [space] a (U+00061) [space] p (U+00070) a (U+00061) r (U+00072) t (U+00074) i (U+00069) c (U+00063) u (U+00075) l (U+0006C) a (U+00061) r (U+00072) [space] t (U+00074) a (U+00061) s (U+00073) k (U+0006B) : (U+0003A) [space] t (U+00074) h (U+00068) e (U+00065) y (U+00079) [space] t (U+00074) e (U+00065) l (U+0006C) l (U+0006C) [space] y (U+00079) o (U+0006F) u (U+00075)
 pages           > flushing realpage 14, userpage 14, subpage 14
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.2.3 -> Tactics
+structure       > sectioning > subsubsection @ level 5 : 0.3.3.2.4 -> No Repeat Attempts
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 2 (U+00032) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: T (U+00054) a (U+00061) c (U+00063) t (U+00074) i (U+00069) c (U+00063) s (U+00073)
 backend         > export > fuzzy paragraph: i (U+00069) n (U+0006E) [space] s (U+00073) o (U+0006F) m (U+0006D) e (U+00065) [space] g (U+00067) e (U+00065) n (U+0006E) r (U+00072) e (U+00065) s (U+00073) [space] g (U+00067) i (U+00069) v (U+00076) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) [space] t (U+00074) h (U+00068) e (U+00065) [space] c (U+00063) a (U+00061) p (U+00070) a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] t (U+00074) o (U+0006F) [space] d (U+00064) o (U+0006F) [space] t (U+00074) h (U+00068) e (U+00065) [space] i (U+00069) n (U+0006E) c (U+00063) r (U+00072) e (U+00065) d (U+00064) i (U+00069) b (U+00062) l (U+0006C) e (U+00065) . (U+0002E) [space] F (U+00046) o (U+0006F) r (U+00072) [space] e (U+00065) x (U+00078) a (U+00061) m (U+0006D) p (U+00070) l (U+0006C) e (U+00065) [space] i (U+00069) n (U+0006E) [space] a (U+00061)
 pages           > flushing realpage 15, userpage 15, subpage 15
-structure       > sectioning > subsubsection @ level 5 : 0.3.3.2.4 -> No Repeat Attempts
 structure       > sectioning > subsection @ level 4 : 0.3.3.3 -> Rank
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'latn', no language 'dflt'
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'cyrl', no language 'dflt'
@@ -377,24 +377,24 @@ structure       > sectioning > subsection @ level 4 : 0.3.3.5 -> Die Rolls
 structure       > sectioning > subsection @ level 4 : 0.3.3.6 -> Outcome
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 5 (U+00035)
 backend         > export > fuzzy paragraph: D (U+00044) i (U+00069) e (U+00065) [space] R (U+00052) o (U+0006F) l (U+0006C) l (U+0006C) s (U+00073)
+backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 6 (U+00036)
+backend         > export > fuzzy paragraph: O (U+0004F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065)
 pages           > flushing realpage 17, userpage 17, subpage 17
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.6.1 -> Narrating Outcomes
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.6.2 -> Confusing Ties
 structure       > sectioning > subsection @ level 4 : 0.3.3.7 -> Bumps
-backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 6 (U+00036)
-backend         > export > fuzzy paragraph: O (U+0004F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065)
+structure       > sectioning > subsubsection @ level 5 : 0.3.3.7.1 -> Bump Up with Mastery
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 6 (U+00036) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: N (U+0004E) a (U+00061) r (U+00072) r (U+00072) a (U+00061) t (U+00074) i (U+00069) n (U+0006E) g (U+00067) [space] O (U+0004F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 6 (U+00036) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: C (U+00043) o (U+0006F) n (U+0006E) f (U+00066) u (U+00075) s (U+00073) i (U+00069) n (U+0006E) g (U+00067) [space] T (U+00054) i (U+00069) e (U+00065) s (U+00073)
+backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037)
+backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) s (U+00073)
 pages           > flushing realpage 18, userpage 18, subpage 18
-structure       > sectioning > subsubsection @ level 5 : 0.3.3.7.1 -> Bump Up with Mastery
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.7.2 -> Bump Up with Story Points
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.7.3 -> Bump Down with Mastery
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.7.4 -> Bump Up with Negative Mastery
 structure       > sectioning > section @ level 3 : 0.3.4 -> Modifiers
-backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037)
-backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) s (U+00073)
 backend         > export > fuzzy paragraph: a (U+00061) l (U+0006C) w (U+00077) a (U+00061) y (U+00079) s (U+00073) [space] a (U+00061) e (U+00065) c (U+00063) t (U+00074) [space] r (U+00072) e (U+00065) s (U+00073) u (U+00075) l (U+0006C) t (U+00074) s (U+00073) [space] n (U+0006E) o (U+0006F) t (U+00074) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073) , (U+0002C) [space] a (U+00061) l (U+0006C) t (U+00074) h (U+00068) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) h (U+00068) e (U+00065) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) [space] c (U+00063) o (U+0006F) u (U+00075) l (U+0006C) d (U+00064) [space] c (U+00063) h (U+00068) a (U+00061) n (U+0006E) g (U+00067) e (U+00065) [space] a (U+00061) s (U+00073) [space] a (U+00061) n (U+0006E) [space] e (U+00065) e (U+00065) c (U+00063) t (U+00074) [space] o (U+0006F) f (U+00066) [space] g (U+00067) a (U+00061) i (U+00069) n (U+0006E) i (U+00069) n (U+0006E) g (U+00067) [space] a (U+00061)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) [space] U (U+00055) p (U+00070) [space] w (U+00077) i (U+00069) t (U+00074) h (U+00068) [space] M (U+0004D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079)
@@ -404,12 +404,12 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) 
 backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) [space] D (U+00044) o (U+0006F) w (U+00077) n (U+0006E) [space] w (U+00077) i (U+00069) t (U+00074) h (U+00068) [space] M (U+0004D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037) . (U+0002E) 4 (U+00034)
 backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) [space] U (U+00055) p (U+00070) [space] w (U+00077) i (U+00069) t (U+00074) h (U+00068) [space] N (U+0004E) e (U+00065) g (U+00067) a (U+00061) t (U+00074) i (U+00069) v (U+00076) e (U+00065) [space] M (U+0004D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079)
+backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034)
+backend         > export > fuzzy paragraph: M (U+0004D) o (U+0006F) d (U+00064) i (U+00069) ﬁ (U+0FB01) e (U+00065) r (U+00072) s (U+00073)
 pages           > flushing realpage 19, userpage 19, subpage 19
 structure       > sectioning > subsection @ level 4 : 0.3.4.1 -> Stretches
 structure       > sectioning > subsection @ level 4 : 0.3.4.2 -> Situational Modifiers
 structure       > sectioning > section @ level 3 : 0.3.5 -> Augments
-backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034)
-backend         > export > fuzzy paragraph: M (U+0004D) o (U+0006F) d (U+00064) i (U+00069) ﬁ (U+0FB01) e (U+00065) r (U+00072) s (U+00073)
 backend         > export > fuzzy paragraph: , (U+0002C) [space] m (U+0006D) a (U+00061) y (U+00079) [space] r (U+00072) a (U+00061) i (U+00069) s (U+00073) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] h (U+00068) i (U+00069) g (U+00067) h (U+00068) [space] e (U+00065) n (U+0006E) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) o (U+0006F) [space] g (U+00067) a (U+00061) i (U+00069) n (U+0006E) [space] a (U+00061) [space] m (U+0006D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079) , (U+0002C) [space] i (U+00069) n (U+0006E) [space] w (U+00077) h (U+00068) i (U+00069) c (U+00063) h (U+00068) [space] c (U+00063) a (U+00061) s (U+00073) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) [space] g (U+00067) e (U+00065) t (U+00074) [space] t (U+00074) h (U+00068) e (U+00065) [space] b (U+00062) u (U+00075) m (U+0006D) p (U+00070) s (U+00073) [space] u (U+00075) p (U+00070) [space] o (U+0006F) r (U+00072)
 backend         > export > fuzzy paragraph: , (U+0002C) [space] m (U+0006D) a (U+00061) y (U+00079) [space] l (U+0006C) o (U+0006F) w (U+00077) e (U+00065) r (U+00072) [space] a (U+00061) n (U+0006E) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] t (U+00074) o (U+0006F) [space] t (U+00074) h (U+00068) e (U+00065) [space] p (U+00070) o (U+0006F) i (U+00069) n (U+0006E) t (U+00074) [space] w (U+00077) h (U+00068) e (U+00065) r (U+00072) e (U+00065) [space] i (U+00069) t (U+00074) [space] l (U+0006C) o (U+0006F) s (U+00073) e (U+00065) s (U+00073) [space] o (U+0006F) n (U+0006E) e (U+00065) [space] o (U+0006F) r (U+00072) [space] m (U+0006D) o (U+0006F) r (U+00072) e (U+00065) [space] m (U+0006D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) i (U+00069) e (U+00065) s (U+00073) . (U+0002E) [space] I (U+00049) n (U+0006E) [space] t (U+00074) h (U+00068) i (U+00069) s (U+00073) [space] c (U+00063) a (U+00061) s (U+00073) e (U+00065) , (U+0002C) [space] y (U+00079) o (U+0006F) u (U+00075) [space] l (U+0006C) o (U+0006F) s (U+00073) e (U+00065) [space] t (U+00074) h (U+00068) e (U+00065)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034) . (U+0002E) 1 (U+00031)
@@ -420,11 +420,11 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 5 (U+00035)
 backend         > export > fuzzy paragraph: A (U+00041) u (U+00075) g (U+00067) m (U+0006D) e (U+00065) n (U+0006E) t (U+00074) s (U+00073)
 pages           > flushing realpage 20, userpage 20, subpage 20
 structure       > sectioning > section @ level 3 : 0.3.6 -> Flaws
+structure       > sectioning > subsection @ level 4 : 0.3.6.1 -> Hindrance
 backend         > export > fuzzy paragraph: c (U+00063) a (U+00061) n (U+0006E) [space] a (U+00061) l (U+0006C) s (U+00073) o (U+0006F) [space] c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) [space] f (U+00066) r (U+00072) o (U+0006F) m (U+0006D) [space] o (U+0006F) t (U+00074) h (U+00068) e (U+00065) r (U+00072) [space] c (U+00063) h (U+00068) a (U+00061) r (U+00072) a (U+00061) c (U+00063) t (U+00074) e (U+00065) r (U+00072) s (U+00073) ’ (U+02019) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) i (U+00069) e (U+00065) s (U+00073) [space] i (U+00069) f (U+00066) [space] o (U+0006F) n (U+0006E) e (U+00065) [space] c (U+00063) h (U+00068) a (U+00061) r (U+00072) a (U+00061) c (U+00063) t (U+00074) e (U+00065) r (U+00072) [space] u (U+00075) s (U+00073) e (U+00065) s (U+00073) [space] a (U+00061) n (U+0006E) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] t (U+00074) o (U+0006F) [space] s (U+00073) u (U+00075) p (U+00070) p (U+00070) o (U+0006F) r (U+00072) t (U+00074) [space] a (U+00061) n (U+0006E) o (U+0006F) t (U+00074) h (U+00068) e (U+00065) r (U+00072) ’ (U+02019) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 6 (U+00036)
 backend         > export > fuzzy paragraph: F (U+00046) l (U+0006C) a (U+00061) w (U+00077) s (U+00073)
 pages           > flushing realpage 21, userpage 21, subpage 21
-structure       > sectioning > subsection @ level 4 : 0.3.6.1 -> Hindrance
 structure       > sectioning > subsection @ level 4 : 0.3.6.2 -> Act according to your flaw
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 6 (U+00036) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: H (U+00048) i (U+00069) n (U+0006E) d (U+00064) r (U+00072) a (U+00061) n (U+0006E) c (U+00063) e (U+00065)
@@ -433,13 +433,13 @@ backend         > export > fuzzy paragraph: A (U+00041) c (U+00063) t (U+00074) 
 pages           > flushing realpage 22, userpage 22, subpage 22
 structure       > sectioning > section @ level 3 : 0.3.7 -> Benefits and Consequences
 structure       > sectioning > subsection @ level 4 : 0.3.7.1 -> Consequences
+structure       > sectioning > subsubsection @ level 5 : 0.3.7.1.1 -> Ending a PC's story
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037)
 backend         > export > fuzzy paragraph: B (U+00042) e (U+00065) n (U+0006E) e (U+00065) ﬁ (U+0FB01) t (U+00074) s (U+00073) [space] a (U+00061) n (U+0006E) d (U+00064) [space] C (U+00043) o (U+0006F) n (U+0006E) s (U+00073) e (U+00065) q (U+00071) u (U+00075) e (U+00065) n (U+0006E) c (U+00063) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: , (U+0002C) [space] i (U+00069) n (U+0006E) [space] a (U+00061) d (U+00064) d (U+00064) i (U+00069) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) [space] t (U+00074) o (U+0006F) [space] d (U+00064) e (U+00065) c (U+00063) i (U+00069) d (U+00064) i (U+00069) n (U+0006E) g (U+00067) [space] w (U+00077) h (U+00068) e (U+00065) t (U+00074) h (U+00068) e (U+00065) r (U+00072) [space] y (U+00079) o (U+0006F) u (U+00075) [space] o (U+0006F) v (U+00076) e (U+00065) r (U+00072) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) [space] a (U+00061) [space] s (U+00073) t (U+00074) o (U+0006F) r (U+00072) y (U+00079) [space] o (U+0006F) b (U+00062) s (U+00073) t (U+00074) a (U+00061) c (U+00063) l (U+0006C) e (U+00065) , (U+0002C) [space] c (U+00063) a (U+00061) r (U+00072) r (U+00072) y (U+00079) [space] a (U+00061) d (U+00064) d (U+00064) i (U+00069) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) a (U+00061) l (U+0006C) [space] c (U+00063) o (U+0006F) n (U+0006E) s (U+00073) e (U+00065) q (U+00071) u (U+00075) e (U+00065) n (U+0006E) c (U+00063) e (U+00065) s (U+00073) . (U+0002E)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: C (U+00043) o (U+0006F) n (U+0006E) s (U+00073) e (U+00065) q (U+00071) u (U+00075) e (U+00065) n (U+0006E) c (U+00063) e (U+00065) s (U+00073)
 pages           > flushing realpage 23, userpage 23, subpage 23
-structure       > sectioning > subsubsection @ level 5 : 0.3.7.1.1 -> Ending a PC's story
 structure       > sectioning > subsection @ level 4 : 0.3.7.2 -> Benefits
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037) . (U+0002E) 1 (U+00031) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: E (U+00045) n (U+0006E) d (U+00064) i (U+00069) n (U+0006E) g (U+00067) [space] a (U+00061) [space] P (U+00050) C (U+00043) ’ (U+02019) s (U+00073) [space] s (U+00073) t (U+00074) o (U+0006F) r (U+00072) y (U+00079)
@@ -457,17 +457,17 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037) 
 backend         > export > fuzzy paragraph: H (U+00048) e (U+00065) a (U+00061) l (U+0006C) i (U+00069) n (U+0006E) g (U+00067) [space] A (U+00041) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) i (U+00069) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037) . (U+0002E) 3 (U+00033) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: H (U+00048) e (U+00065) a (U+00061) l (U+0006C) i (U+00069) n (U+0006E) g (U+00067) [space] R (U+00052) e (U+00065) s (U+00073) i (U+00069) s (U+00073) t (U+00074) a (U+00061) n (U+0006E) c (U+00063) e (U+00065) s (U+00073)
+backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037) . (U+0002E) 4 (U+00034)
+backend         > export > fuzzy paragraph: W (U+00057) a (U+00061) n (U+0006E) i (U+00069) n (U+0006E) g (U+00067) [space] B (U+00042) e (U+00065) n (U+0006E) e (U+00065) ﬁ (U+0FB01) t (U+00074) s (U+00073)
 pages           > flushing realpage 25, userpage 25, subpage 25
 structure       > sectioning > subsection @ level 4 : 0.3.7.5 -> Multiple Benefits And Consequences
 structure       > sectioning > section @ level 3 : 0.3.8 -> Resistance Progression
-backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037) . (U+0002E) 4 (U+00034)
-backend         > export > fuzzy paragraph: W (U+00057) a (U+00061) n (U+0006E) i (U+00069) n (U+0006E) g (U+00067) [space] B (U+00042) e (U+00065) n (U+0006E) e (U+00065) ﬁ (U+0FB01) t (U+00074) s (U+00073)
+structure       > sectioning > subsection @ level 4 : 0.3.8.1 -> No Progression
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 7 (U+00037) . (U+0002E) 5 (U+00035)
 backend         > export > fuzzy paragraph: M (U+0004D) u (U+00075) l (U+0006C) t (U+00074) i (U+00069) p (U+00070) l (U+0006C) e (U+00065) [space] B (U+00042) e (U+00065) n (U+0006E) e (U+00065) ﬁ (U+0FB01) t (U+00074) s (U+00073) [space] A (U+00041) n (U+0006E) d (U+00064) [space] C (U+00043) o (U+0006F) n (U+0006E) s (U+00073) e (U+00065) q (U+00071) u (U+00075) e (U+00065) n (U+0006E) c (U+00063) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 8 (U+00038)
 backend         > export > fuzzy paragraph: R (U+00052) e (U+00065) s (U+00073) i (U+00069) s (U+00073) t (U+00074) a (U+00061) n (U+0006E) c (U+00063) e (U+00065) [space] P (U+00050) r (U+00072) o (U+0006F) g (U+00067) r (U+00072) e (U+00065) s (U+00073) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E)
 pages           > flushing realpage 26, userpage 26, subpage 26
-structure       > sectioning > subsection @ level 4 : 0.3.8.1 -> No Progression
 structure       > sectioning > section @ level 3 : 0.3.9 -> Combined Abilities
 structure       > sectioning > section @ level 3 : 0.3.10 -> Mismatched and Graduated Goals
 structure       > sectioning > section @ level 3 : 0.3.11 -> Mobs, Gangs, and Hordes
@@ -480,33 +480,33 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) 
 backend         > export > fuzzy paragraph: M (U+0004D) i (U+00069) s (U+00073) m (U+0006D) a (U+00061) t (U+00074) c (U+00063) h (U+00068) e (U+00065) d (U+00064) [space] a (U+00061) n (U+0006E) d (U+00064) [space] G (U+00047) r (U+00072) a (U+00061) d (U+00064) u (U+00075) a (U+00061) t (U+00074) e (U+00065) d (U+00064) [space] G (U+00047) o (U+0006F) a (U+00061) l (U+0006C) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) 1 (U+00031)
 backend         > export > fuzzy paragraph: M (U+0004D) o (U+0006F) b (U+00062) s (U+00073) , (U+0002C) [space] G (U+00047) a (U+00061) n (U+0006E) g (U+00067) s (U+00073) , (U+0002C) [space] a (U+00061) n (U+0006E) d (U+00064) [space] H (U+00048) o (U+0006F) r (U+00072) d (U+00064) e (U+00065) s (U+00073)
+backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) 2 (U+00032)
+backend         > export > fuzzy paragraph: G (U+00047) a (U+00061) n (U+0006E) g (U+00067) i (U+00069) n (U+0006E) g (U+00067) [space] U (U+00055) p (U+00070)
 pages           > flushing realpage 27, userpage 27, subpage 27
 structure       > sectioning > section @ level 3 : 0.3.13 -> Mass Effort
 structure       > sectioning > chapter @ level 2 : 0.4 -> Character Creation
 structure       > sectioning > section @ level 3 : 0.4.1 -> As-You-Go Method
-backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) 2 (U+00032)
-backend         > export > fuzzy paragraph: G (U+00047) a (U+00061) n (U+0006E) g (U+00067) i (U+00069) n (U+0006E) g (U+00067) [space] U (U+00055) p (U+00070)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) 3 (U+00033)
 backend         > export > fuzzy paragraph: M (U+0004D) a (U+00061) s (U+00073) s (U+00073) [space] E (U+00045) o (U+0006F) r (U+00072) t (U+00074)
 backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 0 (U+00030)
 backend         > export > fuzzy paragraph: C (U+00043) h (U+00068) a (U+00061) r (U+00072) a (U+00061) c (U+00063) t (U+00074) e (U+00065) r (U+00072) [space] C (U+00043) r (U+00072) e (U+00065) a (U+00061) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E)
+backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 1 (U+00031)
+backend         > export > fuzzy paragraph: A (U+00041) s (U+00073) Y (U+00059) o (U+0006F) u (U+00075) G (U+00047) o (U+0006F) [space] M (U+0004D) e (U+00065) t (U+00074) h (U+00068) o (U+0006F) d (U+00064)
 pages           > flushing realpage 28, userpage 28, subpage 28
 structure       > sectioning > section @ level 3 : 0.4.2 -> Assigning Ability Scores
 structure       > sectioning > section @ level 3 : 0.4.3 -> Keywords
-backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 1 (U+00031)
-backend         > export > fuzzy paragraph: A (U+00041) s (U+00073) Y (U+00059) o (U+0006F) u (U+00075) G (U+00047) o (U+0006F) [space] M (U+0004D) e (U+00065) t (U+00074) h (U+00068) o (U+0006F) d (U+00064)
 backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: A (U+00041) s (U+00073) s (U+00073) i (U+00069) g (U+00067) n (U+0006E) i (U+00069) n (U+0006E) g (U+00067) [space] A (U+00041) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: K (U+0004B) e (U+00065) y (U+00079) w (U+00077) o (U+0006F) r (U+00072) d (U+00064) s (U+00073)
+backend         > export > fuzzy paragraph: a (U+00061) r (U+00072) e (U+00065) [space] b (U+00062) e (U+00065) s (U+00073) t (U+00074) [space] s (U+00073) u (U+00075) i (U+00069) t (U+00074) e (U+00065) d (U+00064) [space] f (U+00066) o (U+0006F) r (U+00072) [space] u (U+00075) s (U+00073) e (U+00065) [space] a (U+00061) s (U+00073) [space] t (U+00074) h (U+00068) e (U+00065) [space] P (U+00050) C (U+00043) ’ (U+02019) s (U+00073) [space] o (U+0006F) c (U+00063) c (U+00063) u (U+00075) p (U+00070) a (U+00061) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) . (U+0002E)
+backend         > export > fuzzy paragraph: : (U+0003A) [space] T (U+00054) r (U+00072) e (U+00065) a (U+00061) t (U+00074) [space] k (U+0006B) e (U+00065) y (U+00079) w (U+00077) o (U+0006F) r (U+00072) d (U+00064) s (U+00073) [space] s (U+00073) i (U+00069) m (U+0006D) p (U+00070) l (U+0006C) y (U+00079) [space] a (U+00061) s (U+00073) [space] s (U+00073) h (U+00068) o (U+0006F) r (U+00072) t (U+00074) h (U+00068) a (U+00061) n (U+0006E) d (U+00064) [space] f (U+00066) o (U+0006F) r (U+00072) [space] a (U+00061) [space] p (U+00070) a (U+00061) c (U+00063) k (U+0006B) a (U+00061) g (U+00067) e (U+00065) [space] o (U+0006F) f (U+00066) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) i (U+00069) e (U+00065) s (U+00073) . (U+0002E) [space] T (U+00054) h (U+00068) e (U+00065) s (U+00073) e (U+00065) [space] c (U+00063) a (U+00061) n (U+0006E) [space] b (U+00062) e (U+00065)
 pages           > flushing realpage 29, userpage 29, subpage 29
 structure       > sectioning > section @ level 3 : 0.4.4 -> Flaws
 structure       > sectioning > section @ level 3 : 0.4.5 -> Advanced Character Creation
 structure       > sectioning > subsection @ level 4 : 0.4.5.1 -> The List Method
 structure       > sectioning > subsection @ level 4 : 0.4.5.2 -> The Prose Method
 structure       > sectioning > section @ level 3 : 0.4.6 -> List Method
-backend         > export > fuzzy paragraph: a (U+00061) r (U+00072) e (U+00065) [space] b (U+00062) e (U+00065) s (U+00073) t (U+00074) [space] s (U+00073) u (U+00075) i (U+00069) t (U+00074) e (U+00065) d (U+00064) [space] f (U+00066) o (U+0006F) r (U+00072) [space] u (U+00075) s (U+00073) e (U+00065) [space] a (U+00061) s (U+00073) [space] t (U+00074) h (U+00068) e (U+00065) [space] P (U+00050) C (U+00043) ’ (U+02019) s (U+00073) [space] o (U+0006F) c (U+00063) c (U+00063) u (U+00075) p (U+00070) a (U+00061) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) . (U+0002E)
-backend         > export > fuzzy paragraph: : (U+0003A) [space] T (U+00054) r (U+00072) e (U+00065) a (U+00061) t (U+00074) [space] k (U+0006B) e (U+00065) y (U+00079) w (U+00077) o (U+0006F) r (U+00072) d (U+00064) s (U+00073) [space] s (U+00073) i (U+00069) m (U+0006D) p (U+00070) l (U+0006C) y (U+00079) [space] a (U+00061) s (U+00073) [space] s (U+00073) h (U+00068) o (U+0006F) r (U+00072) t (U+00074) h (U+00068) a (U+00061) n (U+0006E) d (U+00064) [space] f (U+00066) o (U+0006F) r (U+00072) [space] a (U+00061) [space] p (U+00070) a (U+00061) c (U+00063) k (U+0006B) a (U+00061) g (U+00067) e (U+00065) [space] o (U+0006F) f (U+00066) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) i (U+00069) e (U+00065) s (U+00073) . (U+0002E) [space] T (U+00054) h (U+00068) e (U+00065) s (U+00073) e (U+00065) [space] c (U+00063) a (U+00061) n (U+0006E) [space] b (U+00062) e (U+00065)
 backend         > export > fuzzy paragraph: : (U+0003A) [space] T (U+00054) r (U+00072) e (U+00065) a (U+00061) t (U+00074) [space] k (U+0006B) e (U+00065) y (U+00079) w (U+00077) o (U+0006F) r (U+00072) d (U+00064) s (U+00073) [space] b (U+00062) o (U+0006F) t (U+00074) h (U+00068) [space] a (U+00061) s (U+00073) [space] r (U+00072) a (U+00061) i (U+00069) s (U+00073) a (U+00061) b (U+00062) l (U+0006C) e (U+00065) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) i (U+00069) e (U+00065) s (U+00073) [space] a (U+00061) n (U+0006E) d (U+00064) [space] a (U+00061) s (U+00073) [space] a (U+00061) [space] c (U+00063) o (U+0006F) l (U+0006C) l (U+0006C) e (U+00065) c (U+00063) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) [space] o (U+0006F) f (U+00066) [space] m (U+0006D) o (U+0006F) r (U+00072) e (U+00065) [space] s (U+00073) p (U+00070) e (U+00065) c (U+00063) i (U+00069) 󰂲 (U+F00B2) c (U+00063)
 backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 4 (U+00034)
 backend         > export > fuzzy paragraph: F (U+00046) l (U+0006C) a (U+00061) w (U+00077) s (U+00073)
@@ -518,13 +518,13 @@ backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 5 (U+00035) 
 backend         > export > fuzzy paragraph: T (U+00054) h (U+00068) e (U+00065) [space] L (U+0004C) i (U+00069) s (U+00073) t (U+00074) [space] M (U+0004D) e (U+00065) t (U+00074) h (U+00068) o (U+0006F) d (U+00064)
 backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 5 (U+00035) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: T (U+00054) h (U+00068) e (U+00065) [space] P (U+00050) r (U+00072) o (U+0006F) s (U+00073) e (U+00065) [space] M (U+0004D) e (U+00065) t (U+00074) h (U+00068) o (U+0006F) d (U+00064)
+backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 6 (U+00036)
+backend         > export > fuzzy paragraph: L (U+0004C) i (U+00069) s (U+00073) t (U+00074) [space] M (U+0004D) e (U+00065) t (U+00074) h (U+00068) o (U+0006F) d (U+00064)
 pages           > flushing realpage 30, userpage 30, subpage 30
 structure       > sectioning > section @ level 3 : 0.4.7 -> Prose Method
 structure       > sectioning > chapter @ level 2 : 0.5 -> Simple Contests
 structure       > sectioning > section @ level 3 : 0.5.1 -> Simple Contest
 structure       > sectioning > subsection @ level 4 : 0.5.1.1 -> Procedure
-backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 6 (U+00036)
-backend         > export > fuzzy paragraph: L (U+0004C) i (U+00069) s (U+00073) t (U+00074) [space] M (U+0004D) e (U+00065) t (U+00074) h (U+00068) o (U+0006F) d (U+00064)
 backend         > export > fuzzy paragraph: 3 (U+00033) . (U+0002E) 7 (U+00037)
 backend         > export > fuzzy paragraph: P (U+00050) r (U+00072) o (U+0006F) s (U+00073) e (U+00065) [space] M (U+0004D) e (U+00065) t (U+00074) h (U+00068) o (U+0006F) d (U+00064)
 backend         > export > fuzzy paragraph: 4 (U+00034) . (U+0002E) 0 (U+00030)
@@ -553,21 +553,21 @@ backend         > export > fuzzy paragraph: N (U+0004E) o (U+0006F) [space] N (U
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) d (U+00064) [space] C (U+00043) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074)
 backend         > export > fuzzy paragraph: a (U+00061) r (U+00072) e (U+00065) [space] l (U+0006C) o (U+0006F) n (U+0006E) g (U+00067) e (U+00065) r (U+00072) [space] a (U+00061) n (U+0006E) d (U+00064) [space] m (U+0006D) o (U+0006F) r (U+00072) e (U+00065) [space] d (U+00064) r (U+00072) a (U+00061) m (U+0006D) a (U+00061) t (U+00074) i (U+00069) c (U+00063) [space] t (U+00074) h (U+00068) a (U+00061) n (U+0006E) [space] s (U+00073) i (U+00069) m (U+0006D) p (U+00070) l (U+0006C) e (U+00065) [space] c (U+00063) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074) s (U+00073) . (U+0002E) [space] Y (U+00059) o (U+0006F) u (U+00075) r (U+00072) [space] G (U+00047) M (U+0004D) [space] u (U+00075) s (U+00073) e (U+00065) s (U+00073) [space] s (U+00073) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) d (U+00064) [space] c (U+00063) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074) s (U+00073)
-pages           > flushing realpage 33, userpage 33, subpage 33
-structure       > sectioning > subsubsection @ level 5 : 0.6.2.1.1 -> Resolution Points
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 2 (U+00032) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: P (U+00050) r (U+00072) o (U+0006F) c (U+00063) e (U+00065) d (U+00064) u (U+00075) r (U+00072) e (U+00065)
+pages           > flushing realpage 33, userpage 33, subpage 33
+structure       > sectioning > subsubsection @ level 5 : 0.6.2.1.1 -> Resolution Points
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 2 (U+00032) . (U+0002E) 1 (U+00031) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: R (U+00052) e (U+00065) s (U+00073) o (U+0006F) l (U+0006C) u (U+00075) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) [space] P (U+00050) o (U+0006F) i (U+00069) n (U+0006E) t (U+00074) s (U+00073)
 pages           > flushing realpage 34, userpage 34, subpage 34
 structure       > sectioning > subsection @ level 4 : 0.6.2.2 -> Scored Contest Outcomes
 structure       > sectioning > subsection @ level 4 : 0.6.2.3 -> Parting Shot
+structure       > sectioning > subsection @ level 4 : 0.6.2.4 -> Asymmetrical Round
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 2 (U+00032) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) d (U+00064) [space] C (U+00043) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074) [space] O (U+0004F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 2 (U+00032) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: P (U+00050) a (U+00061) r (U+00072) t (U+00074) i (U+00069) n (U+0006E) g (U+00067) [space] S (U+00053) h (U+00068) o (U+0006F) t (U+00074)
 pages           > flushing realpage 35, userpage 35, subpage 35
-structure       > sectioning > subsection @ level 4 : 0.6.2.4 -> Asymmetrical Round
 structure       > sectioning > subsection @ level 4 : 0.6.2.5 -> Disengaging
 structure       > sectioning > section @ level 3 : 0.6.3 -> Group Scored Contest
 structure       > sectioning > subsection @ level 4 : 0.6.3.1 -> Procedure
@@ -578,18 +578,18 @@ backend         > export > fuzzy paragraph: D (U+00044) i (U+00069) s (U+00073) 
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: G (U+00047) r (U+00072) o (U+0006F) u (U+00075) p (U+00070) [space] S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) d (U+00064) [space] C (U+00043) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074)
 backend         > export > fuzzy paragraph: p (U+00070) r (U+00072) o (U+0006F) c (U+00063) e (U+00065) e (U+00065) d (U+00064) [space] a (U+00061) s (U+00073) [space] a (U+00061) [space] s (U+00073) e (U+00065) r (U+00072) i (U+00069) e (U+00065) s (U+00073) [space] o (U+0006F) f (U+00066) [space] s (U+00073) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) d (U+00064) [space] c (U+00063) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074) s (U+00073) [space] b (U+00062) e (U+00065) t (U+00074) w (U+00077) e (U+00065) e (U+00065) n (U+0006E) [space] p (U+00070) a (U+00061) i (U+00069) r (U+00072) s (U+00073) [space] o (U+0006F) f (U+00066) [space] P (U+00050) C (U+00043) [space] a (U+00061) n (U+0006E) d (U+00064) [space] o (U+0006F) p (U+00070) p (U+00070) o (U+0006F) n (U+0006E) e (U+00065) n (U+0006E) t (U+00074) s (U+00073) , (U+0002C) [space] i (U+00069) n (U+0006E) t (U+00074) e (U+00065) r (U+00072) w (U+00077) o (U+0006F) ­ (U+000AD)
+backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 3 (U+00033) . (U+0002E) 1 (U+00031)
+backend         > export > fuzzy paragraph: P (U+00050) r (U+00072) o (U+0006F) c (U+00063) e (U+00065) d (U+00064) u (U+00075) r (U+00072) e (U+00065)
 pages           > flushing realpage 36, userpage 36, subpage 36
 structure       > sectioning > subsection @ level 4 : 0.6.3.2 -> Group Scored Contest Outcomes
 structure       > sectioning > subsection @ level 4 : 0.6.3.3 -> Unrelated Actions
-backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 3 (U+00033) . (U+0002E) 1 (U+00031)
-backend         > export > fuzzy paragraph: P (U+00050) r (U+00072) o (U+0006F) c (U+00063) e (U+00065) d (U+00064) u (U+00075) r (U+00072) e (U+00065)
+structure       > sectioning > subsection @ level 4 : 0.6.3.4 -> Assists
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 3 (U+00033) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: G (U+00047) r (U+00072) o (U+0006F) u (U+00075) p (U+00070) [space] S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) d (U+00064) [space] C (U+00043) o (U+0006F) n (U+0006E) t (U+00074) e (U+00065) s (U+00073) t (U+00074) [space] O (U+0004F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073)
-pages           > flushing realpage 37, userpage 37, subpage 37
-structure       > sectioning > subsection @ level 4 : 0.6.3.4 -> Assists
-structure       > sectioning > subsection @ level 4 : 0.6.3.5 -> Followers
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 3 (U+00033) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: U (U+00055) n (U+0006E) r (U+00072) e (U+00065) l (U+0006C) a (U+00061) t (U+00074) e (U+00065) d (U+00064) [space] A (U+00041) c (U+00063) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) s (U+00073)
+pages           > flushing realpage 37, userpage 37, subpage 37
+structure       > sectioning > subsection @ level 4 : 0.6.3.5 -> Followers
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 3 (U+00033) . (U+0002E) 4 (U+00034)
 backend         > export > fuzzy paragraph: A (U+00041) s (U+00073) s (U+00073) i (U+00069) s (U+00073) t (U+00074) s (U+00073)
 backend         > export > fuzzy paragraph: 5 (U+00035) . (U+0002E) 3 (U+00033) . (U+0002E) 5 (U+00035)
@@ -1629,10 +1629,10 @@ system          > stop used files
 system          > start commandline options
 
 system          > autogenerate="true"
-system          > currentrun="1"
+system          > currentrun="2"
 system          > fulljobname="./QuestWorlds.tex"
 system          > input="./QuestWorlds.tex"
-system          > kindofrun="1"
+system          > kindofrun="2"
 system          > maxnofruns="9"
 system          > synctex="1"
 system          > texmfbinpath="/usr/local/texlive/2020/bin/x86_64-darwin"
@@ -1655,35 +1655,35 @@ modules         > stop used modules
 
 mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable+writable: '/Users/kynnin/Library/texlive/2020/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
-mkiv lua stats  > resource resolver: loadtime 0.111 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 30 found files, scanned paths: /Users/kynnin/Library/texmf
-mkiv lua stats  > stored bytecode data: 450 modules (0.288 sec), 93 tables (0.011 sec), 543 chunks (0.299 sec)
+mkiv lua stats  > resource resolver: loadtime 0.150 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 30 found files, scanned paths: /Users/kynnin/Library/texmf
+mkiv lua stats  > stored bytecode data: 450 modules (0.341 sec), 93 tables (0.015 sec), 543 chunks (0.356 sec)
 mkiv lua stats  > traced context: maxstack: 1399, freed: 1, unreachable: 1398
 mkiv lua stats  > cleaned up reserved nodes: 61 nodes, 9 lists of 442
 mkiv lua stats  > node memory usage: 2186 attribute, 439 attribute_list, 4 glue, 52 glue_spec, 3 kern, 3 penalty, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 225 instances (re)created, 23114 calls
-mkiv lua stats  > h-node processing time: 1.451 seconds including kernel
-mkiv lua stats  > inserted spaces in output: 32906
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 225 instances (re)created, 23116 calls
+mkiv lua stats  > h-node processing time: 1.548 seconds including kernel
+mkiv lua stats  > inserted spaces in output: 32904
 mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 10444 objects flushed, logfile: QuestWorlds.synctex
-mkiv lua stats  > attribute processing time: 0.106 seconds front- and backend
-mkiv lua stats  > driver time: 0.206 seconds 
+mkiv lua stats  > attribute processing time: 0.115 seconds front- and backend
+mkiv lua stats  > driver time: 0.220 seconds 
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.045 seconds saving, 0.012 seconds loading
-mkiv lua stats  > callbacks: internal: 40937, file: 8977, direct: 118, late: 12826, function 26980, total: 89838 (1198 per page)
+mkiv lua stats  > jobdata time: 0.057 seconds saving, 0.014 seconds loading
+mkiv lua stats  > callbacks: internal: 40946, file: 8979, direct: 118, late: 12826, function 26996, total: 89865 (1198 per page)
 mkiv lua stats  > randomizer: resumed with value 0.94498985214159
 mkiv lua stats  > positions: 1192 collected, 1176 regular, 16 special
-mkiv lua stats  > v-node processing time: 0.068 seconds 
+mkiv lua stats  > v-node processing time: 0.076 seconds 
 mkiv lua stats  > result saved in file: QuestWorlds.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
-mkiv lua stats  > structure elements: 4140 element chains identified
+mkiv lua stats  > structure elements: 4147 element chains identified
 mkiv lua stats  > interactive elements: 177 references, 336 destinations
 mkiv lua stats  > margin data: 215 entries, 0 pending
 mkiv lua stats  > loaded fonts: 13 files: cmunbi.otf, cmunbx.otf, cmunrm.otf, cmunti.otf, ebgaramond-italic.otf, ebgaramond-regular.otf, ebgaramond-semibold.otf, ebgaramond-semibolditalic.otf, latinmodern-math.otf, lmmono10-regular.otf, lmsans10-bold.otf, lmsans10-boldoblique.otf, lmsans10-regular.otf
-mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 35 instances, 20 shared in backend, 2 common vectors, 18 common hashes, load time 0.364 seconds 
+mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 35 instances, 20 shared in backend, 2 common vectors, 18 common hashes, load time 0.377 seconds 
 mkiv lua stats  > graphics processing time: 0.002 seconds including tex, 2 processed images, 2 unique asked, 2 bad names
 mkiv lua stats  > pdf annotations: 177 links (177 unique), 0 special
 mkiv lua stats  > used platform: osx-ppc, type: unix, binary subtree: bin
 mkiv lua stats  > used engine: luatex version: 1.12, functionality level: 7306, banner: this is luatex, version 1.12.0 (tex live 2020)
-mkiv lua stats  > control sequences: 46499 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 232 MB, ctx: 230 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 5.095 seconds, 76 processed pages, 76 shipped pages, 14.917 pages/second
+mkiv lua stats  > control sequences: 46500 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 233 MB, ctx: 231 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 5.534 seconds, 76 processed pages, 76 shipped pages, 13.733 pages/second
 
