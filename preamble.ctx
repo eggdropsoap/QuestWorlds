@@ -274,6 +274,38 @@
 
 %% end format table captions
 
+%% zebra stripe tables
+\definecolor[lightergray][r=0.92,g=0.92,b=0.92]
+
+\def\TableBackgroundColour{%
+  \ifnum\currentxtablerow>0
+    \ifodd\currentxtablerow\else
+    	lightergray%
+    \fi
+  \fi
+}
+
+\def\TopRowFrameOn{%
+  \ifnum\currentxtablerow=2
+    on%
+    \else%
+    off%
+  \fi
+}
+
+\setupxtable[head][
+  topframe=on,
+  bottomframe=on,
+]
+\setupxtable[
+  background=color,
+  backgroundcolor=\TableBackgroundColour,
+  topframe=\TopRowFrameOn,	% needed because background draws *over* frame of the previous row!
+  offset=1mm,
+]
+
+%% end zebra stripe tables
+
 % glossary layout
 \define[1]\GlossaryTerm{#1:}
 \setupdescription
