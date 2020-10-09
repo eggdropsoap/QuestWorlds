@@ -1,7 +1,7 @@
 return {
  ["htmlfiles"]={ "QuestWorlds-div.html" },
  ["htmlroot"]="QuestWorlds-div.html",
- ["identifier"]="ef68b80b-49c1-a153-1b9e-c4de46f5db37",
+ ["identifier"]="1f11c1f0-4701-98b9-996b-0e8d87b693f1",
  ["imagefile"]="styles/QuestWorlds-images.css",
  ["imagepath"]="images",
  ["images"]={
