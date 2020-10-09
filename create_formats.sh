@@ -1,12 +1,15 @@
-echo Creating HTML...
+#!/bin/bash
+echo -n "Creating HTML... "
 pandoc -f markdown -t html markdown/QuestWorlds.md -o docs/QuestWorlds.html 
-echo Creating RTF...
+echo done.
+echo -n "Creating RTF... "
 pandoc -f markdown -s -t rtf markdown/QuestWorlds.md -o docs/QuestWorlds.rtf 
-echo Creating PDF via LaTeX...
+echo done.
+echo -n "Creating PDF via LaTeX... "
 pandoc markdown/QuestWorlds.md -s --toc  --pdf-engine=xelatex --template=chaosium.latex -H footers.tex -V geometry=margin=1.25in -V mainfont:'GaramondPremrPro' -V fontsize=11pt -o docs/QuestWorlds.pdf
 # To use this for debugging, set QuestWorlds.pdf to QuestWorlds.tex above, which will generate a tex file you can debug, or convert to PDF
 # Note that some options, such as changing the font, won't work with this
 # pdflatex -output-directory=docs docs/QuestWorlds.tex
-
+echo done.
 
 

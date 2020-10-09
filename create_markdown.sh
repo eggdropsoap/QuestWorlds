@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 VAR1=$(CAT << EOF
 0.0_Credits_&_Legal_Information.md \
 0.1_Legal_Information.md \
@@ -72,6 +72,8 @@ EOF
 )
 
 # echo "${VAR1}"
+echo -n "Combining markdown files... "
 cat $(echo "${VAR1}") > markdown/QuestWorlds.md
+echo done.
 echo "Markdown files compiled to markdown/QuestWorlds.md"
 
