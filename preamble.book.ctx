@@ -1,5 +1,5 @@
 % preamble.ctx
-% !TEX root = docs/context/QuestWorlds.tex
+% !TEX root = docs/context/QuestWorlds.book.tex
 
 % setup margins and layout
 \setuplayout[
