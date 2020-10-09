@@ -123,7 +123,7 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
-\input{../../preamble.ctx}
+\input{../../preamble.book.ctx}
 
 \starttext
 $if(title)$
