@@ -17,9 +17,9 @@ backend         >
 backend         > 
 selectfont      > The requested font 'Latin Modern Typewriter' has no files for the 'tf' alternative, Latin Modern is used instead.
 fonts           > defining > font 'lmroman10-regular', feature 'locl', script 'latn', no language 'dflt'
-open source     > level 3, order 4, name '../../preamble.ctx'
+open source     > level 3, order 4, name '../../preamble.book.ctx'
 system          > command '\completecontent' is already defined
-close source    > level 3, order 4, name '../../preamble.ctx'
+close source    > level 3, order 4, name '../../preamble.book.ctx'
 structure       > sectioning > title @ level 2 : 0.0 -> Contents
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'latn', no language 'dflt'
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'cyrl', no language 'dflt'
@@ -1701,7 +1701,7 @@ system          >   12: filename=mkiv-base.map filetype=map format=map foundname
 system          >   13: filename=lmroman10-regular.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf usedmethod=database
 system          >   14: filename=cmunrm.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf usedmethod=database
 system          >   15: filename=latinmodern-math.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
-system          >   16: filename=../../preamble.ctx foundname=../../preamble.ctx fullname=/Users/kynnin/Projects/Questworlds/SRD/preamble.ctx usedmethod=direct
+system          >   16: filename=../../preamble.book.ctx foundname=../../preamble.book.ctx fullname=/Users/kynnin/Projects/Questworlds/SRD/preamble.book.ctx usedmethod=direct
 system          >   17: filename=EBGaramond-Regular.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regular.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regular.otf usedmethod=database
 system          >   18: filename=EBGaramond-SemiBold.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBold.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBold.otf usedmethod=database
 system          >   19: filename=cmunbx.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunbx.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunbx.otf usedmethod=database
@@ -1724,10 +1724,10 @@ system          > stop used files
 system          > start commandline options
 
 system          > autogenerate="true"
-system          > currentrun="3"
+system          > currentrun="1"
 system          > fulljobname="./QuestWorlds.book.tex"
 system          > input="./QuestWorlds.book.tex"
-system          > kindofrun="2"
+system          > kindofrun="1"
 system          > maxnofruns="9"
 system          > synctex="1"
 system          > texmfbinpath="/usr/local/texlive/2020/bin/x86_64-darwin"
@@ -1750,35 +1750,35 @@ modules         > stop used modules
 
 mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable+writable: '/Users/kynnin/Library/texlive/2020/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
-mkiv lua stats  > resource resolver: loadtime 0.133 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 31 found files, scanned paths: /Users/kynnin/Library/texmf
-mkiv lua stats  > stored bytecode data: 450 modules (0.315 sec), 93 tables (0.012 sec), 543 chunks (0.327 sec)
+mkiv lua stats  > resource resolver: loadtime 0.147 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 31 found files, scanned paths: /Users/kynnin/Library/texmf
+mkiv lua stats  > stored bytecode data: 450 modules (0.329 sec), 93 tables (0.014 sec), 543 chunks (0.343 sec)
 mkiv lua stats  > traced context: maxstack: 1399, freed: 1, unreachable: 1398
 mkiv lua stats  > cleaned up reserved nodes: 64 nodes, 9 lists of 442
 mkiv lua stats  > node memory usage: 2188 attribute, 439 attribute_list, 3 glue, 52 glue_spec, 3 kern, 3 penalty, 2 temp, 2 user_defined
 mkiv lua stats  > node list callback tasks: 8 unique task lists, 226 instances (re)created, 24593 calls
-mkiv lua stats  > h-node processing time: 1.155 seconds including kernel
+mkiv lua stats  > h-node processing time: 1.145 seconds including kernel
 mkiv lua stats  > inserted spaces in output: 32479
 mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 11203 objects flushed, logfile: QuestWorlds.synctex
-mkiv lua stats  > attribute processing time: 0.115 seconds front- and backend
-mkiv lua stats  > driver time: 0.222 seconds 
+mkiv lua stats  > attribute processing time: 0.113 seconds front- and backend
+mkiv lua stats  > driver time: 0.226 seconds 
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.055 seconds saving, 0.014 seconds loading
+mkiv lua stats  > jobdata time: 0.058 seconds saving, 0.014 seconds loading
 mkiv lua stats  > callbacks: internal: 44289, file: 9027, direct: 112, late: 13598, function 28868, total: 95894 (979 per page)
 mkiv lua stats  > randomizer: resumed with value 0.72270081751049
 mkiv lua stats  > positions: 1201 collected, 1185 regular, 16 special
-mkiv lua stats  > v-node processing time: 0.075 seconds 
+mkiv lua stats  > v-node processing time: 0.071 seconds 
 mkiv lua stats  > result saved in file: QuestWorlds.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > structure elements: 4183 element chains identified
 mkiv lua stats  > interactive elements: 177 references, 337 destinations
 mkiv lua stats  > margin data: 216 entries, 0 pending
 mkiv lua stats  > loaded fonts: 14 files: cmunbi.otf, cmunbx.otf, cmunrm.otf, cmunti.otf, ebgaramond-italic.otf, ebgaramond-regular.otf, ebgaramond-semibold.otf, ebgaramond-semibolditalic.otf, latinmodern-math.otf, lmmono10-regular.otf, lmroman10-regular.otf, lmsans10-bold.otf, lmsans10-boldoblique.otf, lmsans10-regular.otf
-mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 35 instances, 19 shared in backend, 2 common vectors, 17 common hashes, load time 0.397 seconds 
+mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 35 instances, 19 shared in backend, 2 common vectors, 17 common hashes, load time 0.359 seconds 
 mkiv lua stats  > graphics processing time: 0.002 seconds including tex, 2 processed images, 2 unique asked, 2 bad names
 mkiv lua stats  > pdf annotations: 177 links (177 unique), 0 special
 mkiv lua stats  > used platform: osx-ppc, type: unix, binary subtree: bin
 mkiv lua stats  > used engine: luatex version: 1.12, functionality level: 7306, banner: this is luatex, version 1.12.0 (tex live 2020)
-mkiv lua stats  > control sequences: 46510 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 231 MB, ctx: 228 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 5.133 seconds, 99 processed pages, 99 shipped pages, 19.287 pages/second
+mkiv lua stats  > control sequences: 46511 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 236 MB, ctx: 234 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 5.004 seconds, 99 processed pages, 99 shipped pages, 19.784 pages/second
 

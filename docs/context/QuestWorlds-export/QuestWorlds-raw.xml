@@ -3,7 +3,7 @@
 <!--
 
     input filename   : QuestWorlds.book
-    processing date  : 2020-10-09T14:45:13-07:00
+    processing date  : 2020-10-09T15:34:40-07:00
     context version  : 2020.03.10 14:44
     exporter version : 0.35
 
@@ -13,7 +13,7 @@
 <?xml-stylesheet type="text/css" href="styles/QuestWorlds-images.css" ?>
 <?xml-stylesheet type="text/css" href="styles/QuestWorlds-styles.css" ?>
 
-<document context="2020.03.10 14:44" date="2020-10-09T14:45:13-07:00" file="QuestWorlds.book" language="en" version="0.35" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<document context="2020.03.10 14:44" date="2020-10-09T15:34:40-07:00" file="QuestWorlds.book" language="en" version="0.35" xmlns:m="http://www.w3.org/1998/Math/MathML">
  <metadata>
  </metadata>
  <section detail="title" chain="title" implicit="1" level="2">
