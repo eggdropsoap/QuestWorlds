@@ -45,6 +45,9 @@
 	bi=name:ebgaramondsemibolditalic,
 	]
 
+%\usetypescript[kerkissans]
+%\definefontfamily[mainface][ss][kerkissans]
+
 % basic header styling
 \setuphead[chapter]            [style=\tfc \bf \ss,page=yes,header=empty,footer=chapter]
 \setuphead[section]            [style=\tfb \bf \ss]
