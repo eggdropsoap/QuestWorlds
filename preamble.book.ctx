@@ -45,8 +45,13 @@
 	bi=name:ebgaramondsemibolditalic,
 	]
 
-%\usetypescript[kerkissans]
-%\definefontfamily[mainface][ss][kerkissans]
+\definefontfamily[mainface][ss][josefinsans][%
+	tf=name:josefinsansregular,
+	it=name:josefinsansitalic,
+	bf=name:josefinsanssemibold,
+	bi=name:josefinsanssemibolditalic,
+	]
+
 
 % basic header styling
 \setuphead[chapter]            [style=\tfc \bf \ss,page=yes,header=empty,footer=chapter]
