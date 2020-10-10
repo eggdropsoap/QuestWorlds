@@ -99,16 +99,51 @@
 \setuplist[subsubsubsection][pagestyle={\feature[+][tabularnumbers]}]
 %% end pagenum
 
+%% -- SRD numbering
+%% set the section number into the outer margin
+\defineheadalternative
+  [newchapterhead]
+  [renderingsetup=newchapterhead]
+
+\startsetups newchapterhead
+    \vbox{%
+    	\inoutermargin{\headnumbercontent}
+    	\headtextcontent
+    }
+\stopsetups
+
+\setuphead[chapter,section][alternative=newchapterhead]
+%\setuphead [section][alternative=newchapterhead]
+
+%% end section numbers in outer margin
 
 % style section numbers gray and proportional width
+\define[1]\FormatSectionNumber{\feature[+][tabularnumbers]#1} % proportional width numbers
 \setuphead[chapter,section,subsection,subsubsection,subsubsubsection]%
 	[%
 	color=red,
+	number=yes,
+	numbercolor=lightgray,
+	numberstyle=\tfxx,
+	numbercommand={\FormatSectionNumber},
 	]
+%\setuphead[chapter][numberstyle=\tfb]
 
-% override ToC command to change interline space
+% start chapter numbering from zero
+\defineconversionset[zerostart][n,zero][n]
+\setuphead[chapter,section][sectionconversionset=zerostart]
+
+% force chapter numbering to be x.x style
+\define[1]\FixChapterNumber{\doiftext{#1}{\FormatSectionNumber{#1.0}}}
+\setuphead[chapter][numbercommand={\FixChapterNumber}]
+\setuplist[chapter][numbercommand={\FixChapterNumber}]
+
+
+% override ToC command to change interline space & fudge the marking
 \define\completecontent{%
+%  \blank[back,force]
   \title{Contents}
+  \marking[chapter]{CONTENTS} % this add a fixed marking we can reliably detect for custom headers
   \start
       \setupwhitespace[none] % inter-para whitespace independent of document para spacing
       \placecontent
@@ -116,6 +151,7 @@
   \blank[1cm]
 }
 
+%% -- end SRD numbering
 
 %% headers and footers
 
