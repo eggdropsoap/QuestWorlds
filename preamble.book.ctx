@@ -120,9 +120,17 @@
 %% headers and footers
 
 % small book style headers & footers
+\startsetups[sectionheaderstyle]
+  {\em \getmarking[section]}
+\stopsetups
+
+\startsetups[chapterheaderstyle]
+  {\em \feature[+][smallcaps] \getmarking[chapter]}
+\stopsetups
+
 \setuppagenumbering[location=]
 \setupheadertexts[]
-\setupheadertexts[chapter][pagenumber][pagenumber][section]
+\setupheadertexts[{\setups{sectionheaderstyle}}][pagenumber][pagenumber][{\setups{chapterheaderstyle}}]
 \setupfootertexts[]
 \definetext[chapter][footer][pagenumber]
 
