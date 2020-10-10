@@ -171,6 +171,20 @@ div.listpage {
     display: inline ;
 }
 
+/* element="listtag" detail="" chain="" */
+
+listtag,
+div.listtag {
+    display: inline ;
+}
+
+/* element="margintext" detail="inoutermargin" chain="inoutermargin" */
+
+margintext[detail=inoutermargin],
+div.margintext.inoutermargin {
+    display: inline ;
+}
+
 /* element="section" detail="chapter" chain="chapter" */
 
 section[detail=chapter],
@@ -218,6 +232,13 @@ div.sectioncaption {
 sectioncontent,
 div.sectioncontent {
     display: block ;
+}
+
+/* element="sectionnumber" detail="" chain="" */
+
+sectionnumber,
+div.sectionnumber {
+    display: inline ;
 }
 
 /* element="sectiontitle" detail="" chain="" */
