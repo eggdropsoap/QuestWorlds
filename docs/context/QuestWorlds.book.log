@@ -15,7 +15,6 @@ languages       > setting righthyphenchar to U+00AD
 backend         > export > enabling export to xml
 backend         > 
 backend         > 
-selectfont      > The requested font 'kerkissans' has no files for the 'tf' alternative, Latin Modern is used instead.
 selectfont      > The requested font 'Latin Modern Typewriter' has no files for the 'tf' alternative, Latin Modern is used instead.
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'cyrl', no language 'dflt'
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'latn', no language 'dflt'
@@ -243,7 +242,7 @@ backend         > export > fuzzy paragraph: 0 (U+00030) . (U+0002E) 1 (U+00031) 
 backend         > export > fuzzy paragraph: Q (U+00051) u (U+00075) e (U+00065) s (U+00073) t (U+00074) W (U+00057) o (U+0006F) r (U+00072) l (U+0006C) d (U+00064) s (U+00073) O (U+0004F) p (U+00070) e (U+00065) n (U+0006E) [space] G (U+00047) a (U+00061) m (U+0006D) e (U+00065) [space] L (U+0004C) i (U+00069) c (U+00063) e (U+00065) n (U+0006E) s (U+00073) e (U+00065) , (U+0002C) [space] V (U+00056) e (U+00065) r (U+00072) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E) [space] 1 (U+00031) . (U+0002E) 0 (U+00030)
 pages           > flushing realpage 7, userpage 7, subpage 7
 
-Overfull \hbox (6.32709pt too wide) in paragraph at lines 134--150
+Overfull \hbox (6.32709pt too wide) in paragraph at lines 130--146
  <1: EBGaramond-Regular @ 12.0pt> All trade­marks, reg­is­tered trade­marks, proper names (char­ac­ters, deities,
 
 \hbox(8.45535+3.47809)x341.43306, glue set - 1.0, direction TLT
@@ -257,7 +256,7 @@ Overfull \hbox (6.32709pt too wide) in paragraph at lines 134--150
 pages           > flushing realpage 8, userpage 8, subpage 8
 pages           > flushing realpage 9, userpage 9, subpage 9
 
-Overfull \hbox (1.85031pt too wide) in paragraph at lines 223--227
+Overfull \hbox (1.85031pt too wide) in paragraph at lines 219--223
  [][][][] <1: EBGaramond-Regular @ 12.0pt> Iden­ti­fi­ca­tion: If you dis­trib­ute Open Game Con­tent You must clearly
 
 \hbox(9.6715+3.76112)x341.43306, glue set - 1.0, direction TLT
@@ -268,7 +267,7 @@ Overfull \hbox (1.85031pt too wide) in paragraph at lines 223--227
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 1182>
+.\latelua0 <function reference 915>
 .\hbox(9.6715+3.76112)x0.0, glue set - 18.206fil, direction TLT
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 ..\hbox(9.6715+3.76112)x18.206, direction TLT
@@ -287,8 +286,8 @@ structure       > sectioning > chapter @ level 2 : 0.2 -> Introduction
 structure       > sectioning > section @ level 3 : 0.2.1 -> Why QuestWorlds?
 structure       > sectioning > section @ level 3 : 0.2.2 -> Version
 
-Overfull \hbox (14.0373pt too wide) in paragraph at lines 363--366
-[][]<1: EBGaramond-Regular @ 12.0pt> The sec­ond ver­sion <12: EBGaramond-Italic @ 12.0pt> Hero­Quest <1: EBGaramond-Regular @ 12.0pt> was pub­lished in 󰋈󰋆󰋆󰋉 (ISBN 󰋏󰋍󰋎-󰋇-󰋏󰋈󰋏󰋆󰋋󰋈-󰋇󰋈-󰋍).
+Overfull \hbox (14.0373pt too wide) in paragraph at lines 359--362
+[][]<1: EBGaramond-Regular @ 12.0pt> The sec­ond ver­sion <17: EBGaramond-Italic @ 12.0pt> Hero­Quest <1: EBGaramond-Regular @ 12.0pt> was pub­lished in 󰋈󰋆󰋆󰋉 (ISBN 󰋏󰋍󰋎-󰋇-󰋏󰋈󰋏󰋆󰋋󰋈-󰋇󰋈-󰋍).
 
 \hbox(8.45535+3.41812)x341.43306, glue set - 1.0, direction TLT
 .\kern-0.40778 (left margin)
@@ -298,7 +297,7 @@ Overfull \hbox (14.0373pt too wide) in paragraph at lines 363--366
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 848>
+.\latelua0 <function reference 1137>
 .<1: EBGaramond-Regular @ 12.0pt> T
 .etc.
 
@@ -342,32 +341,32 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: A (U+00041) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) i (U+00069) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: F (U+00046) l (U+0006C) a (U+00061) w (U+00077) s (U+00073)
-backend         > export > fuzzy paragraph: m (U+0006D) a (U+00061) y (U+00079) b (U+00062) e (U+00065) [space] p (U+00070) s (U+00073) y (U+00079) c (U+00063) h (U+00068) o (U+0006F) l (U+0006C) o (U+0006F) g (U+00067) i (U+00069) c (U+00063) a (U+00061) l (U+0006C) [space] w (U+00077) e (U+00065) a (U+00061) k (U+0006B) n (U+0006E) e (U+00065) s (U+00073) s (U+00073) e (U+00065) s (U+00073) [space] s (U+00073) u (U+00075) c (U+00063) h (U+00068) [space] a (U+00061) s (U+00073) “ (U+0201C) A (U+00041) l (U+0006C) c (U+00063) o (U+0006F) h (U+00068) o (U+0006F) l (U+0006C) i (U+00069) c (U+00063) ” (U+0201D) o (U+0006F) r (U+00072) “ (U+0201C) H (U+00048) e (U+00065) r (U+00072) o (U+0006F) i (U+00069) n (U+0006E) [space] A (U+00041) d (U+00064) ­ (U+000AD)
+backend         > export > fuzzy paragraph: m (U+0006D) a (U+00061) y (U+00079) [space] b (U+00062) e (U+00065) [space] p (U+00070) s (U+00073) y (U+00079) c (U+00063) h (U+00068) o (U+0006F) l (U+0006C) o (U+0006F) g (U+00067) i (U+00069) c (U+00063) a (U+00061) l (U+0006C) [space] w (U+00077) e (U+00065) a (U+00061) k (U+0006B) n (U+0006E) e (U+00065) s (U+00073) s (U+00073) e (U+00065) s (U+00073) [space] s (U+00073) u (U+00075) c (U+00063) h (U+00068) [space] a (U+00061) s (U+00073) “ (U+0201C) A (U+00041) l (U+0006C) c (U+00063) o (U+0006F) h (U+00068) o (U+0006F) l (U+0006C) i (U+00069) c (U+00063) ” (U+0201D) o (U+0006F) r (U+00072) “ (U+0201C) H (U+00048) e (U+00065) r (U+00072) o (U+0006F) i (U+00069) n (U+0006E) [space] A (U+00041) d (U+00064) ­ (U+000AD)
 pages           > flushing realpage 17, userpage 17, subpage 17
 structure       > sectioning > subsection @ level 4 : 0.3.1.2 -> Scores, Ratings and Masteries
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) s (U+00073) , (U+0002C) [space] R (U+00052) a (U+00061) t (U+00074) i (U+00069) n (U+0006E) g (U+00067) s (U+00073) [space] a (U+00061) n (U+0006E) d (U+00064) [space] M (U+0004D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) i (U+00069) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) i (U+00069) e (U+00065) s (U+00073) [space] a (U+00061) r (U+00072) e (U+00065) [space] s (U+00073) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) d (U+00064) [space] o (U+0006F) n (U+0006E) [space] a (U+00061) [space] r (U+00072) a (U+00061) t (U+00074) i (U+00069) n (U+0006E) g (U+00067) [space] o (U+0006F) f (U+00066) [space] 󰋇 (U+F02C7) – (U+02013) 󰋈 (U+F02C8) 󰋆 (U+F02C6) , (U+0002C) [space] r (U+00072) e (U+00065) p (U+00070) r (U+00072) e (U+00065) s (U+00073) e (U+00065) n (U+0006E) t (U+00074) i (U+00069) n (U+0006E) g (U+00067) [space] t (U+00074) h (U+00068) e (U+00065) [space] t (U+00074) a (U+00061) r (U+00072) g (U+00067) e (U+00065) t (U+00074)
 pages           > flushing realpage 18, userpage 18, subpage 18
-structure       > sectioning > subsubsection @ level 5 : 0.3.1.2.1 -> No Relevant {\bf ability}
+structure       > sectioning > subsubsection @ level 5 : 0.3.1.2.1 -> No Relevant {\bf Ability}
 fonts           > defining > font 'JosefinSans-SemiBold', feature 'locl', script 'latn', no language 'dflt'
 fonts           > defining > font 'JosefinSans-Regular', feature 'locl', script 'latn', no language 'dflt'
 fonts           > defining > font 'JosefinSans-Regular', feature 'locl', script 'latn', no language 'dflt'
-structure       > sectioning > subsubsection @ level 5 : 0.3.1.2.2 -> Using Scores As thresholds
+structure       > sectioning > subsubsection @ level 5 : 0.3.1.2.2 -> Using Scores As Thresholds
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) . (U+0002E) 2 (U+00032) . (U+0002E) 1 (U+00031)
-backend         > export > fuzzy paragraph: N (U+0004E) o (U+0006F) [space] R (U+00052) e (U+00065) l (U+0006C) e (U+00065) v (U+00076) a (U+00061) n (U+0006E) t (U+00074) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079)
+backend         > export > fuzzy paragraph: N (U+0004E) o (U+0006F) [space] R (U+00052) e (U+00065) l (U+0006C) e (U+00065) v (U+00076) a (U+00061) n (U+0006E) t (U+00074) [space] A (U+00041) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 1 (U+00031) . (U+0002E) 2 (U+00032) . (U+0002E) 2 (U+00032)
-backend         > export > fuzzy paragraph: U (U+00055) s (U+00073) i (U+00069) n (U+0006E) g (U+00067) [space] S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) s (U+00073) [space] A (U+00041) s (U+00073) [space] t (U+00074) h (U+00068) r (U+00072) e (U+00065) s (U+00073) h (U+00068) o (U+0006F) l (U+0006C) d (U+00064) s (U+00073)
+backend         > export > fuzzy paragraph: U (U+00055) s (U+00073) i (U+00069) n (U+0006E) g (U+00067) [space] S (U+00053) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) s (U+00073) [space] A (U+00041) s (U+00073) [space] T (U+00054) h (U+00068) r (U+00072) e (U+00065) s (U+00073) h (U+00068) o (U+0006F) l (U+0006C) d (U+00064) s (U+00073)
 backend         > export > fuzzy paragraph: t (U+00074) r (U+00072) e (U+00065) a (U+00061) t (U+00074) s (U+00073) [space] s (U+00073) c (U+00063) o (U+0006F) r (U+00072) e (U+00065) s (U+00073) [space] a (U+00061) s (U+00073) [space] a (U+00061) [space] m (U+0006D) e (U+00065) a (U+00061) s (U+00073) u (U+00075) r (U+00072) e (U+00065) [space] o (U+0006F) f (U+00066) [space] h (U+00068) o (U+0006F) w (U+00077) [space] e (U+00065) e (U+00065) c (U+00063) t (U+00074) i (U+00069) v (U+00076) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) [space] a (U+00061) r (U+00072) e (U+00065) [space] a (U+00061) t (U+00074) [space] s (U+00073) o (U+0006F) l (U+0006C) v (U+00076) i (U+00069) n (U+0006E) g (U+00067)
 pages           > flushing realpage 19, userpage 19, subpage 19
 structure       > sectioning > section @ level 3 : 0.3.2 -> Possessions and Equipment
 structure       > sectioning > subsection @ level 4 : 0.3.2.1 -> Wealth
+structure       > sectioning > section @ level 3 : 0.3.3 -> Contest Procedure
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: P (U+00050) o (U+0006F) s (U+00073) s (U+00073) e (U+00065) s (U+00073) s (U+00073) i (U+00069) o (U+0006F) n (U+0006E) s (U+00073) [space] a (U+00061) n (U+0006E) d (U+00064) [space] E (U+00045) q (U+00071) u (U+00075) i (U+00069) p (U+00070) m (U+0006D) e (U+00065) n (U+0006E) t (U+00074)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 2 (U+00032) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: W (U+00057) e (U+00065) a (U+00061) l (U+0006C) t (U+00074) h (U+00068)
 pages           > flushing realpage 20, userpage 20, subpage 20
-structure       > sectioning > section @ level 3 : 0.3.3 -> Contest Procedure
 structure       > sectioning > subsection @ level 4 : 0.3.3.1 -> Resolution Methods
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.1.1 -> Assured Contest
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033)
@@ -396,11 +395,11 @@ backend         > export > fuzzy paragraph: i (U+00069) n (U+0006E) [space] Q (U
 pages           > flushing realpage 23, userpage 23, subpage 23
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.2.3 -> Tactics
 pages           > flushing realpage 24, userpage 24, subpage 24
+structure       > sectioning > subsubsection @ level 5 : 0.3.3.2.4 -> No Repeat Attempts
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 2 (U+00032) . (U+0002E) 3 (U+00033)
 backend         > export > fuzzy paragraph: T (U+00054) a (U+00061) c (U+00063) t (U+00074) i (U+00069) c (U+00063) s (U+00073)
 backend         > export > fuzzy paragraph: i (U+00069) n (U+0006E) [space] s (U+00073) o (U+0006F) m (U+0006D) e (U+00065) [space] g (U+00067) e (U+00065) n (U+0006E) r (U+00072) e (U+00065) s (U+00073) [space] g (U+00067) i (U+00069) v (U+00076) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) [space] t (U+00074) h (U+00068) e (U+00065) [space] c (U+00063) a (U+00061) p (U+00070) a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] t (U+00074) o (U+0006F) [space] d (U+00064) o (U+0006F) [space] t (U+00074) h (U+00068) e (U+00065)
 pages           > flushing realpage 25, userpage 25, subpage 25
-structure       > sectioning > subsubsection @ level 5 : 0.3.3.2.4 -> No Repeat Attempts
 structure       > sectioning > subsection @ level 4 : 0.3.3.3 -> Rank
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'cyrl', no language 'dflt'
 fonts           > defining > font 'EBGaramond-Regular', feature 'locl', script 'latn', no language 'dflt'
@@ -459,10 +458,10 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) 
 backend         > export > fuzzy paragraph: C (U+00043) o (U+0006F) n (U+0006E) f (U+00066) u (U+00075) s (U+00073) i (U+00069) n (U+0006E) g (U+00067) [space] T (U+00054) i (U+00069) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037)
 backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) s (U+00073)
+backend         > export > fuzzy paragraph: a (U+00061) l (U+0006C) w (U+00077) a (U+00061) y (U+00079) s (U+00073) [space] a (U+00061) e (U+00065) c (U+00063) t (U+00074) [space] r (U+00072) e (U+00065) s (U+00073) u (U+00075) l (U+0006C) t (U+00074) s (U+00073) [space] n (U+0006E) o (U+0006F) t (U+00074) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073) , (U+0002C) [space] a (U+00061) l (U+0006C) t (U+00074) h (U+00068) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) h (U+00068) e (U+00065) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) [space] c (U+00063) o (U+0006F) u (U+00075) l (U+0006C) d (U+00064)
 pages           > flushing realpage 30, userpage 30, subpage 30
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.7.2 -> Bump Up with Story Points
 structure       > sectioning > subsubsection @ level 5 : 0.3.3.7.3 -> Bump Down with Mastery
-backend         > export > fuzzy paragraph: a (U+00061) l (U+0006C) w (U+00077) a (U+00061) y (U+00079) s (U+00073) [space] a (U+00061) e (U+00065) c (U+00063) t (U+00074) [space] r (U+00072) e (U+00065) s (U+00073) u (U+00075) l (U+0006C) t (U+00074) s (U+00073) [space] n (U+0006E) o (U+0006F) t (U+00074) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) s (U+00073) , (U+0002C) [space] a (U+00061) l (U+0006C) t (U+00074) h (U+00068) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) h (U+00068) e (U+00065) [space] o (U+0006F) u (U+00075) t (U+00074) c (U+00063) o (U+0006F) m (U+0006D) e (U+00065) [space] c (U+00063) o (U+0006F) u (U+00075) l (U+0006C) d (U+00064)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: B (U+00042) u (U+00075) m (U+0006D) p (U+00070) [space] U (U+00055) p (U+00070) [space] w (U+00077) i (U+00069) t (U+00074) h (U+00068) [space] M (U+0004D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 3 (U+00033) . (U+0002E) 7 (U+00037) . (U+0002E) 2 (U+00032)
@@ -479,11 +478,11 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034)
 backend         > export > fuzzy paragraph: M (U+0004D) o (U+0006F) d (U+00064) i (U+00069) ﬁ (U+0FB01) e (U+00065) r (U+00072) s (U+00073)
 backend         > export > fuzzy paragraph: , (U+0002C) [space] m (U+0006D) a (U+00061) y (U+00079) [space] r (U+00072) a (U+00061) i (U+00069) s (U+00073) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] h (U+00068) i (U+00069) g (U+00067) h (U+00068) [space] e (U+00065) n (U+0006E) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) o (U+0006F) [space] g (U+00067) a (U+00061) i (U+00069) n (U+0006E) [space] a (U+00061) [space] m (U+0006D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079) , (U+0002C) [space] i (U+00069) n (U+0006E) [space] w (U+00077) h (U+00068) i (U+00069) c (U+00063) h (U+00068)
 backend         > export > fuzzy paragraph: , (U+0002C) [space] m (U+0006D) a (U+00061) y (U+00079) [space] l (U+0006C) o (U+0006F) w (U+00077) e (U+00065) r (U+00072) [space] a (U+00061) n (U+0006E) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] t (U+00074) o (U+0006F) [space] t (U+00074) h (U+00068) e (U+00065) [space] p (U+00070) o (U+0006F) i (U+00069) n (U+0006E) t (U+00074) [space] w (U+00077) h (U+00068) e (U+00065) r (U+00072) e (U+00065) [space] i (U+00069) t (U+00074) [space] l (U+0006C) o (U+0006F) s (U+00073) e (U+00065) s (U+00073) [space] o (U+0006F) n (U+0006E) e (U+00065) [space] o (U+0006F) r (U+00072) [space] m (U+0006D) o (U+0006F) r (U+00072) e (U+00065) [space] m (U+0006D) a (U+00061) s (U+00073) ­ (U+000AD)
+backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034) . (U+0002E) 1 (U+00031)
+backend         > export > fuzzy paragraph: S (U+00053) t (U+00074) r (U+00072) e (U+00065) t (U+00074) c (U+00063) h (U+00068) e (U+00065) s (U+00073)
 pages           > flushing realpage 32, userpage 32, subpage 32
 structure       > sectioning > subsection @ level 4 : 0.3.4.2 -> Situational Modifiers
 structure       > sectioning > section @ level 3 : 0.3.5 -> Augments
-backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034) . (U+0002E) 1 (U+00031)
-backend         > export > fuzzy paragraph: S (U+00053) t (U+00074) r (U+00072) e (U+00065) t (U+00074) c (U+00063) h (U+00068) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034) . (U+0002E) 2 (U+00032)
 backend         > export > fuzzy paragraph: S (U+00053) i (U+00069) t (U+00074) u (U+00075) a (U+00061) t (U+00074) i (U+00069) o (U+0006F) n (U+0006E) a (U+00061) l (U+0006C) [space] M (U+0004D) o (U+0006F) d (U+00064) i (U+00069) ﬁ (U+0FB01) e (U+00065) r (U+00072) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 5 (U+00035)
@@ -608,8 +607,8 @@ structure       > sectioning > chapter @ level 2 : 0.5 -> Simple Contests
 structure       > sectioning > section @ level 3 : 0.5.1 -> Simple Contest
 structure       > sectioning > subsection @ level 4 : 0.5.1.1 -> Procedure
 
-Overfull \hbox (0.45332pt too wide) in paragraph at lines 2253--2259
- [][][][] <1: EBGaramond-Regular @ 12.0pt> Roll a D󰋈󰋆 to de­ter­mine your <23: EBGaramond-SemiBold @ 12.0pt> suc­cess or fail­ure<1: EBGaramond-Regular @ 12.0pt> , then ap­ply any <23: EBGaramond-SemiBold @ 12.0pt> bumps<1: EBGaramond-Regular @ 12.0pt> .
+Overfull \hbox (0.45332pt too wide) in paragraph at lines 2249--2255
+ [][][][] <1: EBGaramond-Regular @ 12.0pt> Roll a D󰋈󰋆 to de­ter­mine your <31: EBGaramond-SemiBold @ 12.0pt> suc­cess or fail­ure<1: EBGaramond-Regular @ 12.0pt> , then ap­ply any <31: EBGaramond-SemiBold @ 12.0pt> bumps<1: EBGaramond-Regular @ 12.0pt> .
 
 \hbox(9.6715+3.76112)x341.43306, glue set - 1.0, direction TLT
 .\glue(\leftskip) 29.20398
@@ -619,7 +618,7 @@ Overfull \hbox (0.45332pt too wide) in paragraph at lines 2253--2259
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 1234>
+.\latelua0 <function reference 1116>
 .\hbox(9.6715+3.76112)x0.0, glue set - 13.61252fil, direction TLT
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 ..\hbox(9.6715+3.76112)x13.61252, direction TLT
@@ -851,8 +850,8 @@ backend         > export > fuzzy paragraph: F (U+00046) o (U+0006F) l (U+0006C) 
 backend         > export > fuzzy paragraph: n (U+0006E) e (U+00065) e (U+00065) d (U+00064) [space] n (U+0006E) o (U+0006F) t (U+00074) [space] b (U+00062) e (U+00065) [space] p (U+00070) e (U+00065) o (U+0006F) p (U+00070) l (U+0006C) e (U+00065) , (U+0002C) [space] o (U+0006F) r (U+00072) [space] e (U+00065) v (U+00076) e (U+00065) n (U+0006E) [space] s (U+00073) e (U+00065) n (U+0006E) t (U+00074) i (U+00069) e (U+00065) n (U+0006E) t (U+00074) [space] b (U+00062) e (U+00065) i (U+00069) n (U+0006E) g (U+00067) s (U+00073) : (U+0003A) [space] y (U+00079) o (U+0006F) u (U+00075) [space] c (U+00063) a (U+00061) n (U+0006E) [space] w (U+00077) r (U+00072) i (U+00069) t (U+00074) e (U+00065) [space] u (U+00075) p (U+00070) [space] a (U+00061)
 pages           > flushing realpage 82, userpage 82, subpage 82
 
-Overfull \hbox (1.13516pt too wide) in paragraph at lines 3612--3614
-[][]<1: EBGaramond-Regular @ 12.0pt> You can im­prove these <23: EBGaramond-SemiBold @ 12.0pt> abil­i­ties <1: EBGaramond-Regular @ 12.0pt> through the ex­pen­di­ture of <23: EBGaramond-SemiBold @ 12.0pt> ex­pe­ri­ence points<1: EBGaramond-Regular @ 12.0pt> . 
+Overfull \hbox (1.13516pt too wide) in paragraph at lines 3608--3610
+[][]<1: EBGaramond-Regular @ 12.0pt> You can im­prove these <31: EBGaramond-SemiBold @ 12.0pt> abil­i­ties <1: EBGaramond-Regular @ 12.0pt> through the ex­pen­di­ture of <31: EBGaramond-SemiBold @ 12.0pt> ex­pe­ri­ence points<1: EBGaramond-Regular @ 12.0pt> . 
 
 \hbox(8.46735+3.47809)x341.43306, glue set - 1.0, direction TLT
 .\kern-0.34781 (left margin)
@@ -862,7 +861,7 @@ Overfull \hbox (1.13516pt too wide) in paragraph at lines 3612--3614
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 835>
+.\latelua0 <function reference 994>
 .<1: EBGaramond-Regular @ 12.0pt> Y
 .etc.
 
@@ -1757,19 +1756,23 @@ system          >   10: filename=lm-math.map filetype=map format=map foundname=/
 system          >   11: filename=lm-rm.map filetype=map format=map foundname=/usr/local/texlive/2020/texmf-dist/fonts/map/dvips/lm/lm-rm.map fullname=/usr/local/texlive/2020/texmf-dist/fonts/map/dvips/lm/lm-rm.map usedmethod=database
 system          >   12: filename=mkiv-base.map filetype=map format=map foundname=/usr/local/texlive/2020/texmf-dist/fonts/map/pdftex/context/mkiv-base.map fullname=/usr/local/texlive/2020/texmf-dist/fonts/map/pdftex/context/mkiv-base.map usedmethod=database
 system          >   13: filename=EBGaramond-Regular.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regular.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regular.otf usedmethod=database
-system          >   14: filename=latinmodern-math.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
-system          >   15: filename=../../preamble.book.ctx foundname=../../preamble.book.ctx fullname=/Users/kynnin/Projects/Questworlds/SRD/preamble.book.ctx usedmethod=direct
-system          >   16: filename=EBGaramond-SemiBold.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBold.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBold.otf usedmethod=database
-system          >   17: filename=JosefinSans-SemiBold.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBold.ttf fullname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBold.ttf usedmethod=database
-system          >   18: filename=JosefinSans-Regular.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-Regular.ttf fullname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-Regular.ttf usedmethod=database
-system          >   19: filename=EBGaramond-Italic.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Italic.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Italic.otf usedmethod=database
-system          >   20: filename=lpdf-pdx.xml filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
-system          >   21: filename=JosefinSans-SemiBoldItalic.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBoldItalic.ttf fullname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBoldItalic.ttf usedmethod=database
-system          >   22: filename=../../Logos/QW-Stamp-Red.png format=tex foundname=../../Logos/QW-Stamp-Red.png fullname=/Users/kynnin/Projects/Questworlds/SRD/Logos/QW-Stamp-Red.png usedmethod=direct
-system          >   23: filename=../../Logos/QW-Stamp-Black.png format=tex foundname=../../Logos/QW-Stamp-Black.png fullname=/Users/kynnin/Projects/Questworlds/SRD/Logos/QW-Stamp-Black.png usedmethod=direct
-system          >   24: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
-system          >   25: filename=EBGaramond-SemiBoldItalic.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBoldItalic.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBoldItalic.otf usedmethod=database
-system          >   26: filename=export-example.css filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/export-example.css fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/export-example.css usedmethod=database
+system          >   14: filename=cmunrm.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf usedmethod=database
+system          >   15: filename=latinmodern-math.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
+system          >   16: filename=../../preamble.book.ctx foundname=../../preamble.book.ctx fullname=/Users/kynnin/Projects/Questworlds/SRD/preamble.book.ctx usedmethod=direct
+system          >   17: filename=EBGaramond-SemiBold.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBold.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBold.otf usedmethod=database
+system          >   18: filename=cmunbx.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunbx.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunbx.otf usedmethod=database
+system          >   19: filename=JosefinSans-SemiBold.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBold.ttf fullname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBold.ttf usedmethod=database
+system          >   20: filename=JosefinSans-Regular.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-Regular.ttf fullname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-Regular.ttf usedmethod=database
+system          >   21: filename=EBGaramond-Italic.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Italic.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Italic.otf usedmethod=database
+system          >   22: filename=cmunti.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunti.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunti.otf usedmethod=database
+system          >   23: filename=lpdf-pdx.xml filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          >   24: filename=JosefinSans-SemiBoldItalic.ttf filetype=ttf format=ttf foundname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBoldItalic.ttf fullname=/usr/local/texlive/2020/texmf-dist/fonts/truetype/public/josefin/JosefinSans-SemiBoldItalic.ttf usedmethod=database
+system          >   25: filename=../../Logos/QW-Stamp-Red.png format=tex foundname=../../Logos/QW-Stamp-Red.png fullname=/Users/kynnin/Projects/Questworlds/SRD/Logos/QW-Stamp-Red.png usedmethod=direct
+system          >   26: filename=../../Logos/QW-Stamp-Black.png format=tex foundname=../../Logos/QW-Stamp-Black.png fullname=/Users/kynnin/Projects/Questworlds/SRD/Logos/QW-Stamp-Black.png usedmethod=direct
+system          >   27: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
+system          >   28: filename=EBGaramond-SemiBoldItalic.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBoldItalic.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-SemiBoldItalic.otf usedmethod=database
+system          >   29: filename=cmunbi.otf filetype=otf format=otf foundname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunbi.otf fullname=/usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunbi.otf usedmethod=database
+system          >   30: filename=export-example.css filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/export-example.css fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/export-example.css usedmethod=database
 
 system          > stop used files
 
@@ -1777,10 +1780,10 @@ system          > stop used files
 system          > start commandline options
 
 system          > autogenerate="true"
-system          > currentrun="1"
+system          > currentrun="3"
 system          > fulljobname="./QuestWorlds.book.tex"
 system          > input="./QuestWorlds.book.tex"
-system          > kindofrun="1"
+system          > kindofrun="2"
 system          > maxnofruns="9"
 system          > synctex="1"
 system          > texmfbinpath="/usr/local/texlive/2020/bin/x86_64-darwin"
@@ -1803,20 +1806,20 @@ modules         > stop used modules
 
 mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable+writable: '/Users/kynnin/Library/texlive/2020/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
-mkiv lua stats  > resource resolver: loadtime 0.123 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 26 found files, scanned paths: /Users/kynnin/Library/texmf
-mkiv lua stats  > stored bytecode data: 450 modules (0.294 sec), 93 tables (0.012 sec), 543 chunks (0.305 sec)
+mkiv lua stats  > resource resolver: loadtime 0.127 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 30 found files, scanned paths: /Users/kynnin/Library/texmf
+mkiv lua stats  > stored bytecode data: 450 modules (0.304 sec), 93 tables (0.012 sec), 543 chunks (0.316 sec)
 mkiv lua stats  > traced context: maxstack: 1399, freed: 1, unreachable: 1398
 mkiv lua stats  > cleaned up reserved nodes: 64 nodes, 9 lists of 442
 mkiv lua stats  > node memory usage: 2428 attribute, 445 attribute_list, 6 glue, 52 glue_spec, 3 kern, 2 penalty, 2 temp, 2 user_defined
 mkiv lua stats  > node list callback tasks: 8 unique task lists, 226 instances (re)created, 25314 calls
-mkiv lua stats  > h-node processing time: 1.493 seconds including kernel
-mkiv lua stats  > inserted spaces in output: 31998
-mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 11081 objects flushed, logfile: QuestWorlds.synctex
-mkiv lua stats  > attribute processing time: 0.113 seconds front- and backend
-mkiv lua stats  > driver time: 0.220 seconds 
+mkiv lua stats  > h-node processing time: 1.457 seconds including kernel
+mkiv lua stats  > inserted spaces in output: 31986
+mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 11078 objects flushed, logfile: QuestWorlds.synctex
+mkiv lua stats  > attribute processing time: 0.114 seconds front- and backend
+mkiv lua stats  > driver time: 0.221 seconds 
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.049 seconds saving, 0.013 seconds loading
-mkiv lua stats  > callbacks: internal: 46579, file: 8987, direct: 115, late: 13478, function 28197, total: 97356 (743 per page)
+mkiv lua stats  > jobdata time: 0.052 seconds saving, 0.014 seconds loading
+mkiv lua stats  > callbacks: internal: 46578, file: 8983, direct: 115, late: 13475, function 28421, total: 97572 (745 per page)
 mkiv lua stats  > randomizer: resumed with value 0.72270081751049
 mkiv lua stats  > positions: 1202 collected, 1186 regular, 16 special
 mkiv lua stats  > v-node processing time: 0.074 seconds 
@@ -1825,13 +1828,13 @@ mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > structure elements: 4183 element chains identified
 mkiv lua stats  > interactive elements: 178 references, 337 destinations
 mkiv lua stats  > margin data: 216 entries, 0 pending
-mkiv lua stats  > loaded fonts: 9 files: ebgaramond-italic.otf, ebgaramond-regular.otf, ebgaramond-semibold.otf, ebgaramond-semibolditalic.otf, latinmodern-math.otf, lmmono10-regular.otf, josefinsans-regular.ttf, josefinsans-semibold.ttf, josefinsans-semibolditalic.ttf
-mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 28 instances, 17 shared in backend, 1 common vectors, 16 common hashes, load time 0.273 seconds 
+mkiv lua stats  > loaded fonts: 13 files: cmunbi.otf, cmunbx.otf, cmunrm.otf, cmunti.otf, ebgaramond-italic.otf, ebgaramond-regular.otf, ebgaramond-semibold.otf, ebgaramond-semibolditalic.otf, latinmodern-math.otf, lmmono10-regular.otf, josefinsans-regular.ttf, josefinsans-semibold.ttf, josefinsans-semibolditalic.ttf
+mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 39 instances, 24 shared in backend, 2 common vectors, 22 common hashes, load time 0.399 seconds 
 mkiv lua stats  > graphics processing time: 0.002 seconds including tex, 2 processed images, 2 unique asked, 2 bad names
 mkiv lua stats  > pdf annotations: 178 links (178 unique), 0 special
 mkiv lua stats  > used platform: osx-ppc, type: unix, binary subtree: bin
 mkiv lua stats  > used engine: luatex version: 1.12, functionality level: 7306, banner: this is luatex, version 1.12.0 (tex live 2020)
-mkiv lua stats  > control sequences: 46508 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 214 MB, ctx: 211 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 5.205 seconds, 132 processed pages, 132 shipped pages, 25.360 pages/second
+mkiv lua stats  > control sequences: 46493 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 245 MB, ctx: 243 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 5.363 seconds, 132 processed pages, 132 shipped pages, 24.613 pages/second
 

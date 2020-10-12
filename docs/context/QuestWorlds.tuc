@@ -13716,7 +13716,7 @@ utilitydata.structures.lists.collected={
   },
   ["titledata"]={
    ["label"]="subsubsection",
-   ["title"]="No Relevant {\\bf ability}",
+   ["title"]="No Relevant {\\bf Ability}",
   },
  },
  {
@@ -13735,7 +13735,7 @@ utilitydata.structures.lists.collected={
   },
   ["titledata"]={
    ["label"]="subsubsection",
-   ["title"]="Using Scores As thresholds",
+   ["title"]="Using Scores As Thresholds",
   },
  },
  {

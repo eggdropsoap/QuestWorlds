@@ -22,16 +22,12 @@
 
 \setupbodyfontenvironment[default][em=italic] % use italic as em, not slanted
 
-%\usetypescript[kerkissans]
-%\definefontfamily[mainface][ss][kerkissans]
-
-%\definefallbackfamily[mainface][rm][CMU Serif][preset=range:greek, force=yes]
+\definefallbackfamily[mainface][rm][CMU Serif][preset=range:greek, force=yes]
 \definefontfamily[mainface][rm][ebgaramond]
 \definefontfamily[mainface][mm][Latin Modern Math]
-%\definefontfamily[mainface][ss][Latin Modern Sans]
-\definefontfamily[mainface][ss][kerkissans]
+\definefontfamily[mainface][ss][Latin Modern Sans]
 \definefontfamily[mainface][tt][Latin Modern Typewriter][features=none]
-\setupbodyfont[mainface]
+\setupbodyfont[mainface,12pt]
 
 \setupwhitespace[medium]
 \setupindenting[no,none]
@@ -323,12 +319,12 @@ The players play characters, each guided by the internal thoughts of
 their character as to what decisions they make, and the GM plays the
 world, including non-player characters (NPCs) and abstract threats.
 
-It features an abstract, conflict-based, resolution method and scalable,
-customizable, character descriptions. Designed to emulate the way
+It features an abstract, conflict-based resolution method and scalable,
+customizable character descriptions. Designed to emulate the way
 characters in fiction face and overcome challenges, it is suitable for a
 wide variety of genres and play styles. It is particularly suited to
-pulp genres (including their descendants comic books) and cinematic,
-larger-than-life, action.
+pulp genres (including their descendants, comic books) and cinematic,
+larger-than-life action.
 
 It is a rules-light system that facilitates beginning play easily, and
 resolving conflicts in play quickly.
@@ -391,7 +387,7 @@ game.
 
 We also recognize that some people will use this document to learn about
 the {\em QuestWorlds} system before purchasing it, and some players in
-games were the GM has a rule book, may use this as a reference to help
+games where the GM has a rule book, may use this as a reference to help
 understand the rules.
 
 For that latter reason, we address the rules here to a player.
@@ -434,7 +430,7 @@ PC. Which should be clear from context, or explicitly noted.
 \subsection[title={Game Master},reference={game-master}]
 
 Your Game Master (GM) is the interface between your imagination and the
-game-world in which the PCs have their adventures; describing the
+game-world in which the PCs have their adventures, describing the
 people, places, creatures, objects, and events therein. Your GM also
 plays the role of any Non-Player Characters (NPCs) with whom your PC
 interacts in the course of your adventures.
@@ -447,14 +443,14 @@ this naturally refers to you.
 
 In a {\em QuestWorlds} game, stories develop dynamically as you and your
 GM work together to role-play the dramatic conflict between your group's
-PCs in pursuit of their goals and the challenges, or threats that your
-GM presents to stand in your way. Stories advance by two methods:
-conflict, where your PC is prevented from achieving their goals because
-there is something that must be overcome, a {\bf story obstacle}, to
-gain a desired person, thing, or even status: the {\bf prize}; or
-revelation, where something must be overcome, a {\bf story obstacle}, to
-learn a secret, uncover the past, or reach understanding: the
-{\bf prize}.
+PCs in pursuit of their goals, and the challenges or threats that your
+GM presents to stand in their way. Stories advance by two methods:
+conflict and revelation. In conflict, your PC is prevented from
+achieving their goals because there is something that must be
+overcome---a {\bf story obstacle}---to gain a desired person, thing, or
+even status---the {\bf prize}. In revelation, something must be
+overcome---a {\bf story obstacle}---to learn a secret, uncover the past,
+or reach understanding---the {\bf prize}.
 
 Over the course of play, your GM will present various {\bf story
 obstacles} as conflicts to the PCs, resulting in either {\bf victory} or
@@ -466,14 +462,14 @@ harsh environment, out-wooing rival suitors, and so on.
 Rather than mechanically addressing the individual tasks that make up
 these conflicts, {\em QuestWorlds} usually assesses your overall
 {\bf victory} or {\bf defeat} in a single {\bf contest} where you and
-your GM make an opposed roll pitting your characters {\bf ability} vs
+your GM make an opposed roll pitting your character's {\bf ability} vs
 the {\bf resistance} the {\bf story obstacle} presents to you achieving
 the {\bf prize}.
 
 Whenever the GM presents a {\bf story obstacle} for you to overcome, you
 should {\bf frame the contest} by describing what you are trying to
 accomplish, the {\bf prize}, and which of your {\bf abilities} (see
-below) you want to use to achieve that {\bf prize}, and how.
+§2.1) you want to use to achieve that {\bf prize}, and how.
 
 Based on that {\bf framing} and other factors, your GM will assess what
 {\bf resistance} the characters face.
@@ -518,14 +514,14 @@ Your character may have one or more {\bf flaws}. A {\bf flaw} is an
 the GM uses to hinder you from accomplishing something, or invokes to
 force you to act a certain way.
 
-{\bf Flaws} maybe psychological weaknesses such as \quotation{Alcoholic}
-or \quotation{Heroin Addict}, or physical weaknesses such as
-\quotation{One-Eye,} \quotation{Wheelchair-Bound} or
+{\bf Flaws} may be psychological weaknesses such as
+\quotation{Alcoholic} or \quotation{Heroin Addict,} or physical
+weaknesses such as \quotation{One-Eye,} \quotation{Wheelchair-Bound} or
 \quotation{Asthmatic.} A {\bf flaw} might also be a moral philosophy
 such as \quotation{Code Against Killing,} \quotation{Pacifist,} or
-\quotation{Radical Candor} that limit your behavior in some way. A
+\quotation{Radical Candor} that limits your behavior in some way. A
 {\bf flaw} also might be a relationship such as a \quotation{Frail
-Aunt,} \quotation{Single Dad,} or \quotation{Blackmailed}.
+Aunt,} \quotation{Single Dad} or \quotation{Blackmailed.}
 
 Many {\bf flaws} describe attributes that can be viewed positively. By
 making it a {\bf flaw} and not an {\bf ability} you are inviting your GM
@@ -545,19 +541,20 @@ something. In return for the GM exercising the {\bf flaw} you gain
 Masteries},reference={scores-ratings-and-masteries}]
 
 {\em QuestWorlds} {\bf abilities} are {\bf scored} on a {\bf rating} of
-1--20, representing the {\bf target number (TN)} you need to roll or
-less to succeed on your roll during a {\bf contest} (see §2.3 for more
-details).
+1--20, representing the {\bf target number} ({\bf TN}) you need to roll
+or less to succeed on your roll during a {\bf contest} (see §2.3 for
+more details).
 
 Once your {\bf ability} passes 20, you would always be able to roll
-under it on a D20. So to allow abilities to scale over 20 {\bf scores}
-we use of tiers of capability we refer to as {\bf Mastery}. To reflect
-abilities (or {\bf resistance}s) higher than 20, either permanently
-through character advancement or a temporarily with {\bf modifier} to a
-contest roll, note a {\bf mastery} for every 20 points in the ability,
-and treat what remains as the {\bf rating}. So, for an {\bf ability} of
-27, we note one {\bf mastery} and a {\bf rating} of seven written as
-\quotation{7M} and we write the {\bf rating} of 21, as 1M.
+under it on a D20. So to allow ability {\bf scores} to scale we use
+tiers of capability we refer to as {\bf Mastery}. To reflect
+{\bf abilities} (or {\bf resistances}) higher than 20, either
+permanently through character advancement or temporarily with a
+{\bf modifier} to a contest roll, note a {\bf mastery} for every 20
+points in the ability, and treat what remains as the {\bf rating}. So,
+for a {\bf score} of 27, we note one {\bf mastery} and a {\bf rating} of
+seven, written as \quotation{7M}, and we write a {\bf score} of 21 as
+1M.
 
 The \quotation{M} after the {\bf rating} signifies {\bf mastery}. The
 number in front of the M is the {\bf rating}, and represents the new
@@ -606,7 +603,7 @@ To simplify {\bf bumping}, when both you and the resistance have
 See §2.3.7 for more details on {\bf bumps}.
 
 \subsubsection[title={No Relevant
-{\bf ability}},reference={no-relevant-ability}]
+{\bf Ability}},reference={no-relevant-ability}]
 
 You may sometimes be faced with a {\bf story obstacle} for which you
 have no relevant {\bf ability} whatsoever. In such cases, you may still
@@ -615,15 +612,15 @@ enter into conflict with the {\bf story obstacle} using a minimum base
 it may also be subject to {\bf modifiers}.
 
 \subsubsection[title={Using Scores As
-thresholds},reference={using-scores-as-thresholds}]
+Thresholds},reference={using-scores-as-thresholds}]
 
 {\em QuestWorlds} treats {\bf scores} as a measure of how effective you
 are at solving problems with the {\bf ability}, and does not limit what
 you can do with that {\bf ability}, provided your actions are credible
 in genre. Where an important part of the genre is that certain uses of
 the {\bf ability} are only available when you pass a threshold of
-experience, often through overcoming story obstacles to improve the
-{\bf ability} in game, you may chose to set threshold for those
+experience, often through overcoming {\bf story obstacles} to improve
+the {\bf ability} in game, you may choose to set a threshold for those
 {\bf abilities}. For example, a magic system might classify certain
 supernatural effects as Apprentice, Journeyman, or Master level, and
 require {\bf ratings} of 15, 5M, or 1M2 (respectively) in a relevant
@@ -663,7 +660,7 @@ does.
 Conversely, if in the course of play you find your character in a
 situation without equipment essential to utilize an ability effectively,
 or where your character's gear is poorly suited to the task at hand,
-your GM may take into account in assessing credibility-based
+your GM may take that into account in assessing credibility-based
 {\bf modifiers}.
 
 \subsection[title={Wealth},reference={wealth}]
@@ -681,7 +678,7 @@ well you solve problems with money and resources.
 You choose an {\bf ability} relevant to the conflict at hand, describe
 exactly what you are trying to accomplish, and how. Your GM may modify
 these suggested actions to better fit the fictional circumstances, and
-describe the actions of the NPCs or forces on the other side of the
+describes the actions of the NPCs or forces on the other side of the
 conflict.
 
 \subsection[title={Resolution Methods},reference={resolution-methods}]
@@ -692,7 +689,7 @@ The basic resolution methods are as follows:
 
 Some {\bf obstacles} don't require a roll to overcome. You'll just do it
 and keep going, much as you get dressed in the morning or drive your car
-to work. We call these kinds or contests {\bf assured} contests because
+to work. We call these kinds of contests {\bf assured} contests because
 your {\bf victory} is assured. Your GM may want to describe your
 {\bf victory} as a sweat inducing challenge for you, even though there
 is no risk of {\bf defeat}, to highlight the heroic struggle of your PC
@@ -706,7 +703,7 @@ typical commuter.
 {\bf Assured contests} are the GM's primary tool to establish your
 character's competence. This makes them one of the most powerful and
 frequently used tools in a GM's tool chest. Remember, your GM doesn't
-have to, and usually shouldn't advise you you're involved in an
+have to, and usually shouldn't, advise you you're involved in an
 {\bf assured contest}, so it's best to treat all {\bf contests} as if
 your skin is on the line.
 
@@ -721,23 +718,23 @@ story to continue, over becoming mired due to a missed roll and missing
 clue.
 
 Sometimes your GM will decide potential complications could arise in
-overcoming an {\bf story obstacle}. Or they may want to give you a
+overcoming a {\bf story obstacle}. Or they may want to give you a
 {\bf bonus} if you do particularly well. If so, they will call for you
 to make a die roll even though your {\bf victory} is not in question.
 Your GM will use your die roll {\bf result} to decide if any unforeseen
 {\bf consequences} or {\bf benefits} arose from your actions.
 
 If you roll a {\bf failure}, you still beat the obstacle, but you also
-suffer an adverse {\bf consequence} (see §2.7). The nature of this
+suffer an adverse {\bf consequence} (see §2.7.1). The nature of this
 adversity is up to the GM. It will probably be a {\bf penalty} involving
 the same tactic you used in this one (because you exhausted yourself,
 sprained an ankle, embarrassed yourself in front of your peers, etc.) or
 to the value of one of your relationships.
 
 If you achieve a high {\bf result}, you'll receive a {\bf benefit} from
-your effort (see §2.6). Again, this is up to the GM to define. It could
-be a {\bf bonus} to the {\bf tactic} used in the {\bf contest}, or to of
-one of your relationships, etc.
+your effort (see §2.7.2). Again, this is up to the GM to define. It
+could be a {\bf bonus} to the {\bf tactic} used in the {\bf contest}, or
+to of one of your relationships, etc.
 
 {\bf Fumbles} and {\bf criticals} always result in an unexpected
 difficulty or reward!
@@ -766,9 +763,9 @@ An {\bf assured contest} can be summarized as follows:
 \subsubsection[title={Simple Contest},reference={simple-contest}]
 
 The {\bf simple contest} is {\em QuestWorlds}' primary resolution
-mechanic for overcoming {\bf story obstacles}, and is used the most
-often where the outcome is uncertain. It also provides the foundation
-for other types of uncertain {\bf contest}, including several {\bf long}
+mechanic for overcoming {\bf story obstacles}, and is used most often
+where the outcome is uncertain. It also provides the foundation for
+other types of uncertain {\bf contest}, including several {\bf long}
 ones. As such, it receives both an overview of key concepts here as well
 as a more detailed treatment in §4.
 
@@ -807,7 +804,7 @@ agreeing on:
 \item
   What the {\bf story obstacle} is you are trying to overcome.
 \item
-  What {\bf tactic} you are using to and overcome it.
+  What {\bf tactic} you are using to overcome it.
 \stopitemize
 
 This process is called {\bf framing the contest}.
@@ -868,7 +865,7 @@ against, and so lets you describe heading down to the spaceport to
 secure a ship, meeting the captain and crew of your vessel, and
 traveling to the next world. Your GM encourages you to summarize what
 happens quickly so you can get to the meeting with the old rebel. Your
-GM knows that will be the real {\bf story obstacle}, convincing the old
+GM knows that will be the real {\bf story obstacle}: convincing the old
 rebel to part with their secrets.
 
 \subsubsection[title={Tactics},reference={tactics}]
@@ -880,7 +877,7 @@ call this choosing a {\bf tactic}.
 
 The {\bf rating} from your {\bf ability score}, after adding any
 {\bf augment} (see §2.5) or {\bf modifiers} (see §2.4), relevant
-{\bf consequences} or {\bf benefits} (see §2.6) is your {\bf target
+{\bf consequences} or {\bf benefits} (see §2.7) is your {\bf target
 number}.
 
 Your {\bf tactic} might describe your using an {\bf ability} that helps
@@ -895,27 +892,27 @@ you fail to overcome the {\bf story obstacle}, not just fail at one
 task.
 
 When deciding on your {\bf tactic}, focus on how your unique abilities
-would help you overcome the {\bf story obstacle}. This as the
-\quotation{key moment} where we focus on your PC. Use this moment to
-reveal your PC's strengths to the group.
+would help you overcome the {\bf story obstacle}. This as the \quote{key
+moment} where we focus on your PC. Use this moment to reveal your PC's
+strengths to the group.
 
 Your GM will determine if your {\bf tactic} passes a {\bf credibility
-test}. If you try to jump a 100 meters gap or run faster than a speeding
+test}. If you try to jump a 100 meter gap or run faster than a speeding
 car, your action is not credible and your GM will ask you to choose a
 different {\bf tactic}.
 
 Credibility depends on the genre, as what is not credible in a gritty
-police procedural might be in pulp where you might be able to leap from
+police procedural might be in pulp, where you might be able to leap from
 a bridge onto a speeding train. If in dispute, your GM should discuss
 with the group whether they consider your {\bf tactic} credible for the
 genre.
 
 {\bf Extraordinary abilities} in some genres give you the capability to
 do the incredible. For example in a superhero genre you might fly or be
-invulnerable to bullets, in a fantasy genre hurl magical lightning
-bolts. A genre pack for the game should help define what incredible
-{\bf tactics} are allowed for that game as part of an {\em Extraordinary
-Powers Framework}.
+invulnerable to bullets, while in a fantasy genre you might hurl magical
+lightning bolts. A genre pack for the game should help define what
+incredible {\bf tactics} are allowed for that game as part of an
+{\em Extraordinary Powers Framework}.
 
 The GM can narrate the remaining tasks that make sense of the story
 depending on your {\bf success} with that roll, or have them occur
@@ -939,7 +936,8 @@ That adjustment may come from an {\bf augment} (see §2.5),
 §2.7). Your GM also uses the same {\bf rank} when determining the
 {\bf resistance}.
 
-Bonuses to the dice roll use the scale of values: +3, +6. +9, +M, +M2
+Bonuses to the dice roll use the scale of values: +3, +6. +9, +M,
++M2\crlf
 Penalties to the dice roll use the scale of values: −3, −6, −9, −M, −M2
 
 You should be able to memorize these values in play, and just go up or
@@ -1010,7 +1008,7 @@ convenience the following table shows the scale of {\bf ranks}.
 Your GM chooses a {\bf resistance} to represent the difficulty of the
 {\bf story obstacle}.
 
-When setting {\bf resistance}s it is important to understand that whilst
+When setting {\bf resistances} it is important to understand that whilst
 traditional roleplaying games simulate an imaginary reality,
 {\em QuestWorlds} emulates the techniques of fictional storytelling.
 
@@ -1019,7 +1017,7 @@ natural, seamless manner.
 
 For example, let's say that your GM is playing a game inspired by
 fast-paced, non-fantastic, martial arts movies in a contemporary
-setting. You are running along a bridge, pacing a hovercraft, piloted by
+setting. You are running along a bridge, pacing a hovercraft piloted by
 the main bad guy. You want your character, Joey Chun, to jump onto the
 hovercraft and punch the villain's lights out.
 
@@ -1042,9 +1040,9 @@ current sequence, and how long it has been since you last scored a
 thrilling {\bf victory}. If, after this, they need further reference
 points, your GM can draw inspiration more from martial arts movies than
 the physics of real-life jumps from bridges onto moving hovercraft.
-Having decided how difficult the task ought to be dramatically,your GM
+Having decided how difficult the task ought to be dramatically, your GM
 will then supply the physical details as color, to justify their choice
-and create suspension of disbelief, the illusion of authenticity that
+and create suspension of disbelief---the illusion of authenticity that
 makes us accept fictional incidents as credible on their own terms. If
 they want Joey to have a high chance of {\bf success}, your GM describes
 the distance between bridge and vehicle as impressive (so it feels
@@ -1082,9 +1080,8 @@ the {\bf result}, a level of {\bf success} or {\bf failure} for the roll
   the {\bf TN} is 20), you succeed brilliantly. This is the best
   {\bf result} possible.
 \item
-  {\bf Success}: If the die roll is less than the {\bf TN} and not a
-  {\bf fumble}, you succeed, but there is nothing remarkable about the
-  success.
+  {\bf Success}: If the die roll is less than the {\bf TN}, you succeed,
+  but there is nothing remarkable about the success.
 \item
   {\bf Failure}: If the die roll is greater than the {\bf TN} but not a
   {\bf fumble}, you fail. Things do not happen as hoped.
@@ -1095,7 +1092,7 @@ the {\bf result}, a level of {\bf success} or {\bf failure} for the roll
 \stopitemize
 
 Note that whatever your {\bf result} the {\bf outcome} will depend on
-comparing your roll with your opponents. So you might *{\bf succeed},
+comparing your roll with your opponent's. So you might {\bf succeed},
 but still lose the {\bf prize}. At the same time, your GM should take
 into account your {\bf result} when narrating the {\bf outcome}, and not
 use your incompetence as a reason you failed to gain the {\bf prize} if
@@ -1138,7 +1135,7 @@ outcome. For example, if you {\bf succeeded}, but the {\bf resistance}
 {\bf succeeded} better, the GM should describe your actions as
 successful, but the {\bf resistance} as doing better. If your
 {\bf result} was a {\bf critical} and the {\bf resistance's}
-{\bf result} was a {\bf fumble} your GM should describe a crushing
+{\bf result} was a {\bf fumble}, your GM should describe a crushing
 {\bf defeat} in which your adversary is clearly outclassed.
 
 The GM is narrating a car chase through the busy streets of New Los
@@ -1149,18 +1146,17 @@ might interpret {\bf outcomes} as follows:
 \startitemize[packed]
 \item
   PC {\bf Success} ({\bf Better Roll}) vs.~Ath'Zul {\bf Success}:
-  Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of
+  Ath'Zul tries to shake the PCs, his hover bike weaving in and out of
   traffic, but the PCs are always on his tail, and catch him at the
   lights on Bradbury Junction.
 \item
   PC {\bf Success} vs.~Ath'Zul {\bf Failure}: Ath'Zul tries to shake the
-  PCs, his hover bike, weaving in and out of traffic, but the PCs force
+  PCs, his hover bike weaving in and out of traffic, but the PCs force
   him off the road, where his bike loses repulsor lift and halts.
 \item
   PC {\bf Success} vs.~Ath'Zul {\bf Fumble}: Ath'Zul tries to shake the
-  PCs, his hover bike, weaving in and out of traffic, but he crashes
-  into a parked car, spilling Ath'Zul and the stolen artefact over the
-  road.
+  PCs, his hover bike weaving in and out of traffic, but he crashes into
+  a parked car, spilling Ath'Zul and the stolen artefact over the road.
 \stopitemize
 
 Your GM should avoid robbing your PC of competence by describing your
@@ -1173,12 +1169,12 @@ Your GM will describe most tied {\bf outcomes} as inconclusive
 standoffs, in which neither of you gets what you wanted.
 
 In some situations, ties become difficult to visualize. Chief among
-these are {\bf contest}s with binary {\bf outcomes}, where only two
+these are {\bf contests} with binary {\bf outcomes}, where only two
 possible results are conceivable.
 
 Your GM can either change the situation on such a tie, introducing a new
 element that likely renders the original {\bf prize} irrelevant to both
-participants, or they can resolve the ties in your favor as a
+participants, or they can resolve the tie in your favor as a
 {\bf victory}.
 
 \subsection[title={Bumps},reference={bumps}]
@@ -1220,8 +1216,8 @@ with no {\bf masteries}. If you have an advantage of two or more
 {\bf masteries} over an opponent, you can pretty much count on pounding
 them into the dust.
 
-This allows {\em QuestWorlds} to represent large differences in ability
-or {\bf resistance}.
+This allows {\em QuestWorlds} to represent large differences in
+{\bf ability} or {\bf resistance}.
 
 If the {\bf resistance} is one or more levels of {\bf mastery} greater
 than you, your GM can {\bf bump} up their roll.
@@ -1246,7 +1242,7 @@ critical. {\bf Bump} down your opponent's result for each mastery
 remaining. So against a {\bf resistance} of 14, if you have an
 {\bf ability} of 7M, you have one {\bf bump} of the result. If you
 {\bf critical} and the resistance gets a {\bf success}, then as you
-cannot {\bf bump} up from your critical, then you instead {\bf bump} the
+cannot {\bf bump} up from your critical, you instead {\bf bump} the
 resistance down to a {\bf failure.}
 
 If the {\bf resistance} has unspent {\bf bumps} then the GM can
@@ -1255,10 +1251,10 @@ If the {\bf resistance} has unspent {\bf bumps} then the GM can
 \subsubsection[title={Bump Up with Negative
 Mastery},reference={bump-up-with-negative-mastery}]
 
-If you are facing a {\bf resistance} that has negative {\bf mastery}
-then your GM should treat is as an {\bf assured contest}. If the GM
-wants you to roll, to find out how well you did, your roll is
-{\bf bumped} up by the {\bf resistance}.
+If you are facing a {\bf resistance} that has negative {\bf mastery},
+your GM should treat it as an {\bf assured contest}. If the GM wants you
+to roll, to find out how well you did, your roll is {\bf bumped} up by
+the {\bf resistance}.
 
 \section[title={Modifiers},reference={modifiers}]
 
