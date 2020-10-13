@@ -5203,7 +5203,7 @@ utilitydata.job.positions.collected={
   ["hs"]=22376157,
   ["p"]=35,
   ["x"]=2424083,
-  ["y"]=6196270,
+  ["y"]=6200200,
  },
  ["p:399"]={
   ["d"]=246489,
@@ -14678,7 +14678,7 @@ utilitydata.structures.lists.collected={
    ["tag"]=48,
    ["used"]="fit",
    ["x"]=24800240,
-   ["y"]=7822461,
+   ["y"]=7826391,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -14701,7 +14701,7 @@ utilitydata.structures.lists.collected={
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Act according to your flaw",
+   ["title"]="Act According to Your Flaw",
   },
  },
  {

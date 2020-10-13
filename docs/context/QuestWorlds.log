@@ -66,7 +66,7 @@ backend         > export > fuzzy paragraph: S (U+00053) i (U+00069) t (U+00074) 
 backend         > export > fuzzy paragraph: A (U+00041) u (U+00075) g (U+00067) m (U+0006D) e (U+00065) n (U+0006E) t (U+00074) s (U+00073)
 backend         > export > fuzzy paragraph: F (U+00046) l (U+0006C) a (U+00061) w (U+00077) s (U+00073)
 backend         > export > fuzzy paragraph: H (U+00048) i (U+00069) n (U+0006E) d (U+00064) r (U+00072) a (U+00061) n (U+0006E) c (U+00063) e (U+00065)
-backend         > export > fuzzy paragraph: A (U+00041) c (U+00063) t (U+00074) [space] a (U+00061) c (U+00063) c (U+00063) o (U+0006F) r (U+00072) d (U+00064) i (U+00069) n (U+0006E) g (U+00067) [space] t (U+00074) o (U+0006F) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] 󰂵 (U+F00B5) a (U+00061) w (U+00077)
+backend         > export > fuzzy paragraph: A (U+00041) c (U+00063) t (U+00074) [space] A (U+00041) c (U+00063) c (U+00063) o (U+0006F) r (U+00072) d (U+00064) i (U+00069) n (U+0006E) g (U+00067) [space] t (U+00074) o (U+0006F) [space] Y (U+00059) o (U+0006F) u (U+00075) r (U+00072) [space] F (U+00046) l (U+0006C) a (U+00061) w (U+00077)
 backend         > export > fuzzy paragraph: B (U+00042) e (U+00065) n (U+0006E) e (U+00065) 󰂲 (U+F00B2) t (U+00074) s (U+00073) [space] a (U+00061) n (U+0006E) d (U+00064) [space] C (U+00043) o (U+0006F) n (U+0006E) s (U+00073) e (U+00065) q (U+00071) u (U+00075) e (U+00065) n (U+0006E) c (U+00063) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: C (U+00043) o (U+0006F) n (U+0006E) s (U+00073) e (U+00065) q (U+00071) u (U+00075) e (U+00065) n (U+0006E) c (U+00063) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: B (U+00042) e (U+00065) n (U+0006E) e (U+00065) 󰂲 (U+F00B2) t (U+00074) s (U+00073)
@@ -414,8 +414,8 @@ structure       > sectioning > subsection @ level 4 : 0.3.4.2 -> Situational Mod
 structure       > sectioning > section @ level 3 : 0.3.5 -> Augments
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034)
 backend         > export > fuzzy paragraph: M (U+0004D) o (U+0006F) d (U+00064) i (U+00069) ﬁ (U+0FB01) e (U+00065) r (U+00072) s (U+00073)
-backend         > export > fuzzy paragraph: , (U+0002C) [space] m (U+0006D) a (U+00061) y (U+00079) [space] r (U+00072) a (U+00061) i (U+00069) s (U+00073) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] h (U+00068) i (U+00069) g (U+00067) h (U+00068) [space] e (U+00065) n (U+0006E) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) o (U+0006F) [space] g (U+00067) a (U+00061) i (U+00069) n (U+0006E) [space] a (U+00061) [space] m (U+0006D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079) , (U+0002C) [space] i (U+00069) n (U+0006E) [space] w (U+00077) h (U+00068) i (U+00069) c (U+00063) h (U+00068) [space] c (U+00063) a (U+00061) s (U+00073) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) [space] g (U+00067) e (U+00065) t (U+00074) [space] t (U+00074) h (U+00068) e (U+00065) [space] b (U+00062) u (U+00075) m (U+0006D) p (U+00070) s (U+00073) [space] u (U+00075) p (U+00070) [space] o (U+0006F) r (U+00072)
-backend         > export > fuzzy paragraph: , (U+0002C) [space] m (U+0006D) a (U+00061) y (U+00079) [space] l (U+0006C) o (U+0006F) w (U+00077) e (U+00065) r (U+00072) [space] a (U+00061) n (U+0006E) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] t (U+00074) o (U+0006F) [space] t (U+00074) h (U+00068) e (U+00065) [space] p (U+00070) o (U+0006F) i (U+00069) n (U+0006E) t (U+00074) [space] w (U+00077) h (U+00068) e (U+00065) r (U+00072) e (U+00065) [space] i (U+00069) t (U+00074) [space] l (U+0006C) o (U+0006F) s (U+00073) e (U+00065) s (U+00073) [space] o (U+0006F) n (U+0006E) e (U+00065) [space] o (U+0006F) r (U+00072) [space] m (U+0006D) o (U+0006F) r (U+00072) e (U+00065) [space] m (U+0006D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) i (U+00069) e (U+00065) s (U+00073) . (U+0002E) [space] I (U+00049) n (U+0006E) [space] t (U+00074) h (U+00068) i (U+00069) s (U+00073) [space] c (U+00063) a (U+00061) s (U+00073) e (U+00065) , (U+0002C) [space] y (U+00079) o (U+0006F) u (U+00075) [space] l (U+0006C) o (U+0006F) s (U+00073) e (U+00065) [space] t (U+00074) h (U+00068) e (U+00065)
+backend         > export > fuzzy paragraph: m (U+0006D) a (U+00061) y (U+00079) [space] r (U+00072) a (U+00061) i (U+00069) s (U+00073) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] h (U+00068) i (U+00069) g (U+00067) h (U+00068) [space] e (U+00065) n (U+0006E) o (U+0006F) u (U+00075) g (U+00067) h (U+00068) [space] t (U+00074) o (U+0006F) [space] g (U+00067) a (U+00061) i (U+00069) n (U+0006E) [space] a (U+00061) [space] m (U+0006D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) y (U+00079) , (U+0002C) [space] i (U+00069) n (U+0006E) [space] w (U+00077) h (U+00068) i (U+00069) c (U+00063) h (U+00068) [space] c (U+00063) a (U+00061) s (U+00073) e (U+00065) [space] y (U+00079) o (U+0006F) u (U+00075) [space] g (U+00067) e (U+00065) t (U+00074) [space] t (U+00074) h (U+00068) e (U+00065) [space] b (U+00062) u (U+00075) m (U+0006D) p (U+00070) s (U+00073) [space] u (U+00075) p (U+00070) [space] o (U+0006F) r (U+00072)
+backend         > export > fuzzy paragraph: m (U+0006D) a (U+00061) y (U+00079) [space] l (U+0006C) o (U+0006F) w (U+00077) e (U+00065) r (U+00072) [space] a (U+00061) n (U+0006E) [space] a (U+00061) b (U+00062) i (U+00069) l (U+0006C) i (U+00069) t (U+00074) y (U+00079) [space] t (U+00074) o (U+0006F) [space] t (U+00074) h (U+00068) e (U+00065) [space] p (U+00070) o (U+0006F) i (U+00069) n (U+0006E) t (U+00074) [space] w (U+00077) h (U+00068) e (U+00065) r (U+00072) e (U+00065) [space] i (U+00069) t (U+00074) [space] l (U+0006C) o (U+0006F) s (U+00073) e (U+00065) s (U+00073) [space] o (U+0006F) n (U+0006E) e (U+00065) [space] o (U+0006F) r (U+00072) [space] m (U+0006D) o (U+0006F) r (U+00072) e (U+00065) [space] m (U+0006D) a (U+00061) s (U+00073) t (U+00074) e (U+00065) r (U+00072) i (U+00069) e (U+00065) s (U+00073) . (U+0002E) [space] I (U+00049) n (U+0006E) [space] t (U+00074) h (U+00068) i (U+00069) s (U+00073) [space] c (U+00063) a (U+00061) s (U+00073) e (U+00065) , (U+0002C) [space] y (U+00079) o (U+0006F) u (U+00075) [space] l (U+0006C) o (U+0006F) s (U+00073) e (U+00065) [space] t (U+00074) h (U+00068) e (U+00065)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: S (U+00053) t (U+00074) r (U+00072) e (U+00065) t (U+00074) c (U+00063) h (U+00068) e (U+00065) s (U+00073)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 4 (U+00034) . (U+0002E) 2 (U+00032)
@@ -429,11 +429,11 @@ backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 6 (U+00036)
 backend         > export > fuzzy paragraph: F (U+00046) l (U+0006C) a (U+00061) w (U+00077) s (U+00073)
 pages           > flushing realpage 21, userpage 21, subpage 21
 structure       > sectioning > subsection @ level 4 : 0.3.6.1 -> Hindrance
-structure       > sectioning > subsection @ level 4 : 0.3.6.2 -> Act according to your flaw
+structure       > sectioning > subsection @ level 4 : 0.3.6.2 -> Act According to Your Flaw
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 6 (U+00036) . (U+0002E) 1 (U+00031)
 backend         > export > fuzzy paragraph: H (U+00048) i (U+00069) n (U+0006E) d (U+00064) r (U+00072) a (U+00061) n (U+0006E) c (U+00063) e (U+00065)
 backend         > export > fuzzy paragraph: 2 (U+00032) . (U+0002E) 6 (U+00036) . (U+0002E) 2 (U+00032)
-backend         > export > fuzzy paragraph: A (U+00041) c (U+00063) t (U+00074) [space] a (U+00061) c (U+00063) c (U+00063) o (U+0006F) r (U+00072) d (U+00064) i (U+00069) n (U+0006E) g (U+00067) [space] t (U+00074) o (U+0006F) [space] y (U+00079) o (U+0006F) u (U+00075) r (U+00072) [space] ﬂ (U+0FB02) a (U+00061) w (U+00077)
+backend         > export > fuzzy paragraph: A (U+00041) c (U+00063) t (U+00074) [space] A (U+00041) c (U+00063) c (U+00063) o (U+0006F) r (U+00072) d (U+00064) i (U+00069) n (U+0006E) g (U+00067) [space] t (U+00074) o (U+0006F) [space] Y (U+00059) o (U+0006F) u (U+00075) r (U+00072) [space] F (U+00046) l (U+0006C) a (U+00061) w (U+00077)
 pages           > flushing realpage 22, userpage 22, subpage 22
 structure       > sectioning > section @ level 3 : 0.3.7 -> Benefits and Consequences
 structure       > sectioning > subsection @ level 4 : 0.3.7.1 -> Consequences
@@ -1606,10 +1606,10 @@ system          > start used files
 
 system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/char-prv.lua fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/char-prv.lua usedmethod=database
 system          >    2: filename=cont-yes.mkiv filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
-system          >    3: filename=publ-imp-default.lua filetype=lua foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
 system          >    4: filename=cont-new.mkiv filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/cont-new.mkiv fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
-system          >    5: filename=lang-exc.lua filetype=lua foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
-system          >    6: filename=lang-us.lua filetype=lua foundname=/usr/local/texlive/2020/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/local/texlive/2020/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    5: filename=lang-exc.lua filetype=scripts foundname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=/usr/local/texlive/2020/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    6: filename=lang-us.lua filetype=scripts foundname=/usr/local/texlive/2020/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/local/texlive/2020/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
 system          >    7: filename=/Users/kynnin/Projects/Questworlds/SRD/docs/context/QuestWorlds.tex foundname=/Users/kynnin/Projects/Questworlds/SRD/docs/context/QuestWorlds.tex fullname=/Users/kynnin/Projects/Questworlds/SRD/docs/context/QuestWorlds.tex usedmethod=direct
 system          >    8: filename=lm.lfg filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/fonts/mkiv/lm.lfg fullname=/usr/local/texlive/2020/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
 system          >    9: filename=lm-math.lfg filetype=tex foundname=/usr/local/texlive/2020/texmf-dist/tex/context/fonts/mkiv/lm-math.lfg fullname=/usr/local/texlive/2020/texmf-dist/tex/context/fonts/mkiv/lm-math.lfg usedmethod=database
@@ -1667,20 +1667,20 @@ modules         > stop used modules
 
 mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable+writable: '/Users/kynnin/Library/texlive/2020/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
-mkiv lua stats  > resource resolver: loadtime 0.138 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 30 found files, scanned paths: /Users/kynnin/Library/texmf
-mkiv lua stats  > stored bytecode data: 450 modules (0.322 sec), 93 tables (0.013 sec), 543 chunks (0.335 sec)
+mkiv lua stats  > resource resolver: loadtime 0.139 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 30 found files, scanned paths: /Users/kynnin/Library/texmf
+mkiv lua stats  > stored bytecode data: 450 modules (0.324 sec), 93 tables (0.013 sec), 543 chunks (0.337 sec)
 mkiv lua stats  > traced context: maxstack: 1399, freed: 1, unreachable: 1398
 mkiv lua stats  > cleaned up reserved nodes: 64 nodes, 9 lists of 442
 mkiv lua stats  > node memory usage: 2224 attribute, 448 attribute_list, 8 glue, 52 glue_spec, 3 kern, 3 penalty, 2 temp, 2 user_defined
 mkiv lua stats  > node list callback tasks: 8 unique task lists, 226 instances (re)created, 23205 calls
-mkiv lua stats  > h-node processing time: 1.491 seconds including kernel
-mkiv lua stats  > inserted spaces in output: 32876
-mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 10466 objects flushed, logfile: QuestWorlds.synctex
-mkiv lua stats  > attribute processing time: 0.110 seconds front- and backend
-mkiv lua stats  > driver time: 0.208 seconds 
+mkiv lua stats  > h-node processing time: 1.506 seconds including kernel
+mkiv lua stats  > inserted spaces in output: 32871
+mkiv lua stats  > synctex tracing: 3 referenced files, 4 files ignored, 10465 objects flushed, logfile: QuestWorlds.synctex
+mkiv lua stats  > attribute processing time: 0.109 seconds front- and backend
+mkiv lua stats  > driver time: 0.207 seconds 
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.050 seconds saving, 0.014 seconds loading
-mkiv lua stats  > callbacks: internal: 41264, file: 9027, direct: 115, late: 12862, function 28039, total: 91307 (1217 per page)
+mkiv lua stats  > jobdata time: 0.051 seconds saving, 0.019 seconds loading
+mkiv lua stats  > callbacks: internal: 41264, file: 9027, direct: 115, late: 12861, function 28039, total: 91306 (1217 per page)
 mkiv lua stats  > randomizer: resumed with value 0.94498985214159
 mkiv lua stats  > positions: 1201 collected, 1185 regular, 16 special
 mkiv lua stats  > v-node processing time: 0.071 seconds 
@@ -1690,12 +1690,12 @@ mkiv lua stats  > structure elements: 4183 element chains identified
 mkiv lua stats  > interactive elements: 178 references, 337 destinations
 mkiv lua stats  > margin data: 216 entries, 0 pending
 mkiv lua stats  > loaded fonts: 13 files: cmunbi.otf, cmunbx.otf, cmunrm.otf, cmunti.otf, ebgaramond-italic.otf, ebgaramond-regular.otf, ebgaramond-semibold.otf, ebgaramond-semibolditalic.otf, latinmodern-math.otf, lmmono10-regular.otf, lmsans10-bold.otf, lmsans10-boldoblique.otf, lmsans10-regular.otf
-mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 35 instances, 20 shared in backend, 2 common vectors, 18 common hashes, load time 0.384 seconds 
+mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 35 instances, 20 shared in backend, 2 common vectors, 18 common hashes, load time 0.374 seconds 
 mkiv lua stats  > graphics processing time: 0.002 seconds including tex, 2 processed images, 2 unique asked, 2 bad names
 mkiv lua stats  > pdf annotations: 178 links (178 unique), 0 special
 mkiv lua stats  > used platform: osx-ppc, type: unix, binary subtree: bin
 mkiv lua stats  > used engine: luatex version: 1.12, functionality level: 7306, banner: this is luatex, version 1.12.0 (tex live 2020)
 mkiv lua stats  > control sequences: 46508 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 230 MB, ctx: 227 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 5.316 seconds, 76 processed pages, 76 shipped pages, 14.296 pages/second
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 233 MB, ctx: 231 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 5.341 seconds, 76 processed pages, 76 shipped pages, 14.230 pages/second
 

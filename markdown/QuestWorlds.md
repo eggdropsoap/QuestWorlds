@@ -484,9 +484,9 @@ Your **score** represents a general **ability** to succeed in the narrative, but
 
 Positive modifiers are called **bonuses**; negative modifiers are called **penalties**.
 
-**Bonuses**, may raise your **ability** high enough to gain a **mastery**, in which case you get the **bumps** up or down that a **mastery** would normally supply.
+**Bonuses** may raise your **ability** high enough to gain a **mastery**, in which case you get the **bumps** up or down that a **mastery** would normally supply.
 
-**Penalties**, may lower an **ability** to the point where it loses one or more **masteries**. In this case, you lose the **bumps** up or down you would normally get.
+**Penalties** may lower an **ability** to the point where it loses one or more **masteries**. In this case, you lose the **bumps** up or down you would normally get.
 
 Your GM should only use modifiers to alter your **target number** due to unusual circumstances you helped to create, or have some control over. If an unusual situation applies to a **resistance**, the GM should choose a **resistance** that reflects that. Modifiers never apply to the **resistance**.
 
@@ -498,7 +498,7 @@ When you propose an action using an **ability** that seems completely inappropri
 
 In some cases, though, your proposed match-up of action and **ability** is only somewhat implausible. A successful attempt with it wouldn’t completely break the illusion of fictional reality—just stretch it a bit.
 
-Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a −3, −6, −9 **penalty**, or a **bump** down, to their **target number**, depending on how incredible the **stretch** seems to the GM and other players. Your GM should **penalize** players who try to create a 'do anything' **ability** that they then **stretch** to gain from raising fewer **abilities** in advancement to ensure balance with other PCs.
+Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a −3, −6, −9 **penalty**, or a **bump** down to their **target number**, depending on how incredible the **stretch** seems to the GM and other players. Your GM should **penalize** players who try to create a 'do anything' **ability** that they then **stretch** to gain from raising fewer **abilities** in advancement, to ensure balance with other PCs.
 
 A default **stretch penalty** should be −6.
 
@@ -510,25 +510,25 @@ Your GM should not impose **stretch penalties** on action descriptions that add 
 
 Your GM may also impose **modifiers** when, given the description of the current situation, believability demands that you should face a notable **bonus** or **penalty**. Your GM should choose **modifiers** of +6, +3, –3, or –6. **Modifiers** of less than 3 don’t exert enough effect to be worth the bother. Those higher than 6 give the situational **modifier** a disproportionate role in determining **outcomes**.
 
-During a **long contest**, they should typically last for a single **round**, and reflect clever or foolish choices.
+During a **long contest**, they should typically last for a single **round** and reflect clever or foolish choices.
 
 ## 2.5 Augments
 
-You may sometimes face **contests** where more than one **ability** may be applicable to the conflict at hand. In such cases, you may attempt to use one **ability** to give a supporting bonus to the main ability you are using to frame the **contest**. This is called an **augment**. For example, if your character has the **abilities** "The Queen's Intelligencer" and "Master of Disguise", you might use the latter to **augment** the former when infiltrating a rival nation's capitol. Similarly, a character with "Knight Errant" and "My Word is my Bond" **abilities** might use one to **augment** the other when in conflict with a **story obstacle** the character has sworn to overcome.
+You may sometimes face **contests** where more than one **ability** may be applicable to the conflict at hand. In such cases, you may attempt to use one **ability** to give a supporting bonus to the main ability you are using to frame the **contest**. This is called an **augment**. For example, if your character has the **abilities** "The Queen's Intelligencer" and "Master of Disguise," you might use the latter to **augment** the former when infiltrating a rival nation's capital. Similarly, a character with "Knight Errant" and "My Word is my Bond" **abilities** might use one to **augment** the other when in conflict with a **story obstacle** the character has sworn to overcome.
 
 Abilities that represent special items, weapons, armor, or other noteworthy equipment can be a common source of **augments**. However, this grows tired if over-used and you should try and restrict repeated use  of equipment in this way to **contests** where they are particularly interesting or apropos.
 
-**Augments** can also come from other characters' **abilities** if one character uses an **ability** to support another's efforts rather than directly engaging in the **contest**. **Augments** can even come from outside resources like support from a community, see §8, or other circumstantial help.
+**Augments** can also come from other characters' **abilities** if one character uses an **ability** to support another's efforts rather than directly engaging in the **contest**. **Augments** can even come from outside resources like support from a community (see §9) or other circumstantial help.
 
-If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**, their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck", be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
+If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**: their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck," be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
 
-You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword**, or another **breakout** from the parent **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
+You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment its parent **keyword** or another **breakout** from the parent **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
 
 If your GM accepts your **augment** proposal, it will be resolved by one of the methods below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **score** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
 
-To grant an **augment** to yourself, or another PC, in an upcoming **contest**, your GM decides how uncertain the benefit of your **ability** is to the contest. In some genres, certain abilities, such as magic in a fantasy setting, may always be uncertain. 
+To grant an **augment** to yourself or another PC in an upcoming **contest**, your GM decides how uncertain the benefit of your **ability** is to the contest. In some genres, certain abilities, such as magic in a fantasy setting, may always be uncertain. 
 
-If use of the **ability** to augment seems unlikely to fail, your GM may treat it as an **assured contest**. As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or relationships.
+If use of the **ability** to augment seems unlikely to fail, your GM may treat it as an **assured contest**. As with any **assured contest**, the GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or relationships.
 
 If your GM decides it is uncertain whether your **ability** can **augment** this contest, you engage in a **simple contest** against the **base resistance** before the main contest begins to determine whether the **augment** attempt results in an advantage. Frame this **augment contest** with your GM, making it clear how your supporting **ability** will achieve the goal of making your **ability** in the main **contest** more effective. **Augment contests** may not themselves be **augmented**, and if your **augment** attempt ends in **defeat**, you may not make another attempt at an **augment** for the main **contest**.
 
@@ -536,21 +536,21 @@ If you are victorious in the **augment contest**, your GM will award a **bonus**
 
 ## 2.6 Flaws
 
-During play your GM may decide that your **flaw** has been triggered. A **flaw** might apply to the **tactic** you are using in upcoming **contest**, when it is called a **hindrance** (see §2.6.1). Alternatively a **flaw** might simply come into play when you want to describe your PC acting in a certain way, and your GM feels that one of your **flaws** could prevent this, or your GM feels that a situation raises a challenge that means one of your **flaw** means would lead to you responding in a certain way. (see §2.6.2).
+During play your GM may decide that your **flaw** has been triggered. A **flaw** might apply to the **tactic** you are using in an upcoming **contest**, when it is called a **hindrance** (see §2.6.1). Alternatively a **flaw** might simply come into play when you want to describe your PC acting in a certain way and your GM feels that the **flaw** could prevent this, or your GM feels that a situation raises a challenge in which your **flaw** could lead you to respond in a certain way (see §2.6.2).
 
 ### 2.6.1 Hindrance
 
-if you describe a **tactic** for a **contest** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to. Your GM should trigger a **hindrance** from a **keyword** more frequently than from a stand-alone **ability** that is not a **flaw**. Your GM may treat their use of an **keyword** as a **flaw** as a **stretch** when invoking it.
+If you describe a **tactic** for a **contest** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to. Your GM should trigger a **hindrance** from a **keyword** more frequently than from a stand-alone **ability** that is not a **flaw**. Your GM may treat their use of an **keyword** as a **flaw** as a **stretch** when invoking it.
 
-Your GM should follow a similar approach to **augments** when applying a **hindrance** (see §2.5). They should ask themselves if it is *fresh*, *interesting* or *illuminates character*. In a movie of book would your **flaw** be prominent here?
+Your GM should follow a similar approach to **augments** when applying a **hindrance** (see §2.5). They should ask themselves if it is *fresh*, *interesting* or *illuminates character*. In a movie or book would your **flaw** be prominent here?
 
-If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of −3 or −6 depending on how serious a handicap the **flaw** is. (This is, in effect a reverse **assured contest** in the GM's favor). You may also suggest to the GM that you feel the **flaw** would apply without a **contest**.
+If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest, they apply a **penalty** of −3 or −6 depending on how serious a handicap the **flaw** is. (This is in effect a reverse **assured contest** in the GM's favor). You may also suggest to the GM that you feel the **flaw** would apply without a **contest**.
 
 If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** of −3 or −6 depending on how significant a **hindrance** your GM feels the flaw is to your **tactic**. On a **defeat**, you overcome the **flaw**. You may want to describe how you overcome your **flaw** to use your **tactic**.
 
 When you experience a **penalty** due to a flaw, you gain an **experience point** (see §8.1).
 
-### 2.6.2 Act according to your flaw
+### 2.6.2 Act According to Your Flaw
 
 At times the direction of the story you are all telling may place your PC in situations when it seems likely they would act according to their **flaw**. The addict may reach for drink or drugs following an emotional setback, a lust for vengeance may come between your PC and showing mercy, prejudices or bigotry may prevent your from seeing others positively.  
 
